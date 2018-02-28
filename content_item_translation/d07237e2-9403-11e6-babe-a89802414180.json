@@ -1,0 +1,19 @@
+{
+    "uuid": "d07237e2-9403-11e6-babe-a89802414180",
+    "content_item_id": "9bce882d-2b51-11e5-890e-902b34691136",
+    "content_passage_id": null,
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "\u00bfCu\u00e1l es el cociente cuando 4<i>x<\/i><sup>2<\/sup> <math>\n <mo>\u2212<\/mo>\n<\/math>36 es dividido por <i>x<\/i> + 3?",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "El m\u00e9todo m\u00e1s f\u00e1cil es factorizar el numerador y ver si hay un m\u00faltiplo del denominador. Todos los t\u00e9rminos del numerados son factores de 4, entonces comience por factorizar el 4.<p><\/p><br\/>\n<math> <mtable><mtr><mtd>\u00a0\u00a0 \n<mfrac><mrow><mn>4<\/mn><msup>\n<mi>x<\/mi><mn>2<\/mn><\/msup>\n<mo>\u2212<\/mo><mn>36<\/mn><\/mrow>\n<mrow><mi>x<\/mi><mo>+<\/mo><mn>3<\/mn><\/mrow>\n<\/mfrac>\n<mo>=<\/mo>\n<mrow><mfrac><mrow><mn>4<\/mn><mo>(<\/mo>\n<msup><mi>x<\/mi><mn>2<\/mn><\/msup>\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 <mo>\u2212<\/mo><mn>9<\/mn><mo>)<\/mo><\/mrow>\n<mrow><mi>x<\/mi><mo>+<\/mo><mn>3<\/mn><\/mrow>\u00a0\u00a0\u00a0\u00a0\u00a0 <\/mfrac>\n<\/mrow>\n<\/mtd><\/mtr><mtr><mtd>\n<mo>=<\/mo><mfrac>\n<mrow><mrow><mn>4<\/mn><mo>(<\/mo>\n<mrow><mi>x<\/mi><mo>\u2212<\/mo><mn>3<\/mn><\/mrow>\n<mo>)<\/mo><\/mrow><mrow><mo>(<\/mo>\n<mrow><mi>x<\/mi><mo>+<\/mo><mn>3<\/mn><\/mrow>\n<mo>)<\/mo><\/mrow><\/mrow>\n<mrow><mi>x<\/mi><mo>+<\/mo><mn>3<\/mn><\/mrow>\n<\/mfrac>\n<\/mtd><\/mtr><mtr><mtd>\n<mo>=<\/mo><mn>4<\/mn><mrow><mo>(<\/mo>\n<mrow><mi>x<\/mi><mo>\u2212<\/mo><mn>3<\/mn><\/mrow>\n<mo>)<\/mo><\/mrow>\n<\/mtd> <\/mtr><\/mtable>\n<\/math>",
+    "intro_text": null,
+    "prefix": null,
+    "suffix": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

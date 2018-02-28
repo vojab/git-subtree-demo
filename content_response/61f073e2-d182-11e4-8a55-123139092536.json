@@ -1,0 +1,20 @@
+{
+    "content_item_id": "61d1c3e3-d182-11e4-8a55-123139092536",
+    "name": "The father has blue eyes, and the mother has blue eyes.",
+    "value": "The father has blue eyes, and the mother has blue eyes.",
+    "order": "5",
+    "order_locked": 0,
+    "feedback": null,
+    "score": 0,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "61f073e2-d182-11e4-8a55-123139092536",
+    "created_at": "2015-02-09 19:36:26",
+    "updated_at": "2015-03-25 21:53:11"
+}

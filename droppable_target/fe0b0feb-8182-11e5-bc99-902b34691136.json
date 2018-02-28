@@ -1,0 +1,15 @@
+{
+    "label": "3863-dot-2",
+    "content_item_id": "fd5a7915-8182-11e5-bc99-902b34691136",
+    "order": 2,
+    "enable_snap": 1,
+    "max_x": 310.5,
+    "max_y": 49,
+    "min_x": 302.5,
+    "min_y": 41,
+    "snap_x": null,
+    "snap_y": null,
+    "uuid": "fe0b0feb-8182-11e5-bc99-902b34691136",
+    "created_at": "2015-09-17 16:49:58",
+    "updated_at": "2015-11-02 17:13:42"
+}

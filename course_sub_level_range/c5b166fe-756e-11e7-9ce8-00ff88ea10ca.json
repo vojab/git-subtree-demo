@@ -1,0 +1,10 @@
+{
+    "uuid": "c5b166fe-756e-11e7-9ce8-00ff88ea10ca",
+    "course_id": "7cdbd018-282e-11e7-82e8-902b34691136",
+    "sub_level_id": "6779b2a7-756c-11e7-9ce8-00ff88ea10ca",
+    "min": 80,
+    "max": 100,
+    "level_designation_description": "Proficient in Writing",
+    "created_at": "2017-07-31 00:34:47",
+    "updated_at": "2017-07-31 00:34:47"
+}

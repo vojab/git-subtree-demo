@@ -1,0 +1,20 @@
+{
+    "content_item_id": "7dd61794-5b54-11e5-bc99-902b34691136",
+    "name": "The teenagers, littered the lake and played loud music.",
+    "value": "The teenagers, littered the lake and played loud music.",
+    "order": 5,
+    "order_locked": 0,
+    "feedback": null,
+    "score": 0,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "7e138cd8-5b54-11e5-bc99-902b34691136",
+    "created_at": "2015-09-09 14:46:22",
+    "updated_at": "2015-09-25 16:03:52"
+}

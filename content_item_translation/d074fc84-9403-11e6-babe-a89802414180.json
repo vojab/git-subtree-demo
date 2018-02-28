@@ -1,0 +1,19 @@
+{
+    "uuid": "d074fc84-9403-11e6-babe-a89802414180",
+    "content_item_id": "662365d2-dee1-11e5-9186-22000af4874e",
+    "content_passage_id": "765a8f56-9404-11e6-babe-a89802414180",
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "Seg\u00fan el pasaje, \u00bfcu\u00e1l es el objetivo principal del presidente Barack Obama en t\u00e9rminos de defensa nacional?",
+    "description": "El pasaje es un fragmento extra\u00eddo de la declaraci\u00f3n del presidente Barack Obama sobre la \u201cEstrategia de seguridad nacional\u201d, de mayo de 2010.El pasaje es un fragmento extra\u00eddo de la declaraci\u00f3n del presidente Barack Obama sobre la \u201cEstrategia de seguridad nacional\u201d, de mayo de 2010.",
+    "hint": null,
+    "directions": null,
+    "feedback": "A pesar de que el presidente Obama menciona la retirada de tropas de Afganist\u00e1n, la confrontaci\u00f3n por causas militares justas y el logro de la paz en Iraq como preocupaciones, su objetivo principal es mantener la superioridad militar que proteger\u00e1 al pa\u00eds y al mundo de las amenazas.",
+    "intro_text": null,
+    "prefix": null,
+    "suffix": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

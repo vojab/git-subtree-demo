@@ -1,0 +1,17 @@
+{
+    "uuid": "d075d1d6-9403-11e6-babe-a89802414180",
+    "content_item_id": "04d141d9-a025-11e4-b41a-902b34691136",
+    "content_passage_id": "765b2c86-9404-11e6-babe-a89802414180",
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "\u00bfQu\u00e9 se puede inferir acerca de Hendricks con base en el siguiente p\u00e1rrafo?\n\n\"Hendricks baj\u00f3 la mirada. El ni\u00f1o era extra\u00f1o, por decir poco. Retra\u00eddo. Pero as\u00ed eran los ni\u00f1os que hab\u00edan sobrevivido. Tranquilos. Estoicos. Un extra\u00f1o tipo de fatalismo se hab\u00eda apoderado de ellos. Nada los sorprend\u00eda. Aceptaban todo lo que les suced\u00eda. Ya no hab\u00eda nada normal, ning\u00fan curso natural de las cosas, moral o f\u00edsico que pudieran esperar. Hab\u00edan desaparecido la costumbre, el h\u00e1bito y todas las fuerzas determinantes del aprendizaje; solo quedaba la experiencia directa.\"",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "En este p\u00e1rrafo, es claro que Hendricks ha visto a otros ni\u00f1os como David, porque en \u00e9l reconoce lo mismo que hab\u00eda observado en los otros ni\u00f1os. Las respuestas incorrectas no est\u00e1n respaldadas por el texto y no describen a Hendricks de manera precisa.",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

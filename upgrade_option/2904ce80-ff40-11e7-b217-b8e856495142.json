@@ -1,0 +1,11 @@
+{
+    "uuid": "2904ce80-ff40-11e7-b217-b8e856495142",
+    "name": "GEDA + CCR Upgrade",
+    "description": "GED Academy and Job Ready courses Upgrade",
+    "bundle_id": 1,
+    "discount_id": 1,
+    "sequence": 2,
+    "logic_class": "eec\\models\\common\\UpgradeOption\\GedaCCRUpgradeOption",
+    "created_at": "2018-01-22 14:16:40",
+    "updated_at": "2018-01-22 14:16:40"
+}

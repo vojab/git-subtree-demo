@@ -1,0 +1,9 @@
+{
+    "feedback": "The response sometimes quotes information from a passage without attributing it to the passage. If a response uses a direct quote, it must be identifiable. ",
+    "rubric_feedback_set_id": "7cfb785d-c437-11e4-b41a-902b34691136",
+    "uuid": "7d058c9b-c437-11e4-b41a-902b34691136",
+    "created_at": "2015-03-06 14:32:12",
+    "updated_at": "2016-04-27 03:22:50",
+    "correct": 0,
+    "deleted_at": null
+}

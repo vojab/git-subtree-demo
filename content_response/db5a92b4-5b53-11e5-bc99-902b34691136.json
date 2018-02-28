@@ -1,0 +1,20 @@
+{
+    "content_item_id": "daf03bf6-5b53-11e5-bc99-902b34691136",
+    "name": "Because the horse argues with the camel. ",
+    "value": "Because the horse argues with the camel. ",
+    "order": 5,
+    "order_locked": 0,
+    "feedback": null,
+    "score": 0,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "db5a92b4-5b53-11e5-bc99-902b34691136",
+    "created_at": "2015-09-02 16:05:37",
+    "updated_at": "2015-11-04 04:07:16"
+}

@@ -1,0 +1,20 @@
+{
+    "content_item_id": "a02bac32-3d8a-11e5-8ef8-22000ad80e72",
+    "name": "15.5 ft<sup>2<\/sup>",
+    "value": "15.5 ft<sup>2<\/sup>",
+    "order": 5,
+    "order_locked": 0,
+    "feedback": null,
+    "score": 0,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "a0301471-3d8a-11e5-8ef8-22000ad80e72",
+    "created_at": "2015-08-08 05:02:10",
+    "updated_at": "2015-08-08 05:02:10"
+}

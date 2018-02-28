@@ -1,0 +1,20 @@
+{
+    "content_item_id": "fbf6ab6c-d17e-11e4-b41a-902b34691136",
+    "name": "890 kg",
+    "value": "890 kg",
+    "order": "5",
+    "order_locked": "0",
+    "feedback": null,
+    "score": "0.00",
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": "0",
+    "uuid": "fc1f6022-d17e-11e4-b41a-902b34691136",
+    "created_at": "2015-02-09 09:41:44",
+    "updated_at": "2015-05-11 15:35:57"
+}

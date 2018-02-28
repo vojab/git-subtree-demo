@@ -1,0 +1,20 @@
+{
+    "content_item_id": "ec5e9377-d17e-11e4-b41a-902b34691136",
+    "name": "Each drop of water follows a unique path through the water cycle at a consistent speed.",
+    "value": "Each drop of water follows a unique path through the water cycle at a consistent speed.",
+    "order": "5",
+    "order_locked": "0",
+    "feedback": null,
+    "score": "0.00",
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": "0",
+    "uuid": "eca16b4a-d17e-11e4-b41a-902b34691136",
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2015-05-13 16:53:01"
+}

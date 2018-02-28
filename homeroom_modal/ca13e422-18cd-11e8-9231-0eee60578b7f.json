@@ -1,0 +1,11 @@
+{
+    "uuid": "ca13e422-18cd-11e8-9231-0eee60578b7f",
+    "modal_type": "info",
+    "name": "puffin-browser-announcement",
+    "description": "",
+    "view": "homeroom.modals.puffin_browser_announcement",
+    "order": 5,
+    "created_at": "2018-02-23 12:00:00",
+    "updated_at": "2018-02-23 12:00:00",
+    "deleted_at": null
+}

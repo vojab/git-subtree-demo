@@ -1,0 +1,20 @@
+{
+    "content_item_id": "17106e05-d17f-11e4-b41a-902b34691136",
+    "name": "Venus is the closest planet to the sun.",
+    "value": "Venus is the closest planet to the sun.",
+    "order": "5",
+    "order_locked": 0,
+    "feedback": null,
+    "score": 0,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "17500e8f-d17f-11e4-b41a-902b34691136",
+    "created_at": "2015-02-10 18:57:05",
+    "updated_at": "2015-03-25 21:55:00"
+}

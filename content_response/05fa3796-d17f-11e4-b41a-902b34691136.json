@@ -1,0 +1,20 @@
+{
+    "content_item_id": "05c0fc9c-d17f-11e4-b41a-902b34691136",
+    "name": "The kinetic energy of the book is converted to potential energy.",
+    "value": "The kinetic energy of the book is converted to potential energy.",
+    "order": "5",
+    "order_locked": 0,
+    "feedback": null,
+    "score": 0,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "05fa3796-d17f-11e4-b41a-902b34691136",
+    "created_at": "2015-02-09 18:48:27",
+    "updated_at": "2015-03-25 21:54:46"
+}

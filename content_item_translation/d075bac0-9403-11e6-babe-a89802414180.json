@@ -1,0 +1,19 @@
+{
+    "uuid": "d075bac0-9403-11e6-babe-a89802414180",
+    "content_item_id": "2f9edcab-dee4-11e5-9186-22000af4874e",
+    "content_passage_id": null,
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "\u00bfCu\u00e1l de las siguientes conclusiones puede sacarse del discurso del presidente Obama?",
+    "description": "El pasaje es un fragmento extra\u00eddo de la declaraci\u00f3n del presidente Barack Obama sobre la \u201cEstrategia de seguridad nacional\u201d, de mayo de 2010.<\/br>Por casi una d\u00e9cada, nuestra naci\u00f3n ha estado en guerra con una amplia red de violencia y odio. Incluso mientras terminamos una guerra en Iraq, nuestro ej\u00e9rcito ha sido llamado para renovar nuestro enfoque en Afganist\u00e1n como parte de un compromiso para alterar, desmantelar y derrotar a Al-Qaeda y sus asociados. Esto es parte de un gran esfuerzo multinacional que es adecuado y justo, y que ser\u00e1 firme en nuestro compromiso con la seguridad de nuestra gente, aliados y compa\u00f1eros. Adem\u00e1s, mientras nos enfrentamos a m\u00faltiples amenazas, desde naciones, entidades no estatales y estados fallidos, mantendremos la superioridad militar que ha protegido a nuestro pa\u00eds y respaldado la seguridad global, por d\u00e9cadas.",
+    "hint": null,
+    "directions": null,
+    "feedback": "El presidente Obama declara que \u201cnos enfrentamos a muchas amenazas\u201d, no solo a una amenaza de Al-Qaeda, y EE.\u00a0UU. debe trabajar en conjunto con otros pa\u00edses para abordar estas amenazas con \u00e9xito. Solo al mantener el poder del ej\u00e9rcito de EE.\u00a0UU., podemos lograr este objetivo.",
+    "intro_text": null,
+    "prefix": null,
+    "suffix": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

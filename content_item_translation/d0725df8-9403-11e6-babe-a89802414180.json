@@ -1,0 +1,17 @@
+{
+    "uuid": "d0725df8-9403-11e6-babe-a89802414180",
+    "content_item_id": "9c49a488-2b51-11e5-890e-902b34691136",
+    "content_passage_id": null,
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "El gr\u00e1fico muestra la cantidad de crecimiento <br>\nen plantas expuestas a diferentes cantidades de <br>\nsol. \u00bfQu\u00e9 conclusi\u00f3n puede sacarse <br>\nseg\u00fan los datos en el gr\u00e1fico?<\/br>",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "A medida que la luz solar aumenta de 4 a 5 y 6 horas, las plantas crecen m\u00e1s por semana. Las plantas que reciben m\u00e1s luz solar crecen m\u00e1s r\u00e1pido. Seg\u00fan la informaci\u00f3n del gr\u00e1fico, una mayor exposici\u00f3n a la luz solar tiende a causar un crecimiento m\u00e1s r\u00e1pido.",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

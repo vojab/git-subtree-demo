@@ -1,0 +1,11 @@
+{
+    "metadata_type_id": "5dbef40a-2cd9-11e6-80f3-54ee751c9d45",
+    "parent_metadata_value_id": 0,
+    "code": "C2.2.4",
+    "description": "Interpret transportation schedules, fares, and payment procedures",
+    "subject_area_id": 0,
+    "uuid": "c9523fab-2cfe-11e6-80f3-54ee751c9d45",
+    "created_at": "2016-06-08 07:25:49",
+    "updated_at": "2016-06-08 07:25:49",
+    "hidden": 0
+}

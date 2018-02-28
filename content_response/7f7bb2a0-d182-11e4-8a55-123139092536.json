@@ -1,0 +1,20 @@
+{
+    "content_item_id": "7f4fada8-d182-11e4-8a55-123139092536",
+    "name": "<math>  <mtext>A\u00a0triangle\u00a0is\u00a0rotated\u00a0about\u00a0a\u00a0line\u00a0that\u00a0does\u00a0not\u00a0intersect\u00a0the\u00a0triangle<\/mtext><mtext>.<\/mtext> <\/math>",
+    "value": "<math>  <mtext>A\u00a0triangle\u00a0is\u00a0rotated\u00a0about\u00a0a\u00a0line\u00a0that\u00a0does\u00a0not\u00a0intersect\u00a0the\u00a0triangle<\/mtext><mtext>.<\/mtext> <\/math>",
+    "order": "5",
+    "order_locked": 0,
+    "feedback": null,
+    "score": 0,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "7f7bb2a0-d182-11e4-8a55-123139092536",
+    "created_at": "2015-02-24 04:52:44",
+    "updated_at": "2015-03-25 21:53:58"
+}

@@ -1,0 +1,19 @@
+{
+    "uuid": "d074e94c-9403-11e6-babe-a89802414180",
+    "content_item_id": "6b93c74c-dee4-11e5-9186-22000af4874e",
+    "content_passage_id": null,
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "Seg\u00fan el juez Fortas, \u00bfcu\u00e1l es el asunto central en este caso?",
+    "description": "El siguiente fragmento es de la decisi\u00f3n del Tribunal Supremo\u00a0<i>Tinker v. Des Moines<\/i>, 1969. En el caso, 5 estudiantes fueron suspendidos de la escuela por usar brazaletes negros en protesta por la Guerra de Vietnam. La opini\u00f3n del tribunal fue escrita por el juez Abe Fortas.<p><\/p>\u201cDif\u00edcilmente se puede argumentar que tanto los estudiantes como los profesores echan sus derechos constitucionales a la libertad de expresi\u00f3n o expresi\u00f3n en la puerta de la escuela. Esta ha sido la celebraci\u00f3n inconfundible de esta Corte durante casi 50 a\u00f1os.\u201d <p><\/p>\u201d... el expediente no demuestra hechos que pudieran haber llevado a las autoridades escolares a pronosticar una interrupci\u00f3n sustancial de las actividades escolares o una interferencia importante, y no se produjeron de hecho disturbios ni trastornos en las instalaciones escolares. Estos peticionarios simplemente hicieron sus reclamos en la escuela. Su protesta consist\u00eda s\u00f3lo en llevar en la manga una banda de tela negra, de no m\u00e1s de dos pulgadas de ancho. Se lo pusieron para exhibir su desaprobaci\u00f3n de las hostilidades de Vietnam y su apoyo a una tregua, para dar a conocer sus puntos de vista y, mostrando su postura, para influenciar a otros a adoptar dichos pensamientos. No interrumpieron las actividades escolares ni trataron de entrometerse en los asuntos escolares o en las vidas de otros. Ellos causaron discusiones fuera de las aulas, pero sin interferir con el trabajo y sin desorden. En estas circunstancias, nuestra Constituci\u00f3n no permite a los funcionarios del Estado negar su forma de expresi\u00f3n",
+    "hint": null,
+    "directions": null,
+    "feedback": "<i>Tinker contra Des Moines<\/i> confirma el principio de \u201cdiscurso simb\u00f3lico\u201d que significa que una manifestaci\u00f3n como usar un brazalete, mientras no derive en un trastorno importante, es una libertad garantizada por la Primera Enmienda. El discurso simb\u00f3lico tambi\u00e9n se ha definido como \u201clibertad de expresi\u00f3n\u201d y no puede estar limitada por las escuelas a menos que produzca un trastorno que podr\u00eda afectar el aprendizaje del estudiante.\n",
+    "intro_text": null,
+    "prefix": null,
+    "suffix": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

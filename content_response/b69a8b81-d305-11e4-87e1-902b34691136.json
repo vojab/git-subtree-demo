@@ -1,0 +1,20 @@
+{
+    "content_item_id": "b667b577-d305-11e4-87e1-902b34691136",
+    "name": "The Nazi Genocide can be blamed solely on Hitler.",
+    "value": "The Nazi Genocide can be blamed solely on Hitler.",
+    "order": "5",
+    "order_locked": 0,
+    "feedback": null,
+    "score": 0,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "b69a8b81-d305-11e4-87e1-902b34691136",
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2015-03-25 15:43:41"
+}

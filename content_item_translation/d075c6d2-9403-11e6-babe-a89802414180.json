@@ -1,0 +1,17 @@
+{
+    "uuid": "d075c6d2-9403-11e6-babe-a89802414180",
+    "content_item_id": "fc8d6903-a024-11e4-b41a-902b34691136",
+    "content_passage_id": "765b29f2-9404-11e6-babe-a89802414180",
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "\u00bfDe qu\u00e9 manera el s\u00edmil del \u00faltimo p\u00e1rrafo del segundo pasaje (\u201cConsumir alimentos GM. . . es como jugar a la ruleta rusa con nuestra salud\u201d) refuerza el argumento del autor?",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "La respuesta correcta explica cu\u00e1l es la funci\u00f3n de un s\u00edmil (crear una imagen en palabras) y c\u00f3mo utilizar este s\u00edmil en particular refuerza el argumento. Las respuestas incorrectas no identifican ni explican la figura ret\u00f3rica (s\u00edmil) ni su efecto en el ensayo.",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

@@ -1,0 +1,17 @@
+{
+    "uuid": "d074e7ee-9403-11e6-babe-a89802414180",
+    "content_item_id": "6b878ba7-dee4-11e5-9186-22000af4874e",
+    "content_passage_id": "765a77e6-9404-11e6-babe-a89802414180",
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "\u00bfQu\u00e9 pa\u00eds tuvo la mediana de muertes totales en la Segunda Guerra Mundial de todos los pa\u00edses de la tabla?",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "La mediana es el n\u00famero \u201cmedio\u201d en un conjunto de datos cuando los datos est\u00e1n listado en orden num\u00e9rico. Cuando se ponen en orden de menor a mayor, el n\u00famero medio en este conjunto de datos es 600,000, la cantidad total de muertos de Francia en la Segunda Guerra Mundial.",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

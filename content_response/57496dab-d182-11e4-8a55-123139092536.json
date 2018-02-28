@@ -1,0 +1,20 @@
+{
+    "content_item_id": "5731524a-d182-11e4-8a55-123139092536",
+    "name": "requirements, maintenance routines, and backup procedures",
+    "value": "requirements, maintenance routines, and backup procedures",
+    "order": "5",
+    "order_locked": 0,
+    "feedback": null,
+    "score": 1,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": "575bd97a-d182-11e4-8a55-123139092536",
+    "evaluate_user_response": 0,
+    "uuid": "57496dab-d182-11e4-8a55-123139092536",
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2015-03-25 21:52:46"
+}

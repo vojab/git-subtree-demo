@@ -1,0 +1,11 @@
+{
+    "name": "TABE Language Content Objectives",
+    "order": 2,
+    "associated_metadata_type_id": "f0a0cceb-75a3-11e4-b41a-902b34691136",
+    "hidden": 0,
+    "hide_from_skill_mastery_report": 0,
+    "default_course_id": "c392e1f9-5b51-11e5-bc99-902b34691136",
+    "uuid": "e2b7c1d4-607e-11e5-9b50-54ee751c9d45",
+    "created_at": "2015-09-21 18:36:21",
+    "updated_at": "2017-03-02 13:42:23"
+}

@@ -1,0 +1,20 @@
+{
+    "content_item_id": "68e11914-2b54-11e5-890e-902b34691136",
+    "name": "Test different types of sound waves in different types of water.",
+    "value": "Test different types of sound waves in different types of water.",
+    "order": "5",
+    "order_locked": "0",
+    "feedback": null,
+    "score": "0.00",
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": "0",
+    "uuid": "6923ea66-2b54-11e5-890e-902b34691136",
+    "created_at": "2015-06-02 22:44:08",
+    "updated_at": "2015-07-16 02:20:26"
+}

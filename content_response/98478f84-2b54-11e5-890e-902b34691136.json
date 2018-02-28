@@ -1,0 +1,20 @@
+{
+    "content_item_id": "9800275b-2b54-11e5-890e-902b34691136",
+    "name": "The Allied Powers had more deaths than the Axis Powers.",
+    "value": "The Allied Powers had more deaths than the Axis Powers.",
+    "order": "5",
+    "order_locked": "0",
+    "feedback": null,
+    "score": "0.00",
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": "0",
+    "uuid": "98478f84-2b54-11e5-890e-902b34691136",
+    "created_at": "2015-07-07 20:11:33",
+    "updated_at": "2015-07-16 02:21:23"
+}

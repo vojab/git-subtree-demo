@@ -1,0 +1,11 @@
+{
+    "name": "TASC Social Studies Topics",
+    "order": 5,
+    "associated_metadata_type_id": "91fb4e26-1f64-11e5-94a8-28b2bd02e080",
+    "hidden": 0,
+    "hide_from_skill_mastery_report": 0,
+    "default_course_id": "705a9b9f-3e0d-11e4-b41a-902b34691136",
+    "uuid": "0a317212-5e3a-11e5-bc99-902b34691136",
+    "created_at": "2015-09-18 19:16:32",
+    "updated_at": "2017-03-02 13:42:23"
+}

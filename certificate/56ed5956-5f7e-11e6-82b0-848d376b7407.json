@@ -1,0 +1,13 @@
+{
+    "uuid": "56ed5956-5f7e-11e6-82b0-848d376b7407",
+    "name": "Blended Learning Silver Certificate",
+    "label": "Silver Status",
+    "description": null,
+    "type": "achievement",
+    "address": "public\/certificates\/Blended-Learning-Silver-Certificate.pdf",
+    "image": "Blended-Learning-Silver-Certificate.png",
+    "course_id": "8cbf0768-33e2-11e6-962f-542696dc2d39",
+    "product_id": "1cb1859e-33d9-11e6-8421-503f4fcb10eb",
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-09-07 11:44:51"
+}

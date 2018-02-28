@@ -1,0 +1,20 @@
+{
+    "content_item_id": "08093a43-2b42-11e5-8ef8-22000ad80e72",
+    "name": "curtains, trees, plants, or other objects that can quickly ignite",
+    "value": "curtains, trees, plants, or other objects that can quickly ignite",
+    "order": 5,
+    "order_locked": 0,
+    "feedback": null,
+    "score": 1,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "080faef2-2b42-11e5-8ef8-22000ad80e72",
+    "created_at": "2015-07-16 01:37:10",
+    "updated_at": "2015-07-16 01:37:10"
+}

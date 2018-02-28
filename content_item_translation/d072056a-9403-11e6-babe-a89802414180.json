@@ -1,0 +1,17 @@
+{
+    "uuid": "d072056a-9403-11e6-babe-a89802414180",
+    "content_item_id": "eeb0b74d-65e7-11e4-b4ef-123139092536",
+    "content_passage_id": "765a1134-9404-11e6-babe-a89802414180",
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "Seg\u00fan la evidencia en el pasaje y las tablas, \u00bfqu\u00e9 conclusi\u00f3n puedes sacar sobre las muertes por ahogamiento?",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "La respuesta correcta es la \u00fanica que est\u00e1 respaldada en el pasaje y las tablas. Las respuestas incorrectas pueden inferirse, pero no est\u00e1n establecidas directamente en el texto. ",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

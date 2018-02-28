@@ -1,0 +1,17 @@
+{
+    "uuid": "d07382fa-9403-11e6-babe-a89802414180",
+    "content_item_id": "86560f74-2b51-11e5-890e-902b34691136",
+    "content_passage_id": null,
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "En una poblaci\u00f3n de saltamontes, la proporci\u00f3n de saltamontes con una marca blanca a diferencia de<br>\naquellos sin una marca blanca es de 2:3. Un entom\u00f3logo captura y fotograf\u00eda <br>\n290 saltamontes. \u00bfCu\u00e1ntos fot\u00f3grafos es posible que muestren saltamontes con <br>\nuna marca blanca?<\/br>",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "En vez de usar la proporci\u00f3n 2:3, usa la proporci\u00f3n 2:5. Esto es \u00fatil porque nos dice la proporci\u00f3n de saltamontes con marcas blancas de todos los saltamontes.\n\nPara descubrir cu\u00e1ntos saltamontes tienen marcas blancas en sus dorsales, puedes crear una proporci\u00f3n: 2 de 5 equivale a <em>x<\/em> de 290. Al multiplicar cruzado:\n<p><\/p>\n<math>\n <mtable>\n  <mtr>\n   <mtd>\n    <mfrac>\n     <mn>2<\/mn>\n     <mn>5<\/mn>\n    <\/mfrac>\n    <mo>=<\/mo><mfrac>\n     <mi>x<\/mi>\n     <mrow>\n      <mn>290<\/mn><\/mrow>\n    <\/mfrac>\n    \n   <\/mtd>\n  <\/mtr>\n  <mtr>\n   <mtd>\n    <mn>2<\/mn><mo stretchy='false'>(<\/mo><mn>290<\/mn><mo stretchy='false'>)<\/mo><mo>=<\/mo><mn>5<\/mn><mi>x<\/mi>\n   <\/mtd>\n  <\/mtr>\n  <mtr>\n   <mtd>\n    <mn>580<\/mn><mo>=<\/mo><mn>5<\/mn><mi>x<\/mi>\n   <\/mtd>\n  <\/mtr>\n  <mtr>\n   <mtd>\n    <mn>116<\/mn><mo>=<\/mo><mi>x<\/mi>\n   <\/mtd>\n  <\/mtr>\n <\/mtable>\n \n<\/math>\n<p><\/p>\n<b>Cerca de 116 de los fot\u00f3grafos mostrar\u00e1n marcas blancas.<\/b>",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

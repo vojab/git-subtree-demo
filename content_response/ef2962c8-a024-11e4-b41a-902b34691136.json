@@ -1,0 +1,20 @@
+{
+    "content_item_id": "ee40aa23-a024-11e4-b41a-902b34691136",
+    "name": "Flu vaccinations are only good for one flu season because the flu virus mutates and those viruses immune to the current vaccines are the viruses most likely to survive.",
+    "value": "Flu vaccinations are only good for one flu season because the flu virus mutates and those viruses immune to the current vaccines are the viruses most likely to survive.",
+    "order": "5",
+    "order_locked": 0,
+    "feedback": null,
+    "score": 1,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "ef2962c8-a024-11e4-b41a-902b34691136",
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2015-03-25 21:51:35"
+}

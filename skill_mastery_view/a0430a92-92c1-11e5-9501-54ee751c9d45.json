@@ -1,0 +1,11 @@
+{
+    "name": "CCR ELA\/Literacy Standards",
+    "order": 100,
+    "associated_metadata_type_id": "f0a0cceb-75a3-11e4-b41a-902b34691136",
+    "hidden": 0,
+    "hide_from_skill_mastery_report": 0,
+    "default_course_id": null,
+    "uuid": "a0430a92-92c1-11e5-9501-54ee751c9d45",
+    "created_at": "2015-11-24 13:40:01",
+    "updated_at": "2017-03-02 13:42:23"
+}

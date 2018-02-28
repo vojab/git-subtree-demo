@@ -1,0 +1,20 @@
+{
+    "content_item_id": "c169da51-2b51-11e5-890e-902b34691136",
+    "name": "<math>  <mn>40<\/mn><mo>&#x00B0;<\/mo><mi>F<\/mi> <\/math>",
+    "value": "<math>  <mn>40<\/mn><mo>&#x00B0;<\/mo><mi>F<\/mi> <\/math>",
+    "order": "5",
+    "order_locked": "0",
+    "feedback": null,
+    "score": "0.00",
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": "0",
+    "uuid": "c1746187-2b51-11e5-890e-902b34691136",
+    "created_at": "2015-07-16 00:29:44",
+    "updated_at": "2015-07-16 02:17:33"
+}

@@ -1,0 +1,17 @@
+{
+    "uuid": "d074c9b2-9403-11e6-babe-a89802414180",
+    "content_item_id": "6b6aeb35-dee4-11e5-9186-22000af4874e",
+    "content_passage_id": "765a6f1c-9404-11e6-babe-a89802414180",
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "\u00bfCu\u00e1l de las siguientes declaraciones se puede inferir de los fragmentos?",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "Debido a que solo el Congreso tiene el poder para crear un ej\u00e9rcito y declarar la guerra, se puede inferir que el presidente debe consultar con el Congreso antes de usar el ej\u00e9rcito, especialmente en tiempos de guerra. Desde la Segunda Guerra Mundial, el presidente ha usado el ej\u00e9rcito para actividades b\u00e9licas varias veces. De manera notable, el Congreso nunca declar\u00f3 la guerra contra Vietnam; sin embargo, el ej\u00e9rcito estadounidense pele\u00f3 contra las fuerzas comunistas de all\u00ed desde 1965 hasta 1973, dos veces la duraci\u00f3n de la Segunda Guerra Mundial. El Congreso aprob\u00f3 la Ley de Poderes de Guerra que le daba al presidente la facultad para ir a la guerra sin declararla.",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

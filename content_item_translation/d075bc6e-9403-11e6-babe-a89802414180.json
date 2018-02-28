@@ -1,0 +1,19 @@
+{
+    "uuid": "d075bc6e-9403-11e6-babe-a89802414180",
+    "content_item_id": "2fab710d-dee4-11e5-9186-22000af4874e",
+    "content_passage_id": "765b25f6-9404-11e6-babe-a89802414180",
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "Seg\u00fan la informaci\u00f3n del gr\u00e1fico, \u00bfcu\u00e1l es una raz\u00f3n v\u00e1lida para este financiamiento?\n",
+    "description": "El gobierno de Estados Unidos financia muchos programas dise\u00f1ados para ayudar a los estudiantes a finalizar la escuela secundaria e ir a la universidad.\n",
+    "hint": null,
+    "directions": null,
+    "feedback": "En el gr\u00e1fico, est\u00e1 claro que las personas que alcanzan un mayor nivel educativo, por lo general, ganan m\u00e1s dinero. Las personas con t\u00edtulos profesionales (abogado, m\u00e9dico, etc.) son los que m\u00e1s ganan, m\u00e1s del triple que alguien que no tiene un t\u00edtulo de escuela secundaria. Si bien puede haber una conexi\u00f3n entre los niveles educativos m\u00e1s altos y ser mejor ciudadano, esta informaci\u00f3n no se muestra en el gr\u00e1fico.",
+    "intro_text": null,
+    "prefix": null,
+    "suffix": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

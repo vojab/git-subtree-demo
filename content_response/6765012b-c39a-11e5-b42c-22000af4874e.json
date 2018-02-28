@@ -1,0 +1,20 @@
+{
+    "content_item_id": "666c32e8-c39a-11e5-b42c-22000af4874e",
+    "name": "Instructions about what the file name for this letter should be.",
+    "value": "Instructions about what the file name for this letter should be.",
+    "order": 5,
+    "order_locked": 0,
+    "feedback": null,
+    "score": 0,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "6765012b-c39a-11e5-b42c-22000af4874e",
+    "created_at": "2015-10-21 21:02:26",
+    "updated_at": "2016-01-25 11:32:43"
+}

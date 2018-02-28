@@ -1,0 +1,19 @@
+{
+    "uuid": "d072e98a-9403-11e6-babe-a89802414180",
+    "content_item_id": "90776dc2-2b51-11e5-890e-902b34691136",
+    "content_passage_id": null,
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "El \u00e1rea del trapecio es de 864\u00a0cm<sup>2<\/sup>. Tiene una altura de 24 cm y la longitud\n<br>\nde una de sus bases es de 30\u00a0cm. \u00bfCu\u00e1l es la longitud de la otra base?<\/br>",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "La f\u00f3rmula para obtener el \u00e1rea del trapecio es:  <math>\r\n <mrow>\r\n  <mi>A<\/mi><mo>=<\/mo><mfrac>\r\n   <mn>1<\/mn>\r\n   <mn>2<\/mn>\r\n  <\/mfrac>\r\n  <mi>h<\/mi><mo stretchy='false'>(<\/mo><msub>\r\n   <mi>b<\/mi>\r\n   <mn>1<\/mn>\r\n  <\/msub>\r\n  <mo>+<\/mo><msub>\r\n   <mi>b<\/mi>\r\n   <mn>2<\/mn>\r\n  <\/msub>\r\n  <mo stretchy='false'>)<\/mo><\/mrow>\r\n<\/math>\r\n<p><\/p>\r\nReemplaza los valores proporcionados en la f\u00f3rmula y resuelve para obtener la base desconocida:\r\n<p><\/p>\r\n<math>\r\n <mtable>\r\n  <mtr>\r\n   <mtd>\r\n    <mn>864<\/mn><mo>=<\/mo><mfrac>\r\n     <mn>1<\/mn>\r\n     <mn>2<\/mn>\r\n    <\/mfrac>\r\n    <mo>\u00b7<\/mo><mn>24<\/mn><mo stretchy='false'>(<\/mo><mn>30<\/mn><mo>+<\/mo><msub>\r\n     <mi>b<\/mi>\r\n     <mn>2<\/mn>\r\n    <\/msub>\r\n    <mo stretchy='false'>)<\/mo>\r\n   <\/mtd>\r\n  <\/mtr>\r\n  <mtr>\r\n   <mtd>\r\n    <mn>864<\/mn><mo>=<\/mo><mn>12<\/mn><mo stretchy='false'>(<\/mo><mn>30<\/mn><mo>+<\/mo><msub>\r\n     <mi>b<\/mi>\r\n     <mn>2<\/mn>\r\n    <\/msub>\r\n    <mo stretchy='false'>)<\/mo>\r\n   <\/mtd>\r\n  <\/mtr>\r\n  <mtr>\r\n   <mtd>\r\n    <mn>864<\/mn><mo>=<\/mo><mn>360<\/mn><mo>+<\/mo><mn>12<\/mn><msub>\r\n     <mi>b<\/mi>\r\n     <mn>2<\/mn>\r\n    <\/msub>\r\n    \r\n   <\/mtd>\r\n  <\/mtr>\r\n  <mtr>\r\n   <mtd>\r\n    <mn>504<\/mn><mo>=<\/mo><mn>12<\/mn><msub>\r\n     <mi>b<\/mi>\r\n     <mn>2<\/mn>\r\n    <\/msub>\r\n    \r\n   <\/mtd>\r\n  <\/mtr>\r\n  <mtr>\r\n   <mtd>\r\n    <mn>42<\/mn><mo>=<\/mo><msub>\r\n     <mi>b<\/mi>\r\n     <mn>2<\/mn>\r\n    <\/msub>\r\n    \r\n   <\/mtd>\r\n  <\/mtr>\r\n <\/mtable>\r\n \r\n<\/math>\r\n<p><\/p><b>La longitud de la base es de 42\u00a0cm.<\/b>",
+    "intro_text": null,
+    "prefix": null,
+    "suffix": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2017-08-03 12:14:19",
+    "deleted_at": null
+}

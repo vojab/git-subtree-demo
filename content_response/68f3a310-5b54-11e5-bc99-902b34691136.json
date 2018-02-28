@@ -1,0 +1,20 @@
+{
+    "content_item_id": "68ab6b38-5b54-11e5-bc99-902b34691136",
+    "name": "<math>  <mtext>$313<\/mtext><mtext>.00<\/mtext> <\/math>",
+    "value": "<math>  <mtext>$313<\/mtext><mtext>.00<\/mtext> <\/math>",
+    "order": 5,
+    "order_locked": 0,
+    "feedback": null,
+    "score": 0,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "68f3a310-5b54-11e5-bc99-902b34691136",
+    "created_at": "2015-09-10 11:34:09",
+    "updated_at": "2015-09-21 15:59:46"
+}

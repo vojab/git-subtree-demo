@@ -1,0 +1,17 @@
+{
+    "uuid": "d07468e6-9403-11e6-babe-a89802414180",
+    "content_item_id": "665a9915-c39a-11e5-b42c-22000af4874e",
+    "content_passage_id": null,
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "Javier est\u00e1 haciendo un pastel para una fiesta. La receta pide <math>\n <mrow>\n<mn>2<\/mn>\n  <mfrac>\n   <mn>3<\/mn>\n   <mrow>\n    <mn>4<\/mn>\n   <\/mrow>\n  <\/mfrac>\n   <\/mrow>\n<\/math>\n tazas de harina, <br>pero \u00e9l quiere triplicar la receta. Estim\u00f3 y puso 7 tazas de harina.<\/br> \u00bfCu\u00e1ntas tazas de harina m\u00e1s debe usar?<\/br>\n<p><\/p>",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "Cambia los n\u00fameros mixtos a fracciones impropias multiplicando la parte de n\u00famero entero por el denominador y agregar el numerador. Este es el nuevo numerador. \n<math>\n<mrow>\n <mfrac linethickness=\"1\">\n  <mrow>\n   <mn>2<\/mn>\n   <mo>\u22c5<\/mo>\n   <mn>4<\/mn>\n   <mo>+<\/mo>\n   <mn>3<\/mn>\n  <\/mrow>\n  <mn>4<\/mn>\n <\/mfrac>\n <mo>=<\/mo>\n <mfrac linethickness=\"1\">\n  <mn>11<\/mn>\n  <mn>4<\/mn>\n <\/mfrac>\n<\/mrow>\n<\/math>. Triple significa multiplicar por 3, lo que da \n<math>\n<mrow>\n <mfrac linethickness=\"1\">\n  <mn>33<\/mn>\n  <mn>4<\/mn>\n <\/mfrac>\n<\/mrow>\n<\/math>. Convierte 7 a una fracci\u00f3n con 4 en el denominador: <math>\n<mrow>\n <mfrac linethickness=\"1\">\n  <mn>28<\/mn>\n  <mn>4<\/mn>\n <\/mfrac>\n<\/mrow>\n<\/math>\n. La diferencia es \n<math>\n<mrow>\n <mfrac linethickness=\"1\">\n  <mn>5<\/mn>\n  <mn>4<\/mn>\n <\/mfrac>\n<\/mrow>\n<\/math>\no \n<math>\n<mrow>\n <mn>1<\/mn>\n <mfrac linethickness=\"1\">\n  <mn>1<\/mn>\n  <mn>4<\/mn>\n <\/mfrac>\n<\/mrow>\n<\/math>.",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

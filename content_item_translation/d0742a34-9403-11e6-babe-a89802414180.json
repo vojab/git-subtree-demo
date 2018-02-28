@@ -1,0 +1,19 @@
+{
+    "uuid": "d0742a34-9403-11e6-babe-a89802414180",
+    "content_item_id": "74a2d829-2b51-11e5-890e-902b34691136",
+    "content_passage_id": null,
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "Eval\u00faa la ecuaci\u00f3n polin\u00f3mica <math>\n<mrow>\n <mi>y<\/mi>\n <mo>=<\/mo>\n <mfrac linethickness=\"1\">\n  <mn>1<\/mn>\n  <mn>2<\/mn>\n <\/mfrac>\n <msup>\n  <mi>x<\/mi>\n  <mn>3<\/mn>\n <\/msup>\n <mo>+<\/mo>\n <mn>2<\/mn>\n <msup>\n  <mi>x<\/mi>\n  <mn>2<\/mn>\n <\/msup>\n <mo>+<\/mo>\n <mn>4<\/mn>\n <mi>x<\/mi>\n <mo>-<\/mo>\n <mn>6<\/mn>\n<\/mrow>\n<\/math> para cada <br>valor de <i>x<\/i>. \nHaz clic en los n\u00fameros que quieres seleccionar y arr\u00e1stralos<br> a las casillas.",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "<math>\n <mtable columnalign='left'>\n  <mtr>\n   <mtd>\n    <mtext>Cuando\u00a0<\/mtext><mi>x<\/mi><mo>=<\/mo><mn>2<\/mn><mo>:<\/mo>\n   <\/mtd>\n  <\/mtr>\n  <mtr>\n   <mtd>\n    <mi>y<\/mi><mo>=<\/mo><mfrac>\n     <mn>1<\/mn>\n     <mn>2<\/mn>\n    <\/mfrac>\n    <mo>\u22c5<\/mo><msup>\n     <mn>2<\/mn>\n     <mn>3<\/mn>\n    <\/msup>\n    <mo>+<\/mo><mn>2<\/mn><mo>\u22c5<\/mo><msup>\n     <mn>2<\/mn>\n     <mn>2<\/mn>\n    <\/msup>\n    <mo>+<\/mo><mn>4<\/mn><mo>\u22c5<\/mo><mn>2<\/mn><mo>\u2212<\/mo><mn>6<\/mn><mo>=<\/mo><mn>14<\/mn>\n   <\/mtd>\n  <\/mtr>\n  <mtr>\n   <mtd>\n    <mrow><\/mrow>\n   <\/mtd>\n  <\/mtr>\n  <mtr>\n   <mtd>\n    <mtext>Cuando\u00a0<\/mtext><mi>x<\/mi><mo>=<\/mo><mn>3<\/mn><mo>:<\/mo>\n   <\/mtd>\n  <\/mtr>\n  <mtr>\n   <mtd>\n    <mi>y<\/mi><mo>=<\/mo><mfrac>\n     <mn>1<\/mn>\n     <mn>2<\/mn>\n    <\/mfrac>\n    <mo>\u22c5<\/mo><msup>\n     <mn>3<\/mn>\n     <mn>3<\/mn>\n    <\/msup>\n    <mo>+<\/mo><mn>2<\/mn><mo>\u22c5<\/mo><msup>\n     <mn>3<\/mn>\n     <mn>2<\/mn>\n    <\/msup>\n    <mo>+<\/mo><mn>4<\/mn><mo>\u22c5<\/mo><mn>3<\/mn><mo>\u2212<\/mo><mn>6<\/mn><mo>=<\/mo><mn>37.5<\/mn>\n   <\/mtd>\n  <\/mtr>\n <\/mtable>\n \n<\/math>\n<br \/>\n<img src='http:\/\/app.essentialed.com\/uploads\/assessments\/3298\/es_qv6t0hx43298.png' alt='Answer Explanation Image'> ",
+    "intro_text": null,
+    "prefix": null,
+    "suffix": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

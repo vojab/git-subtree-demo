@@ -1,0 +1,17 @@
+{
+    "uuid": "d0740298-9403-11e6-babe-a89802414180",
+    "content_item_id": "810b07ae-2b54-11e5-890e-902b34691136",
+    "content_passage_id": null,
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "<p>El gr\u00e1fico muestra el desplazamiento de una onda transversal con el tiempo. <\/p>\n\n<p>Seg\u00fan el gr\u00e1fico, \u00bfcu\u00e1l es la mejor predicci\u00f3n de la altura de la amplitud de pico pr\u00f3xima?<\/p>",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "<p>Cada pico en el gr\u00e1fico es 0.05 cm m\u00e1s bajo. Puedes predecir que la amplitud del pr\u00f3ximo pico ser\u00e1 de aproximadamente 0.3 cm.<\/p>",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

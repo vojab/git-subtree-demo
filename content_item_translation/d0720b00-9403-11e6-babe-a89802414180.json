@@ -1,0 +1,17 @@
+{
+    "uuid": "d0720b00-9403-11e6-babe-a89802414180",
+    "content_item_id": "f1bf33e6-65e7-11e4-b4ef-123139092536",
+    "content_passage_id": "765a1670-9404-11e6-babe-a89802414180",
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "\u00bfPor qu\u00e9 el autor muestra un diagrama del ciclo del agua y luego admite que el diagrama est\u00e1 incompleto?",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "El autor gana credibilidad al reconocer que hay informaci\u00f3n que no se incluye en el diagrama.",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

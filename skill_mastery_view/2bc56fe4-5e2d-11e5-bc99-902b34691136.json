@@ -1,0 +1,11 @@
+{
+    "name": "TASC Science Topics",
+    "order": 4,
+    "associated_metadata_type_id": "91fb4e26-1f64-11e5-94a8-28b2bd02e080",
+    "hidden": 0,
+    "hide_from_skill_mastery_report": 0,
+    "default_course_id": "705a9b00-3e0d-11e4-b41a-902b34691136",
+    "uuid": "2bc56fe4-5e2d-11e5-bc99-902b34691136",
+    "created_at": "2015-09-18 17:44:05",
+    "updated_at": "2017-03-02 13:42:23"
+}

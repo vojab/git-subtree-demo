@@ -1,0 +1,20 @@
+{
+    "content_item_id": "5dc0bc97-d182-11e4-8a55-123139092536",
+    "name": "archduke Franz Ferdinand of austria",
+    "value": "archduke Franz Ferdinand of austria",
+    "order": "5",
+    "order_locked": 0,
+    "feedback": null,
+    "score": 0,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": "5de16c61-d182-11e4-8a55-123139092536",
+    "evaluate_user_response": 0,
+    "uuid": "5ddee201-d182-11e4-8a55-123139092536",
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2015-03-25 21:53:02"
+}

@@ -1,0 +1,20 @@
+{
+    "content_item_id": "9216cbb2-2fcb-11e5-8ef8-22000ad80e72",
+    "name": "Take more sample measurements to get a more accurate speed at each temperature.",
+    "value": "Take more sample measurements to get a more accurate speed at each temperature.",
+    "order": 5,
+    "order_locked": 0,
+    "feedback": null,
+    "score": 0,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "921d6ca6-2fcb-11e5-8ef8-22000ad80e72",
+    "created_at": "2015-07-21 17:11:48",
+    "updated_at": "2015-07-21 17:11:48"
+}

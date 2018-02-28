@@ -1,0 +1,20 @@
+{
+    "content_item_id": "fb7af690-8182-11e5-bc99-902b34691136",
+    "name": "625 - third set",
+    "value": null,
+    "order": 3,
+    "order_locked": null,
+    "feedback": null,
+    "score": 1,
+    "content_comparison_type_id": 1,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "fc16051b-8182-11e5-bc99-902b34691136",
+    "created_at": "2015-09-17 16:49:15",
+    "updated_at": "2015-11-02 17:13:42"
+}

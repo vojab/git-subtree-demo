@@ -1,0 +1,17 @@
+{
+    "uuid": "d0756f70-9403-11e6-babe-a89802414180",
+    "content_item_id": "59322a09-d182-11e4-8a55-123139092536",
+    "content_passage_id": "765ae398-9404-11e6-babe-a89802414180",
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "<p>\u00bfCu\u00e1l es la mejor forma de completar el espacio en blanco 6?<\/p>\n\n<span style=\"font-weight: normal;\" >El trastorno del espectro autista (TEA) es una variedad de trastornos complejos con s\u00edntomas que<\/span> ![dropdown:Drop_Down_697_78] <span style=\"font-weight: normal;\" >de forma significativa de individuo a individuo.<\/span>",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "La respuesta correcta es \"var\u00edan.\" La oraci\u00f3n deber\u00eda decir: \u201cEl trastorno del espectro autista (TEA) es una variedad de trastornos complejos con s\u00edntomas que var\u00edan de forma significativa de individuo a individuo.\u201d El sujeto plural \u201cs\u00edntomas\u201d necesita un verbo plural: \u201cvar\u00edan.\u201d Un verbo en presente simple es adecuado en este caso.",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

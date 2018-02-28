@@ -1,0 +1,17 @@
+{
+    "uuid": "d075b4d0-9403-11e6-babe-a89802414180",
+    "content_item_id": "2f6aef36-dee4-11e5-9186-22000af4874e",
+    "content_passage_id": "765b2268-9404-11e6-babe-a89802414180",
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "Seg\u00fan el gr\u00e1fico, \u00bfqu\u00e9 grupo de ni\u00f1os ten\u00eda menos posibilidades de participar en actividades extraescolares?",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "Si bien los ni\u00f1os con padres que no est\u00e1n casados tienen un poco m\u00e1s de posibilidades que los ni\u00f1os con tutores de tener lecciones despu\u00e9s de la escuela, en general, un porcentaje menor de estos ni\u00f1os participa en actividades extraescolares. Los ni\u00f1os con padres casados tienen m\u00e1s posibilidades de participar que cualquier otro grupo en el estudio.",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

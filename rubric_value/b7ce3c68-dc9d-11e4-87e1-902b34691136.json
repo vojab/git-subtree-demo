@@ -1,0 +1,12 @@
+{
+    "rubric_part_id": "b7ccf41b-dc9d-11e4-87e1-902b34691136",
+    "name": "Feedback",
+    "description": "",
+    "points": 0,
+    "order": 1,
+    "created_at": "2015-04-06 16:44:27",
+    "updated_at": "2015-04-08 19:04:22",
+    "rubric_feedback_set_id": "b7ce52be-dc9d-11e4-87e1-902b34691136",
+    "uuid": "b7ce3c68-dc9d-11e4-87e1-902b34691136",
+    "deleted_at": null
+}

@@ -1,0 +1,20 @@
+{
+    "content_item_id": "63cfd53a-5b54-11e5-bc99-902b34691136",
+    "name": "<math>  <mi>$<\/mi><mn>15.99<\/mn> <\/math>",
+    "value": "<math>  <mi>$<\/mi><mn>15.99<\/mn> <\/math>",
+    "order": 5,
+    "order_locked": 0,
+    "feedback": null,
+    "score": 0,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "6410111c-5b54-11e5-bc99-902b34691136",
+    "created_at": "2015-09-09 15:07:58",
+    "updated_at": "2015-09-20 15:15:25"
+}

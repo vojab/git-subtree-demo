@@ -1,0 +1,20 @@
+{
+    "content_item_id": "3ea81fac-5b54-11e5-bc99-902b34691136",
+    "name": "all over the world.",
+    "value": "all over the world.",
+    "order": 5,
+    "order_locked": 0,
+    "feedback": null,
+    "score": 1,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "3f016413-5b54-11e5-bc99-902b34691136",
+    "created_at": "2015-09-04 13:34:50",
+    "updated_at": "2015-09-21 13:01:43"
+}

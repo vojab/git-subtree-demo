@@ -1,0 +1,20 @@
+{
+    "content_item_id": "df3299ba-48ef-11e4-b41a-902b34691136",
+    "name": "<math> \u00a0<mrow> \u00a0 <mfrac> \u00a0\u00a0 <mn>2<\/mn> \u00a0\u00a0 <mrow> \u00a0\u00a0\u00a0 <mn>9<\/mn><\/mrow> \u00a0 <\/mfrac> \u00a0 <\/mrow> <\/math>",
+    "value": "<math> \u00a0<mrow> \u00a0 <mfrac> \u00a0\u00a0 <mn>2<\/mn> \u00a0\u00a0 <mrow> \u00a0\u00a0\u00a0 <mn>9<\/mn><\/mrow> \u00a0 <\/mfrac> \u00a0 <\/mrow> <\/math>",
+    "order": "1",
+    "order_locked": 1,
+    "feedback": null,
+    "score": 0,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "89e9e8f1-48f0-11e4-b41a-902b34691136",
+    "created_at": "2014-09-30 18:24:27",
+    "updated_at": "2015-03-25 21:52:07"
+}

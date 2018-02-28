@@ -1,0 +1,20 @@
+{
+    "content_item_id": "663d7260-c39a-11e5-b42c-22000af4874e",
+    "name": "Point 1",
+    "value": "",
+    "order": 1,
+    "order_locked": null,
+    "feedback": "Feedback for Point 1",
+    "score": 1,
+    "content_comparison_type_id": null,
+    "graph_line_id": 1,
+    "max_x": 2.25,
+    "max_y": 1.25,
+    "min_x": 0.75,
+    "min_y": 0.75,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "67442cc6-c39a-11e5-b42c-22000af4874e",
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-01-25 11:32:43"
+}

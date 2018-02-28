@@ -1,0 +1,20 @@
+{
+    "content_item_id": "65244d32-5b54-11e5-bc99-902b34691136",
+    "name": "<math>  <mtext>None&#x00A0;of&#x00A0;these<\/mtext> <\/math>",
+    "value": "<math>  <mtext>None&#x00A0;of&#x00A0;these<\/mtext> <\/math>",
+    "order": 5,
+    "order_locked": 1,
+    "feedback": null,
+    "score": 0,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "65802f4d-5b54-11e5-bc99-902b34691136",
+    "created_at": "2015-09-09 15:52:21",
+    "updated_at": "2015-09-15 02:51:33"
+}

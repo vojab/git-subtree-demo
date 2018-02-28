@@ -1,0 +1,20 @@
+{
+    "content_item_id": "8267f709-3d8c-11e5-8ef8-22000ad80e72",
+    "name": "",
+    "value": "55\/2",
+    "order": 6,
+    "order_locked": 0,
+    "feedback": null,
+    "score": 1,
+    "content_comparison_type_id": 1,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "826da0a5-3d8c-11e5-8ef8-22000ad80e72",
+    "created_at": "2015-08-08 05:15:39",
+    "updated_at": "2015-08-08 05:15:39"
+}

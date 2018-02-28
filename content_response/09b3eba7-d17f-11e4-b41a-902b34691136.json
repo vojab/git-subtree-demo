@@ -1,0 +1,20 @@
+{
+    "content_item_id": "097d3584-d17f-11e4-b41a-902b34691136",
+    "name": "20 N",
+    "value": "20 N",
+    "order": "5",
+    "order_locked": 0,
+    "feedback": null,
+    "score": 0,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "09b3eba7-d17f-11e4-b41a-902b34691136",
+    "created_at": "2015-02-09 20:05:59",
+    "updated_at": "2015-03-25 21:54:46"
+}

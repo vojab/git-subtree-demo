@@ -1,0 +1,12 @@
+{
+    "short_name": "RLA Language",
+    "long_name": "Reasoning through Language Arts\u2014Language",
+    "order": 3,
+    "color": "a6ffb0",
+    "icon": null,
+    "uuid": "edbb8de4-80bf-11e4-b41a-902b34691136",
+    "created_at": "2014-12-11 05:57:34",
+    "updated_at": "2015-07-06 20:50:16",
+    "separate_tests_by_level": 0,
+    "restrict_tests_to_started_levels": 0
+}

@@ -1,0 +1,19 @@
+{
+    "uuid": "d074f572-9403-11e6-babe-a89802414180",
+    "content_item_id": "65e954f8-dee1-11e5-9186-22000af4874e",
+    "content_passage_id": "765a82fe-9404-11e6-babe-a89802414180",
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "Seg\u00fan los fragmentos, \u00bfcu\u00e1l es la idea que tienen en com\u00fan los dos oradores?",
+    "description": "Los l\u00edderes mundiales reconocieron el sexag\u00e9simo aniversario de la liberaci\u00f3n del campo de concentraci\u00f3n nazi Auschwitz, donde m\u00e1s de un mill\u00f3n de personas, en su mayor\u00eda jud\u00edos, fueron asesinadas por el gobierno alem\u00e1n durante la Segunda Guerra Mundial, hablando sobre el evento. A continuaci\u00f3n, se presentan fragmentos de dos discursos.",
+    "hint": null,
+    "directions": null,
+    "feedback": "Ariel Sharon dice que Israel ha aprendido una lecci\u00f3n y que la naci\u00f3n jud\u00eda debe proteger a los jud\u00edos. Gerhard Schroder dice que el gobierno debe protegerse a s\u00ed mismo contra la gente que se niega a aprender del pasado. Ambos oradores insin\u00faan que los pa\u00edses deber\u00edan aprender de los eventos del pasado.",
+    "intro_text": null,
+    "prefix": null,
+    "suffix": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

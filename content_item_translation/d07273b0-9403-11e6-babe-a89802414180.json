@@ -1,0 +1,19 @@
+{
+    "uuid": "d07273b0-9403-11e6-babe-a89802414180",
+    "content_item_id": "9c68a497-2b51-11e5-890e-902b34691136",
+    "content_passage_id": null,
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "La funci\u00f3n <i>f<\/i>(<i>x<\/i>) = <math>\n <mo>\u2212<\/mo>\n<\/math>16<i>x<\/i><sup>2<\/sup> + 112 forma la altura, en pies, de un <br>\nobjeto <i>x<\/i> segundos despu\u00e9s de que fue soltado. \u00bfCu\u00e1l es la altura del <br>\nobjeto 1.5 segundos despu\u00e9s de que fue soltado?<\/br>",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "<math display='block'>\r\n <mtable columnalign='left'>\r\n  <mtr>\r\n   <mtd>\r\n    <mtext>Sustituye\u00a0<\/mtext><mi>x<\/mi><mo>=<\/mo><mn>1.5<\/mn><mtext>\u00a0en la funci\u00f3n:<\/mtext>\r\n   <\/mtd>\r\n  <\/mtr>\r\n  <mtr>\r\n   <mtd>\r\n    <mrow><\/mrow>\r\n   <\/mtd>\r\n  <\/mtr>\r\n  <mtr>\r\n   <mtd>\r\n    <mi>f<\/mi><mo stretchy='false'>(<\/mo><mn>1.5<\/mn><mo stretchy='false'>)<\/mo><mo>=<\/mo><mo>\u2212<\/mo><mn>16<\/mn><msup>\r\n     <mrow><mo>(<\/mo>\r\n      <mrow>\r\n       <mn>1.5<\/mn><\/mrow>\r\n     <mo>)<\/mo><\/mrow>\r\n     <mn>2<\/mn>\r\n    <\/msup>\r\n    <mo>+<\/mo><mn>112<\/mn><mo>=<\/mo><mo>\u2212<\/mo><mn>16<\/mn><mo stretchy='false'>(<\/mo><mn>2.25<\/mn><mo stretchy='false'>)<\/mo><mo>+<\/mo><mn>112<\/mn><mo>=<\/mo><mo>\u2212<\/mo><mn>36<\/mn><mo>+<\/mo><mn>112<\/mn><mo>=<\/mo><mn>76<\/mn>\r\n   <\/mtd>\r\n  <\/mtr>\r\n  <mtr>\r\n   <mtd>\r\n    <mrow><\/mrow>\r\n   <\/mtd>\r\n  <\/mtr>\r\n  <mtr>\r\n   <mtd>\r\n    <mtext>El objeto ten\u00eda una altura de 76\u00a0pies,\u00a01<\/mtext><mtext>.5\u00a0segundos despu\u00e9s de haberse<\/mtext>\r\n   <\/mtd>\r\n  <\/mtr>\r\n  <mtr>\r\n   <mtd>\r\n    <mtext>liberado<\/mtext><mtext>.<\/mtext>\r\n   <\/mtd>\r\n  <\/mtr>\r\n <\/mtable>\r\n \r\n<\/math>",
+    "intro_text": null,
+    "prefix": null,
+    "suffix": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2017-08-03 20:31:33",
+    "deleted_at": null
+}

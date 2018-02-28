@@ -1,0 +1,20 @@
+{
+    "content_item_id": "98c8f6ae-3071-11e5-8ef8-22000ad80e72",
+    "name": "Instead of fighting the current, swim parallel to the beach until you are free of the current, then swim to shore at an angle\u2014away from the rip current\u2014with the incoming waves.",
+    "value": "Instead of fighting the current, swim parallel to the beach until you are free of the current, then swim to shore at an angle\u2014away from the rip current\u2014with the incoming waves.",
+    "order": 5,
+    "order_locked": 0,
+    "feedback": null,
+    "score": 1,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "98d0feb3-3071-11e5-8ef8-22000ad80e72",
+    "created_at": "2015-07-22 13:00:15",
+    "updated_at": "2015-07-22 13:00:15"
+}

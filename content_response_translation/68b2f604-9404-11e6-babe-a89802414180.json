@@ -1,0 +1,11 @@
+{
+    "uuid": "68b2f604-9404-11e6-babe-a89802414180",
+    "content_response_id": "9bc0bedf-2b51-11e5-890e-902b34691136",
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "<math>\n\u00a0<mrow>\n<mfrac>\n<mn>2<\/mn>\n<mn>3<\/mn>\n<\/mfrac>\n<\/mrow>\n<\/math>",
+    "value": "<math>\n\u00a0<mrow>\n<mfrac>\n<mn>2<\/mn>\n<mn>3<\/mn>\n<\/mfrac>\n<\/mrow>\n<\/math>",
+    "feedback": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:55:33",
+    "deleted_at": null
+}

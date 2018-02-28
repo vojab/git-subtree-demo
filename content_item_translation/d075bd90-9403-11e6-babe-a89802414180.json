@@ -1,0 +1,19 @@
+{
+    "uuid": "d075bd90-9403-11e6-babe-a89802414180",
+    "content_item_id": "2fb21103-dee4-11e5-9186-22000af4874e",
+    "content_passage_id": null,
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "Seg\u00fan el fragmento, la Constituci\u00f3n de los EE.\u00a0UU. garantiza todos los siguientes, EXCEPTO:",
+    "description": "El siguiente fragmento es del Pre\u00e1mbulo de la Constituci\u00f3n de los Estados Unidos.<p><\/p>Nosotros el Pueblo de los Estados Unidos, con el objetivo de formar una Uni\u00f3n m\u00e1s perfecta, establecer la Justicia, asegurar la Tranquilidad dom\u00e9stica, proveer la defensa com\u00fan, promover el Bienestar general y asegurar las Bendiciones de la Libertad a nosotros mismos y a nuestra Posteridad, decretamos y establecemos esta Constituci\u00f3n para Estados Unidos de Am\u00e9rica.",
+    "hint": null,
+    "directions": null,
+    "feedback": "El pre\u00e1mbulo enumera las muchas razones para establecer la Constituci\u00f3n de EE.\u00a0UU. Entre ellas se encuentran la paz, la defensa y la libertad. El pre\u00e1mbulo no menciona dominar al enemigo.",
+    "intro_text": null,
+    "prefix": null,
+    "suffix": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

@@ -1,0 +1,17 @@
+{
+    "uuid": "d072b4d8-9403-11e6-babe-a89802414180",
+    "content_item_id": "904b5c4f-2b51-11e5-890e-902b34691136",
+    "content_passage_id": null,
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "El tanque de gasolina de Jan est\u00e1 casi vac\u00edo, solo le queda\n<math>  \n<mrow>\n\u00a0 <mfrac>\n\u00a0\u00a0 <mn>1<\/mn>\n\u00a0\u00a0 <mrow>\n\u00a0\u00a0\u00a0 <mn>12<\/mn><\/mrow>\n\u00a0 <\/mfrac>\n\u00a0 <\/mrow>\n<\/math> \nde contenido. \nNo tiene dinero <br>suficiente para llenar el tanque, pero le agrega la gasolina suficiente para llenar \n<math>  \n<mrow>\n\u00a0 <mfrac>\n\u00a0\u00a0 <mn>2<\/mn>\n\u00a0\u00a0 <mrow>\n\u00a0\u00a0\u00a0 <mn>3<\/mn><\/mrow>\n\u00a0 <\/mfrac>\n\u00a0 <\/mrow>\n<\/math> \ndel tanque. <\/br><br>\u00bfCu\u00e1nta gasolina agreg\u00f3 como una fracci\u00f3n del tanque?<\/br>",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "Resta el volumen inicial del volumen final. <br\/>\n<math> <mrow>\u00a0 <mfrac>\u00a0\u00a0 <mn>2<\/mn>\u00a0\u00a0 <mn>3<\/mn>\u00a0 <\/mfrac> <mo>\u2212<\/mo><mfrac>\n\u00a0\u00a0 <mn>1<\/mn>\u00a0\u00a0 <mrow>\u00a0\u00a0\u00a0 <mn>12<\/mn><\/mrow>\u00a0 <\/mfrac>\u00a0 <mo>=<\/mo><mfrac>\n\u00a0\u00a0 <mn>2<\/mn>\u00a0\u00a0 <mn>3<\/mn>\u00a0 <\/mfrac> <mo>\u00b7<\/mo><mfrac>\n\u00a0\u00a0 <mn>4<\/mn>\u00a0\u00a0 <mn>4<\/mn>\u00a0 <\/mfrac><mo>\u2212<\/mo><mfrac>\u00a0\u00a0 <mn>1<\/mn>\u00a0\u00a0 <mrow>\u00a0\u00a0\u00a0 <mn>12<\/mn><\/mrow>\u00a0 <\/mfrac>\n\u00a0 <mo>=<\/mo><mfrac>\u00a0\u00a0 <mn>8<\/mn>\u00a0\u00a0 <mrow>\u00a0\u00a0\u00a0 <mn>12<\/mn><\/mrow>\u00a0 <\/mfrac> <mo>\u2212<\/mo><mfrac>\n\u00a0\u00a0 <mn>1<\/mn>\u00a0\u00a0 <mrow>\u00a0\u00a0\u00a0 <mn>12<\/mn><\/mrow>\u00a0 <\/mfrac>\u00a0 <mo>=<\/mo><mfrac>\u00a0\u00a0 <mn>7<\/mn>\u00a0\u00a0 <mrow>\n\u00a0\u00a0\u00a0 <mn>12<\/mn><\/mrow>\u00a0 <\/mfrac><mtext>\u00a0tanque<\/mtext><\/mrow><\/math>",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

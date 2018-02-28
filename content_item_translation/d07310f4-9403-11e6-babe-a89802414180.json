@@ -1,0 +1,19 @@
+{
+    "uuid": "d07310f4-9403-11e6-babe-a89802414180",
+    "content_item_id": "90a54eb6-2b51-11e5-890e-902b34691136",
+    "content_passage_id": null,
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "En la clase de matem\u00e1ticas hay 10 alumnos. Nueve de los alumnos obtuvieron las siguientes calificaciones en el examen final:\n<br><\/br>\n<math>\r\n <mrow>\r\n  <mn>68<\/mn><mi>%<\/mi><mtext>\u2009<\/mtext><mtext>\u2009<\/mtext><mtext>\u2009<\/mtext><mtext>\u2009<\/mtext><mtext>\u2009<\/mtext><mn>47<\/mn><mi>%<\/mi><mtext>\u2009<\/mtext><mtext>\u2009<\/mtext><mtext>\u2009<\/mtext><mtext>\u2009<\/mtext><mtext>\u2009<\/mtext><mn>81<\/mn><mi>%<\/mi><mtext>\u2009<\/mtext><mtext>\u2009<\/mtext><mtext>\u2009<\/mtext><mtext>\u2009<\/mtext><mtext>\u2009<\/mtext><mn>96<\/mn><mi>%<\/mi><mtext>\u2009<\/mtext><mtext>\u2009<\/mtext><mtext>\u2009<\/mtext><mtext>\u2009<\/mtext><mtext>\u2009<\/mtext><mn>91<\/mn><mi>%<\/mi><mtext>\u2009<\/mtext><mtext>\u2009<\/mtext><mtext>\u2009<\/mtext><mtext>\u2009<\/mtext><mtext>\u2009<\/mtext><mn>84<\/mn><mi>%<\/mi><mtext>\u2009<\/mtext><mtext>\u2009<\/mtext><mtext>\u2009<\/mtext><mtext>\u2009<\/mtext><mtext>\u2009<\/mtext><mn>61<\/mn><mi>%<\/mi><mtext>\u2009<\/mtext><mtext>\u2009<\/mtext><mtext>\u2009<\/mtext><mtext>\u2009<\/mtext><mtext>\u2009<\/mtext><mn>66<\/mn><mi>%<\/mi><mtext>\u2009<\/mtext><mtext>\u2009<\/mtext><mtext>\u2009<\/mtext><mtext>\u2009<\/mtext><mtext>\u2009<\/mtext><mn>76<\/mn><mi>%<\/mi><\/mrow>\r\n<\/math> \n<br><\/br>\nQu\u00e9 calificaci\u00f3n debe obtener el d\u00e9cimo estudiante en el examen final para que la calificaci\u00f3n promedio de ex\u00e1menes finales&t\u00bb; de todos los 10 estudiantes sea del 75\u00a0%?<\/br>",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "El promedio es la proporci\u00f3n de la suma de todas las calificaciones, \ndividido por la cantidad total de calificaciones. Dado que la <em>x<\/em> es la\ncalificaci\u00f3n que falta, establece una ecuaci\u00f3n en la que el promedio sea igual a\r\n75.<br\/>  <br\/> <math>  <mtable columnalign=left>   <mtr>    <mtd columnalign=right>     <mfrac>      <mrow>       <mn>68<\/mn><mo>+<\/mo><mn>47<\/mn><mo>+<\/mo><mn>81<\/mn><mo>+<\/mo><mn>96<\/mn><mo>+<\/mo><mn>91<\/mn><mo>+<\/mo><mn>84<\/mn><mo>+<\/mo><mn>61<\/mn><mo>+<\/mo><mn>66<\/mn><mo>+<\/mo><mn>76<\/mn><mo>+<\/mo><mi>x<\/mi><\/mrow>\r\n     <mrow>       <mn>10<\/mn><\/mrow>     <\/mfrac>    <\/mtd><mtd> <mo>=<\/mo><mn>75<\/mn>\r\n   <\/mtd>   <\/mtr>   <mtr>    <mtd>     <mn>68<\/mn><mo>+<\/mo><mn>47<\/mn><mo>+<\/mo><mn>81<\/mn><mo>+<\/mo><mn>96<\/mn><mo>+<\/mo><mn>91<\/mn><mo>+<\/mo><mn>84<\/mn><mo>+<\/mo><mn>61<\/mn><mo>+<\/mo><mn>66<\/mn><mo>+<\/mo><mn>76<\/mn><mo>+<\/mo><mi>x<\/mi>   <\/mtd><mtd><mo>=<\/mo><mn>750<\/mn>\r\n   <\/mtd>   <\/mtr>   <mtr>    <mtd columnalign=right>     <mn>670<\/mn><mo>+<\/mo><mi>x<\/mi>  <\/mtd><mtd><mo>=<\/mo><mn>750<\/mn>\r\n   <\/mtd>   <\/mtr>   <mtr>    <mtd columnalign=right>     <mi>x<\/mi>  <\/mtd><mtd><mo>=<\/mo><mn>80<\/mn>\r\n   <\/mtd>   <\/mtr>  <\/mtable>   <\/math>\r\n  <br\/><br><\/br><b>El estudiante debe obtener un 80\u00a0% en el examen final.  <\/b>",
+    "intro_text": null,
+    "prefix": null,
+    "suffix": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2017-08-03 12:14:19",
+    "deleted_at": null
+}

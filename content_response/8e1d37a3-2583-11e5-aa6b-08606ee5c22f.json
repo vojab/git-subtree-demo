@@ -1,0 +1,20 @@
+{
+    "content_item_id": "8e1be7de-2583-11e5-aa6b-08606ee5c22f",
+    "name": "a paleontologist uncovering a new species of dinosaur",
+    "value": "a paleontologist uncovering a new species of dinosaur",
+    "order": "5",
+    "order_locked": "0",
+    "feedback": null,
+    "score": "0.00",
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": "0",
+    "uuid": "8e1d37a3-2583-11e5-aa6b-08606ee5c22f",
+    "created_at": "2015-07-08 15:11:05",
+    "updated_at": "2015-07-16 02:21:04"
+}
