@@ -1,0 +1,17 @@
+{
+    "uuid": "d07597d4-9403-11e6-babe-a89802414180",
+    "content_item_id": "55f22b67-d182-11e4-8a55-123139092536",
+    "content_passage_id": "765b1426-9404-11e6-babe-a89802414180",
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "<p>\u00bfCu\u00e1l es la mejor forma de completar el espacio en blanco 10?<\/p>\n\n![dropdown:Drop_Down_558_67] <span style=\"font-weight: normal;\" >y simplicidad, es posible que la popularidad de las luminarias siga creciendo.<\/span>",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "La respuesta correcta es: \u201cDebido a su belleza.\u201d La oraci\u00f3n deber\u00eda decir: \u201cDebido a su belleza y simplicidad, es posible que la popularidad de las luminarias siga creciendo.\u201d The words \u201cdue\u201d and \u201cdo\u201d are commonly confused words. En esta oraci\u00f3n, \u201cdebido a,\u201d con el significado de \u201cpor eso,\u201d es correcto. The words \u201ctheir\u201d and \u201cthey\u2019re\u201d are also commonly confused words. La palabra \u201csu\u201d es un pronombre posesivo que significa\u201c que les pertenece a ellos.\u201d Debido a que la oraci\u00f3n significa la belleza de ellas, la palabra correcta es \u201csu.\u201d",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

@@ -1,0 +1,20 @@
+{
+    "content_item_id": "665c451f-c39a-11e5-b42c-22000af4874e",
+    "name": "Last summer, Aunt Judy and Uncle Benjamin went on a trip through five southwestern states.",
+    "value": "Last summer, Aunt Judy and Uncle Benjamin went on a trip through five southwestern states.",
+    "order": 7,
+    "order_locked": 0,
+    "feedback": null,
+    "score": 0,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "6753e38c-c39a-11e5-b42c-22000af4874e",
+    "created_at": "2015-08-20 18:07:55",
+    "updated_at": "2016-01-25 11:32:43"
+}

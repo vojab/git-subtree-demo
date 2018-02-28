@@ -1,0 +1,17 @@
+{
+    "uuid": "d072808a-9403-11e6-babe-a89802414180",
+    "content_item_id": "9c99fed7-2b51-11e5-890e-902b34691136",
+    "content_passage_id": null,
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "Anna est\u00e1 analizando sus ganancias del negocio de tarjetas de felicitaci\u00f3n. Quiere <br>\nque m\u00e1s del 40\u00a0% del precio <i>p<\/i> de sus tarjetas de felicitaci\u00f3n sean ganancias. <br>\nSi <i>c<\/i> representa el costo de Anna para hacer una tarjeta de felicitaci\u00f3n, \u00bfqu\u00e9 desigualdad <br>\nrepresenta la relaci\u00f3n deseada entre precio y costo?<\/br>",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "La ganancia es siempre el precio menos el costo, o <i>p<\/i> - <i>c<\/i>. Esta debe superar el 40\u00a0% del precio, <i>p<\/i>. Recuerda convertir 40\u00a0% a un decimal dividi\u00e9ndolo por 100 y no colocando el signo de porcentaje. El resultado es \n\n<math> \u00a0<mrow> \u00a0\u00a0<mi>p<\/mi><mo>\u2212<\/mo><mi>c<\/mi><mo>><\/mo><mn>0.4<\/mn><mi>p<\/mi><\/mrow>\n<\/math> \u00a0\u00a0",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

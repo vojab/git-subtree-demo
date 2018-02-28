@@ -1,0 +1,14 @@
+{
+    "uuid": "50f77890-3f8c-11e6-8017-542696dc2d39",
+    "product_id": "19e31392-c9c4-11e4-b41a-902b34691136",
+    "resource_guide_id": "de192e6e-3f85-11e6-8881-542696dc2d39",
+    "district_id": null,
+    "lms_training": 1,
+    "lms_training_offline_resource": 0,
+    "lms_training_order": 7,
+    "teacher_guide": 1,
+    "teacher_guide_offline_resource": 0,
+    "teacher_guide_order": 107,
+    "created_at": "2016-07-01 16:42:12",
+    "updated_at": "2016-07-01 14:57:03"
+}

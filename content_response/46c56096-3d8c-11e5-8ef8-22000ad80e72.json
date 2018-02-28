@@ -1,0 +1,20 @@
+{
+    "content_item_id": "46c17b8b-3d8c-11e5-8ef8-22000ad80e72",
+    "name": "<math>  <mtext>The&#x00A0;median&#x00A0;is&#x00A0;equal&#x00A0;to&#x00A0;the&#x00A0;mode<\/mtext><mtext>.<\/mtext> <\/math>",
+    "value": "<math>  <mtext>The&#x00A0;median&#x00A0;is&#x00A0;equal&#x00A0;to&#x00A0;the&#x00A0;mode<\/mtext><mtext>.<\/mtext> <\/math>",
+    "order": 5,
+    "order_locked": 0,
+    "feedback": null,
+    "score": 0,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "46c56096-3d8c-11e5-8ef8-22000ad80e72",
+    "created_at": "2015-08-08 05:13:59",
+    "updated_at": "2015-08-08 05:13:59"
+}

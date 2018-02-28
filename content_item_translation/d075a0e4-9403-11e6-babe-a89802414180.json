@@ -1,0 +1,17 @@
+{
+    "uuid": "d075a0e4-9403-11e6-babe-a89802414180",
+    "content_item_id": "3e6da42a-d182-11e4-8a55-123139092536",
+    "content_passage_id": "765b189a-9404-11e6-babe-a89802414180",
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "<p>\u00bfCu\u00e1l es la mejor forma de completar el espacio en blanco 3?<\/p>\n\n![dropdown:Drop_Down_535_46] <span style=\"font-weight: normal;\" >a todos los empleados de servicio al cliente, responder\u00e1 preguntas y ofrecer\u00e1 una descripci\u00f3n general de sus planes.<\/span>",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "La respuesta correcta es \u201cJuan se presentar\u00e1.\u201d La oraci\u00f3n deber\u00eda decir: \u201cJuan se presentar\u00e1 a todos los empleados de servicio al cliente, responder\u00e1 preguntas y ofrecer\u00e1 una descripci\u00f3n general de sus planes.\u201d Usar \u201c\u00e9l\u201d como el sujeto es incorrecto porque no quedar\u00eda claro si \u201c\u00e9l\u201d se refiere a Juan o a Marc DeMille. De forma similar, el pronombre \u201clo\u201d no quedar\u00eda claro. El pronombre \u201cse\u201d deja claro que Juan es el que se presenta.",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

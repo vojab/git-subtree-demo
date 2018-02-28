@@ -1,0 +1,20 @@
+{
+    "content_item_id": "c743ce4a-8182-11e5-bc99-902b34691136",
+    "name": "replace <u>this<\/u> with <u>these<\/u>",
+    "value": "replace <u>this<\/u> with <u>these<\/u>",
+    "order": 6,
+    "order_locked": 0,
+    "feedback": null,
+    "score": 1,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "c7ad2fe0-8182-11e5-bc99-902b34691136",
+    "created_at": "2015-09-14 18:26:54",
+    "updated_at": "2015-11-02 17:12:39"
+}

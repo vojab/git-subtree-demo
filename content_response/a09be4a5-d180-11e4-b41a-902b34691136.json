@@ -1,0 +1,20 @@
+{
+    "content_item_id": "a06531e4-d180-11e4-b41a-902b34691136",
+    "name": "Even though coal mining has a negative environmental impact, the benefits of coal mining outweigh its environmental impact.",
+    "value": "Even though coal mining has a negative environmental impact, the benefits of coal mining outweigh its environmental impact.",
+    "order": "5",
+    "order_locked": 0,
+    "feedback": null,
+    "score": 0,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "a09be4a5-d180-11e4-b41a-902b34691136",
+    "created_at": "2015-02-10 17:46:26",
+    "updated_at": "2015-03-25 22:00:42"
+}

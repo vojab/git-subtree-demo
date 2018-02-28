@@ -1,0 +1,20 @@
+{
+    "content_item_id": "f66740f2-8182-11e5-bc99-902b34691136",
+    "name": "<math><mtable><mtr><mtd><mrow><mo form=\"prefix\">(<\/mo><mi>l<\/mi><mo>\u00f7<\/mo><mn>3<\/mn><mo form=\"postfix\">)<\/mo><\/mrow><mo>\u00d7<\/mo><mn>2<\/mn><\/mtd><\/mtr><\/mtable><\/math>",
+    "value": "<math><mtable><mtr><mtd><mrow><mo form=\"prefix\">(<\/mo><mi>l<\/mi><mo>\u00f7<\/mo><mn>3<\/mn><mo form=\"postfix\">)<\/mo><\/mrow><mo>\u00d7<\/mo><mn>2<\/mn><\/mtd><\/mtr><\/mtable><\/math>",
+    "order": 6,
+    "order_locked": 0,
+    "feedback": null,
+    "score": 1,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "f7552f47-8182-11e5-bc99-902b34691136",
+    "created_at": "2015-09-17 12:54:44",
+    "updated_at": "2015-11-02 17:13:42"
+}

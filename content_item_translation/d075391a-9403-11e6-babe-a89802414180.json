@@ -1,0 +1,17 @@
+{
+    "uuid": "d075391a-9403-11e6-babe-a89802414180",
+    "content_item_id": "5eab3d7b-d182-11e4-8a55-123139092536",
+    "content_passage_id": "765aca0c-9404-11e6-babe-a89802414180",
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "<p>\u00bfCu\u00e1l es la mejor forma de completar el espacio en blanco 9?<\/p>\n\n<span style=\"font-weight: normal;\" >Cuando esta mezcla alcanza la superficie de la Tierra,<\/span> ![dropdown:Drop_Down_717_96] <span style=\"font-weight: normal;\" >llama lava.<\/span>",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "La respuesta correcta es \"se.\" La oraci\u00f3n deber\u00eda decir: \u201cCuando esta mezcla alcanza la tierra, se llama lava.\u201d El pronombre \u201cse\u201d se refiere al sustantivo \u201cmezcla.\u201d El sustantivo singular de g\u00e9nero neutro \u201cmezcla\u201d necesita un pronombre singular de g\u00e9nero neutro: \u201cse.\u201d",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

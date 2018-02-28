@@ -1,0 +1,17 @@
+{
+    "uuid": "d072bb36-9403-11e6-babe-a89802414180",
+    "content_item_id": "9061b6e6-2b51-11e5-890e-902b34691136",
+    "content_passage_id": null,
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "Lynh administra una peque\u00f1a empresa con 12 empleados. Ofrece un reparto de ganancias en el que<br> el 5\u00a0% de las ganancias se distribuye equitativamente entre todos los empleados a final del a\u00f1o. Cada <\/br>empleado obtuvo $2,300 en reparto de ganancias en 2013. \u00bfCu\u00e1l fue el total de las ganancias? ",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "Convierte 5\u00a0% en un decimal. Entonces, la <i>x<\/i>ser\u00e1 el total de ganancias. Tu\necuaci\u00f3n es <br\/>\n<math> <mrow><mn>0.05<\/mn><mi>x<\/mi><mo>\u00f7<\/mo><mn>12<\/mn><mo>=<\/mo><mn>2300<\/mn><\/mrow>\n<\/math><br\/>\nPrimero multiplica ambos lados por 12 y luego div\u00eddelos entre 0.05. <br\/>\n<math> <mtable>\u00a0 <mtr>\u00a0\u00a0 <mtd><mn>0.05<\/mn><mi>x<\/mi><mo>\u00f7<\/mo><mn>12<\/mn><mo>=<\/mo><mn>2300<\/mn>\n\u00a0\u00a0 <\/mtd>\u00a0 <\/mtr>\u00a0 <mtr>\n\u00a0\u00a0 <mtd><mn>0.05<\/mn><mi>x<\/mi><mo>=<\/mo><mn>27600<\/mn>\u00a0\u00a0 <\/mtd>\u00a0 <\/mtr>\u00a0 <mtr>\u00a0 <mtd>\n<mi>x<\/mi><mo>=<\/mo><mi>$<\/mi><mn>552<\/mn><mo>,<\/mo><mn>000<\/mn>\n\u00a0\u00a0 <\/mtd>\u00a0 <\/mtr> <\/mtable><\/math>\u00a0 <br\/>\nEl total de ganancias de Lynh fue de $552,000.",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

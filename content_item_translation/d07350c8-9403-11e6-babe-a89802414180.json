@@ -1,0 +1,17 @@
+{
+    "uuid": "d07350c8-9403-11e6-babe-a89802414180",
+    "content_item_id": "8e226552-2583-11e5-aa6b-08606ee5c22f",
+    "content_passage_id": null,
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "Si en el a\u00f1o 2050, el centro promedio de la poblaci\u00f3n de Estados Unidos se mudara al extremo m\u00e1s occidental de Kentucky, \u00bfcu\u00e1l de las siguientes declaraciones ser\u00eda verdad? Elige la mejor respuesta.",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "La media, o promedio, del centro de la poblaci\u00f3n es m\u00e1s cercana a las \u00e1reas donde la poblaci\u00f3n es mayor. Mientras m\u00e1s lejos al este est\u00e9 el centro promedio de la poblaci\u00f3n, mayor ser\u00e1 la poblaci\u00f3n en el este en comparaci\u00f3n con la poblaci\u00f3n en el oeste. Si el centro promedio de la poblaci\u00f3n en 2050 estuviese en Kentucky, la poblaci\u00f3n todav\u00eda estar\u00eda, generalmente, movi\u00e9ndose hacia el sur, pero habr\u00eda una mayor concentraci\u00f3n de poblaci\u00f3n en el este que en 2000. Esto puede explicarse si la poblaci\u00f3n en el este aumentara m\u00e1s r\u00e1pido que la poblaci\u00f3n en el oeste.",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

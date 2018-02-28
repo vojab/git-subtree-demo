@@ -1,0 +1,19 @@
+{
+    "uuid": "d0725e70-9403-11e6-babe-a89802414180",
+    "content_item_id": "9c557b5e-2b51-11e5-890e-902b34691136",
+    "content_passage_id": null,
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "El dise\u00f1o para una peque\u00f1a encimera <br>\nse muestra. \u00bfCu\u00e1l es el per\u00edmetro y <br>\n\u00e1rea de la encimera?<\/br>\n<p><\/p>\nPer\u00edmetro = ![dropdown:math_test3_question17_dropdown1]\n<p><\/p>\n\u00c1rea = ![dropdown:math_test3_question17_dropdown2]",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "Primero, resta para calcular las dimensiones desconocidas de la encimera.<br>\nCalcula el per\u00edmetro sumando todos los lados. Calcula el \u00e1rea<br>\ndividiendo la regi\u00f3n en dos rect\u00e1ngulos, luego calcula cada \u00e1rea <br>\ny luego suma las \u00e1reas.<\/br><img src='\/uploads\/assessments\/3379\/es_zlweolsa3379.jpg' alt='Answer Explanation Image'>",
+    "intro_text": null,
+    "prefix": null,
+    "suffix": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

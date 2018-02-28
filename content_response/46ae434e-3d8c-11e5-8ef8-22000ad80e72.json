@@ -1,0 +1,20 @@
+{
+    "content_item_id": "46a9e1f5-3d8c-11e5-8ef8-22000ad80e72",
+    "name": "<math>  <mtext>$250,000<\/mtext> <\/math>",
+    "value": "<math>  <mtext>$250,000<\/mtext> <\/math>",
+    "order": 5,
+    "order_locked": 0,
+    "feedback": null,
+    "score": 1,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "46ae434e-3d8c-11e5-8ef8-22000ad80e72",
+    "created_at": "2015-08-08 05:13:59",
+    "updated_at": "2015-08-08 05:13:59"
+}

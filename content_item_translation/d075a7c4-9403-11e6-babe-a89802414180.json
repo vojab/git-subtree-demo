@@ -1,0 +1,17 @@
+{
+    "uuid": "d075a7c4-9403-11e6-babe-a89802414180",
+    "content_item_id": "40a3107a-d182-11e4-8a55-123139092536",
+    "content_passage_id": "765b1cc8-9404-11e6-babe-a89802414180",
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "<p>\u00bfCu\u00e1l es la mejor forma de completar el espacio en blanco 11?<\/p>\n\n<span style=\"font-weight: normal;\" >Como se sabe, el sistema de<\/span> ![dropdown:Drop_Down_543_54] <span style=\"font-weight: normal;\" >se iba a reparar hoy, pero a\u00fan no funciona.<\/span>",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "La respuesta correcta es \u201ccalefacci\u00f3n del edificio.\u201d La oraci\u00f3n deber\u00eda decir: \u201cComo se sabe, el sistema de calefacci\u00f3n del edificio se iba a reparar hoy, pero a\u00fan no funciona.\u201d The letter is talking to residents of one specific building, so the word \u201cbuilding\u2019s\u201d should be singular possessive: the heating system of one specific building. To form a possessive from a singular noun that doesn\u2019t end in \u201cs,\u201d add an apostrophe and then an \u201cs.\u201d\n",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

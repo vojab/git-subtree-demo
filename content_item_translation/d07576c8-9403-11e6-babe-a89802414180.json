@@ -1,0 +1,17 @@
+{
+    "uuid": "d07576c8-9403-11e6-babe-a89802414180",
+    "content_item_id": "5b43fa14-d182-11e4-8a55-123139092536",
+    "content_passage_id": "765b0170-9404-11e6-babe-a89802414180",
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "<p>\u00bfCu\u00e1l es la mejor forma de completar el espacio en blanco 14?<\/p>\n\n![dropdown:Drop_Down_705_86] <span style=\"font-weight: normal;\" >queremos reunirnos con usted para revisar las opciones disponibles.<\/span>",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "La respuesta correcta es \"Mi gerente de ventas y yo.\" La oraci\u00f3n debe decir: \u201cMi gerente de ventas y yo queremos reunirnos con usted para revisar las opciones disponibles.\u201d Esta pregunta le pide elegir el pronombre correcto. Cuando usa un pronombre en un grupo o serie con otros sustantivos, a veces, es dif\u00edcil elegir el pronombre correcto. Una forma f\u00e1cil de averiguarlo es eliminar las palabras adicionales y solo usar el pronombre en la oraci\u00f3n. \u201cYo quiero reunirme con usted\u201d suena correcto. \u201cA m\u00ed gustar\u00eda reunirme con usted\u201d suena incorrecto. Esto se debe a que el pronombre es el sujeto de la oraci\u00f3n y necesita estar en caso subjetivo. \u201cA m\u00ed\u201d est\u00e1 en caso objetivo y \u201cyo\u201d en el caso subjetivo. El sujeto correcto es \u201cMi gerente de ventas y yo.\u201d",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

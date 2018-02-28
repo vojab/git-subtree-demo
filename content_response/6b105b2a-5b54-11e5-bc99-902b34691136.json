@@ -1,0 +1,20 @@
+{
+    "content_item_id": "6ad99c9d-5b54-11e5-bc99-902b34691136",
+    "name": "<math>  <mfrac>   <mn>4<\/mn>   <mn>5<\/mn>  <\/mfrac>   <\/math>",
+    "value": "<math>  <mfrac>   <mn>4<\/mn>   <mn>5<\/mn>  <\/mfrac>   <\/math>",
+    "order": 5,
+    "order_locked": 0,
+    "feedback": null,
+    "score": 0,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "6b105b2a-5b54-11e5-bc99-902b34691136",
+    "created_at": "2015-09-10 13:50:11",
+    "updated_at": "2015-09-21 16:19:34"
+}

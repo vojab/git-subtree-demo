@@ -1,0 +1,20 @@
+{
+    "content_item_id": "41002f3c-d306-11e4-87e1-902b34691136",
+    "name": "a greater percentage of goods from the USA and Japan.",
+    "value": "a greater percentage of goods from the USA and Japan.",
+    "order": "5",
+    "order_locked": 0,
+    "feedback": null,
+    "score": 0,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "413c045c-d306-11e4-87e1-902b34691136",
+    "created_at": "2015-03-03 13:24:49",
+    "updated_at": "2015-03-25 15:47:19"
+}

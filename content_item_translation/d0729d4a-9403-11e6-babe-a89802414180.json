@@ -1,0 +1,17 @@
+{
+    "uuid": "d0729d4a-9403-11e6-babe-a89802414180",
+    "content_item_id": "9cc98c71-2b51-11e5-890e-902b34691136",
+    "content_passage_id": null,
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "Los dos tri\u00e1ngulos son similares. \u00bfQu\u00e9 <br>\nexpresi\u00f3n es igual a la longitud del lado <br>\n<i>x<\/i> mostrado en el diagrama? <\/br>",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "<math>\n <mtable>\n  <mtr>\n   <mtd>\n    <mfrac>\n     <mi>x<\/mi>\n     <mrow>\n      <mn>10<\/mn><\/mrow>\n    <\/mfrac>\n    <mo>=<\/mo><mfrac>\n     <mrow>\n      <mn>60<\/mn><\/mrow>\n     <mn>8<\/mn>\n    <\/mfrac>\n    \n   <\/mtd>\n  <\/mtr>\n  <mtr>\n   <mtd>\n    <mn>8<\/mn><mo>\u22c5<\/mo><mi>x<\/mi><mo>=<\/mo><mn>10<\/mn><mo>\u22c5<\/mo><mn>60<\/mn>\n   <\/mtd>\n  <\/mtr>\n  <mtr>\n   <mtd>\n    <mi>x<\/mi><mo>=<\/mo><mfrac>\n     <mrow>\n      <mn>10<\/mn><mo stretchy='false'>(<\/mo><mn>60<\/mn><mo stretchy='false'>)<\/mo><\/mrow>\n     <mn>8<\/mn>\n    <\/mfrac>\n    <mtext>\u00a0pulgadas<\/mtext>\n   <\/mtd>\n  <\/mtr>\n <\/mtable>\n &t\u00a6;&t\u00a7;&t\u00a8;",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

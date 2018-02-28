@@ -1,0 +1,20 @@
+{
+    "content_item_id": "86955709-8182-11e5-bc99-902b34691136",
+    "name": "catch insects that are farther away",
+    "value": "catch insects that are farther away",
+    "order": 6,
+    "order_locked": 0,
+    "feedback": null,
+    "score": 1,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "871c0890-8182-11e5-bc99-902b34691136",
+    "created_at": "2015-08-31 09:29:55",
+    "updated_at": "2015-11-02 17:11:03"
+}

@@ -1,0 +1,17 @@
+{
+    "uuid": "d0732ab2-9403-11e6-babe-a89802414180",
+    "content_item_id": "90c2fbad-2b51-11e5-890e-902b34691136",
+    "content_passage_id": null,
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "\u00bfCu\u00e1l es la coordenada <i>x<\/i> del punto en el que las l\u00edneas <math>\n <mi>x<\/mi><mo>=<\/mo><mn>4<\/mn><mi>y<\/mi><mo>\u2212<\/mo><mn>8<\/mn>\n<\/math>\n y <br><math>\n <mfrac>\n  <mn>1<\/mn>\n  <mn>2<\/mn>\n <\/mfrac>\n <mi>x<\/mi><mo>+<\/mo><mi>y<\/mi><mo>=<\/mo><mn>11<\/mn>\n<\/math> se intersecan?<\/br>\n<p><\/p>\n\n",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "Ya que\n la primera ecuaci\u00f3n est\u00e1 resuelta para <em>x<\/em>, utiliza la sustituci\u00f3n.\n<br\/> <math>  <mrow>   <mrow><mo>{<\/mo> <mtable\ncolumnalign='left'>    <mtr>     <mtd>      <mi>x<\/mi><mo>=<\/mo><mn>4<\/mn><mi>y<\/mi><mo>\u2212<\/mo><mn>8<\/mn>\n    <\/mtd>    <\/mtr>    <mtr>     <mtd>      <mfrac>       <mn>1<\/mn>       <mn>2<\/mn>      <\/mfrac>      <mi>x<\/mi><mo>+<\/mo><mi>y<\/mi><mo>=<\/mo><mn>11<\/mn>\n    <\/mtd>    <\/mtr>   <\/mtable>    <\/mrow><\/mrow> <\/math> <br\/>\nSustituye la expresi\u00f3n de<em>x<\/em> de la primera ecuaci\u00f3n\n en la segunda ecuaci\u00f3n y resuelve para <em>y<\/em>. <br\/> <math>  <mtable columnalign=left>   <mtr>    <mtd>     <mfrac>      <mn>1<\/mn>      <mn>2<\/mn>     <\/mfrac>     <mrow><mo>(<\/mo>      <mrow>       <mn>4<\/mn><mi>y<\/mi><mo>\u2212<\/mo><mn>8<\/mn><\/mrow>\n    <mo>)<\/mo><\/mrow><mo>+<\/mo><mi>y<\/mi><\/mtd><mtd> <mo>=<\/mo><mn>11<\/mn>\n   <\/mtd>   <\/mtr>   <mtr>    <mtd columnalign=right>     <mn>2<\/mn><mi>y<\/mi><mo>\u2212<\/mo><mn>4<\/mn><mo>+<\/mo><mi>y<\/mi> <\/mtd><mtd><mo>=<\/mo><mn>11<\/mn>\n   <\/mtd>   <\/mtr>   <mtr>    <mtd columnalign=right>     <mn>3<\/mn><mi>y<\/mi> <\/mtd><mtd><mo>=<\/mo><mn>15<\/mn>\n   <\/mtd>   <\/mtr>   <mtr>    <mtd columnalign=right>     <mi>y<\/mi> <\/mtd><mtd><mo>=<\/mo><mn>5<\/mn>\n   <\/mtd>   <\/mtr>  <\/mtable>   <\/math>\n  <br\/> <p><\/p>Finalmente, sustituye 5 en\n<em>y<\/em> en las ecuaciones originales y encuentra el valor de\n<em>x<\/em>.<br\/> <math>\n <mtable columnalign=left>   &t\u00a6;    &t\u00a7;     &t\u00a8;x&t\u00a9; &t\u00aa;&t\u00ab;&t\u00ac;=&t\u00ad;&t\u00ae;4&t\u00af;&t\u00b0;&t\u00b1;(&t\u00b2;&t\u00b3;     &t\u00b4;5&t\u00b5;     &t\u00b6;)&t\u00b7;&t\u00b8;&t\u00b9;\u2212&t\u00ba;&t\u00bb;8&t\u00bc;&t\u00bd;   &t\u00be;   &t\u00bf;   &t\u00c0;    &t\u00c1; &t\u00c2;&t\u00c3;    &t\u00c4;=&t\u00c5;&t\u00c6;20&t\u00c7;&t\u00c8;\u2212&t\u00c9;&t\u00ca;8&t\u00cb;&t\u00cc;   &t\u00cd;   &t\u00ce;   &t\u00cf;    &t\u00d0;    &t\u00d1;&t\u00d2; &t\u00d3;=&t\u00d4;&t\u00d5;12&t\u00d6;&t\u00d7;   &t\u00d8;   &t\u00d9;  &t\u00da;   &t\u00db;&t\u00dc;",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

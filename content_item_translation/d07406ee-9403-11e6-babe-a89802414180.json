@@ -1,0 +1,17 @@
+{
+    "uuid": "d07406ee-9403-11e6-babe-a89802414180",
+    "content_item_id": "825dc097-2b54-11e5-890e-902b34691136",
+    "content_passage_id": null,
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "<p style=\"font-weight:normal\">Un investigador hipotetiza que la cantidad de minerales disueltos en un lago local en cualquier momento cambia con la temperatura del agua.<\/p>\n\n<p>\u00bfCu\u00e1l de los siguientes m\u00e9todos ser\u00eda la mejor manera para que este investigador tome muestras para probar esta hip\u00f3tesis?<\/p>",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "<p>La mejor respuesta es tomar ejemplos y lecturas de temperatura de varios lugares en el lago en d\u00edas de temperaturas diferentes durante todo el a\u00f1o. Tomar muestras y lecturas de temperatura desde distintos lugares en el lago le da al investigador varios ensayos para comparar. Si el investigador solo muestrea una ubicaci\u00f3n, puede haber un factor desconocido que afecte a esa ubicaci\u00f3n. Tomar muestras en d\u00edas con diferentes temperaturas durante todo el a\u00f1o proporciona la variable independiente en la prueba. El agua debe tener distintas temperaturas para probar la teor\u00eda.<\/p>",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

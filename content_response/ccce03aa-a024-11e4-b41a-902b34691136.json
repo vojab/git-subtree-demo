@@ -1,0 +1,20 @@
+{
+    "content_item_id": "cca2b90a-a024-11e4-b41a-902b34691136",
+    "name": "(c) Both (a) and (b) are correct.",
+    "value": "(c) Both (a) and (b) are correct.",
+    "order": "3",
+    "order_locked": 1,
+    "feedback": null,
+    "score": 1,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "ccce03aa-a024-11e4-b41a-902b34691136",
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2015-03-25 21:51:42"
+}

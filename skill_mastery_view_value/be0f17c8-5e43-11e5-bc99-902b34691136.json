@@ -1,0 +1,12 @@
+{
+    "skill_mastery_view_id": "2bc56fe4-5e2d-11e5-bc99-902b34691136",
+    "metadata_value_id": "19f264e6-5e29-11e5-bc99-902b34691136",
+    "parent_skill_mastery_view_value_id": "be01e1c0-5e43-11e5-bc99-902b34691136",
+    "show_children": 1,
+    "collapse_by_default": 1,
+    "ignore_child_null_score": 0,
+    "order": 34,
+    "uuid": "be0f17c8-5e43-11e5-bc99-902b34691136",
+    "created_at": "2015-09-18 20:27:54",
+    "updated_at": "2015-09-18 20:27:54"
+}

@@ -1,0 +1,17 @@
+{
+    "uuid": "d072ce78-9403-11e6-babe-a89802414180",
+    "content_item_id": "90671d52-2b51-11e5-890e-902b34691136",
+    "content_passage_id": null,
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "En un dibujo a escala, un \u00e1rbol de 42\u00a0pies se dibuja a una altura de 6\u00a0pulgadas. El m\u00e1stil <br>que est\u00e1 al lado\n\nse dibuja a 7\u00a0pulgadas de alto. \u00bfCu\u00e1l es la altura real del m\u00e1stil?<\/br>",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "Establece y resuelve la proporci\u00f3n:<p><\/p>\n<math>\n <mtable>\n  <mtr>\n   <mtd>\n    <mfrac>\n     <mrow>\n      <mn>6<\/mn><mtext>\u00a0in<\/mtext><mtext>\u00a0en el dibujo<\/mtext><\/mrow>\n     <mrow>\n      <mn>42<\/mn><mtext>\u00a0ft\u00a0en la realidad<\/mtext><\/mrow>\n    <\/mfrac>\n    <mo>=<\/mo><mfrac>\n     <mrow>\n      <mn>7<\/mn><mtext>\u00a0in<\/mtext><mtext>\u00a0en el dibujo<\/mtext><\/mrow>\n     <mrow>\n      <mi>x<\/mi><mtext>\u00a0ft\u00a0en la realidad<\/mtext><\/mrow>\n    <\/mfrac>\n    \n   <\/mtd>\n  <\/mtr>\n  <mtr>\n   <mtd>\n    <mfrac>\n     <mn>6<\/mn>\n     <mrow>\n      <mn>42<\/mn><\/mrow>\n    <\/mfrac>\n    <mo>=<\/mo><mfrac>\n     <mn>7<\/mn>\n     <mi>x<\/mi>\n    <\/mfrac>\n    \n   <\/mtd>\n  <\/mtr>\n  <mtr>\n   <mtd>\n    <mn>6<\/mn><mi>x<\/mi><mo>=<\/mo><mn>294<\/mn>\n   <\/mtd>\n  <\/mtr>\n  <mtr>\n   <mtd>\n    &t\u00a6;x&t\u00a7;&t\u00a8;=&t\u00a9;&t\u00aa;49&t\u00ab;&t\u00ac;   &t\u00ad;&t\u00ae;  &t\u00af;&t\u00b0; &t\u00b1;&t\u00b2; &t\u00b3;&t\u00b4;&t\u00b5;&t\u00b6;&t\u00b7;&t\u00b8;&t\u00b9;El m\u00e1stil mide 49\u00a0pies de altura.<\/b>\n",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

@@ -1,0 +1,20 @@
+{
+    "content_item_id": "4d223d6d-5a2c-11e4-b41a-902b34691136",
+    "name": "2,822,400 m<sup>3<\/sup>",
+    "value": "2,822,400 m<sup>3<\/sup>",
+    "order": "5",
+    "order_locked": 0,
+    "feedback": null,
+    "score": 1,
+    "content_comparison_type_id": 1,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "601ba7e9-5a2c-11e4-b41a-902b34691136",
+    "created_at": "2014-10-22 16:45:36",
+    "updated_at": "2015-03-25 21:52:21"
+}

@@ -1,0 +1,17 @@
+{
+    "uuid": "d074112a-9403-11e6-babe-a89802414180",
+    "content_item_id": "744c129f-2b51-11e5-890e-902b34691136",
+    "content_passage_id": null,
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "Eman est\u00e1 planeando vender campanas de viento en una feria de artesan\u00edas. El costo de sus herramientas <br>para producir las campanas de viento es de $130. El costo de materiales es $10 por campana <\/br>de viento. \u00bfCu\u00e1l es el costo total para realizar 100 campanas de viento?",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "100 veces $10 equivale a $1,000, m\u00e1s $130 equivale a $1,130. El costo total de las campanas de viento es $1,130.",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

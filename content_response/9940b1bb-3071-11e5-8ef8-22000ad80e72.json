@@ -1,0 +1,20 @@
+{
+    "content_item_id": "993d3018-3071-11e5-8ef8-22000ad80e72",
+    "name": "Collect a hundred blood samples from a random sampling of pigeons throughout the city.",
+    "value": "Collect a hundred blood samples from a random sampling of pigeons throughout the city.",
+    "order": 5,
+    "order_locked": 0,
+    "feedback": null,
+    "score": 1,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "9940b1bb-3071-11e5-8ef8-22000ad80e72",
+    "created_at": "2015-07-22 13:00:16",
+    "updated_at": "2015-07-22 13:00:16"
+}

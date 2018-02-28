@@ -1,0 +1,11 @@
+{
+    "metadata_type_id": "0a0fbb02-75a4-11e4-b41a-902b34691136",
+    "parent_metadata_value_id": null,
+    "code": "7.SP.6",
+    "description": "Approximate the probability of a chance event by collecting data on the chance process that produces it and observing its long-run relative frequency, and predict the approximate relative frequency given the probability. For example, when rolling a number cube 600 times, predict that a 3 or 6 would be rolled roughly 200 times, but probably not exactly 200 times.",
+    "subject_area_id": null,
+    "uuid": "d44e017a-75b0-11e4-b41a-902b34691136",
+    "created_at": "2014-11-26 19:11:46",
+    "updated_at": "2015-05-11 22:59:33",
+    "hidden": "0"
+}

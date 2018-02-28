@@ -1,0 +1,17 @@
+{
+    "uuid": "d0740b58-9403-11e6-babe-a89802414180",
+    "content_item_id": "834e58d4-2b54-11e5-890e-902b34691136",
+    "content_passage_id": "765a2cbe-9404-11e6-babe-a89802414180",
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "<p>\u00bfQu\u00e9 pieza de evidencia de los pasajes apoya la conclusi\u00f3n de que la energ\u00eda solar reducir\u00eda el ozono da\u00f1ino?<\/p>",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "<p>El pasaje establece que se produce un precursor qu\u00edmico del ozono cuando se queman combustibles f\u00f3siles. Usar energ\u00eda solar reduce el uso de combustibles f\u00f3siles, lo que reducir\u00eda el ozono da\u00f1ino en la trop\u00f3sfera, o atm\u00f3sfera m\u00e1s baja.<\/p>\n",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

@@ -1,0 +1,17 @@
+{
+    "uuid": "d072590c-9403-11e6-babe-a89802414180",
+    "content_item_id": "9c32eb2c-2b51-11e5-890e-902b34691136",
+    "content_passage_id": null,
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "Un sobreviviente tom\u00f3 las siguientes mediciones de <br>\ndos casas sobre los lados opuestos de un r\u00edo. Seg\u00fan <br>\nestas mediciones, \u00bfcu\u00e1l es la distancia <br>\nentre las dos casas al pie m\u00e1s pr\u00f3ximo?<\/br>\n<p><\/p>",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "La respuesta correcta es 94\u00a0pies. El agrimensor midi\u00f3 dos lados de un tri\u00e1ngulo recto. Con la f\u00f3rmula de Pit\u00e1goras, puedes calcular la respuesta. Los lados, <math><mi>a<\/mi><\/math> y <math><mi>b<\/mi><\/math>, tienen 50 pies y 80 pies.<br\/> <math><mtable><mtr><mtd><msup><mi>a<\/mi><mn>2<\/mn><\/msup><mo>+<\/mo><msup><mi>b<\/mi><mn>2<\/mn><\/msup><mo>=<\/mo><msup><mi>c<\/mi><mn>2<\/mn><\/msup><\/mtd><\/mtr><mtr><mtd><msup><mn>50<\/mn><mn>2<\/mn><\/msup><mo>+<\/mo><msup><mn>80<\/mn><mn>2<\/mn><\/msup><mo>=<\/mo><msup><mi>c<\/mi><mn>2<\/mn><\/msup><\/mtd><\/mtr><mtr><mtd><mn>2500<\/mn><mo>+<\/mo><mn>6400<\/mn><mo>=<\/mo><msup><mi>c<\/mi><mn>2<\/mn><\/msup><\/mtd><\/mtr>\n<mtr><mtd><msup><mi>c<\/mi><mn>2<\/mn><\/msup><mo>=<\/mo><mn>8900<\/mn><\/mtd>\u00a0 <\/mtr> <mtr><mtd><mi>c<\/mi><mo>=&t\u00a6;  &t\u00a7;&t\u00a8;   &t\u00a9;&t\u00aa;    &t\u00ab;8900&t\u00ac;&t\u00ad;&t\u00ae;  &t\u00af;&t\u00b0;&t\u00b1;&t\u00b2;&t\u00b3;&t\u00b4;c&t\u00b5;&t\u00b6;\u2248&t\u00b7;&t\u00b8;94.3&t\u00b9;&t\u00ba; &t\u00bb;&t\u00bc;&t\u00bd;&t\u00be;Para redondear, la distancia entre las dos casas es de 94 pies.<br\/>",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

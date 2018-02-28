@@ -1,0 +1,20 @@
+{
+    "content_item_id": "665c2264-c39a-11e5-b42c-22000af4874e",
+    "name": "Although Ronald Reagan was born in Tampico, Illinois, his Presidential Museum is located in Simi Valley, California.",
+    "value": "Although Ronald Reagan was born in Tampico, Illinois, his Presidential Museum is located in Simi Valley, California.",
+    "order": 5,
+    "order_locked": 0,
+    "feedback": null,
+    "score": 1,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "6753a340-c39a-11e5-b42c-22000af4874e",
+    "created_at": "2015-08-18 15:52:43",
+    "updated_at": "2016-01-25 11:32:43"
+}

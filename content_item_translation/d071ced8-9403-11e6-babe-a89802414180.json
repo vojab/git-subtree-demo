@@ -1,0 +1,17 @@
+{
+    "uuid": "d071ced8-9403-11e6-babe-a89802414180",
+    "content_item_id": "053ac7f7-a025-11e4-b41a-902b34691136",
+    "content_passage_id": "765a0df6-9404-11e6-babe-a89802414180",
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "\u00bfQu\u00e9 informaci\u00f3n importante sobre v\u00edctimas j\u00f3venes de ahogamiento da el pasaje que no se muestre en ning\u00fan gr\u00e1fico?",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "La palabra clave en la pregunta es \"importante.\" Si bien el pasaje tambi\u00e9n incluye informaci\u00f3n sobre la campa\u00f1a nacional de Seguridad de Piscinas de la Comisi\u00f3n de Seguridad de Productos del Consumidor (Consumer Product Safety Commission, CPSC), esta informaci\u00f3n no es tan importante como la informaci\u00f3n sobre la tasa de muertes por ahogamiento de ni\u00f1os afroamericanos.",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

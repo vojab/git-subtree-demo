@@ -1,0 +1,20 @@
+{
+    "content_item_id": "6e90a47a-d17e-11e4-b41a-902b34691136",
+    "name": "<math>  <mtext>The&#x00A0;cost&#x00A0;of&#x00A0;a&#x00A0;single&#x00A0;napkin<\/mtext> <\/math>",
+    "value": "<math>  <mtext>The&#x00A0;cost&#x00A0;of&#x00A0;a&#x00A0;single&#x00A0;napkin<\/mtext> <\/math>",
+    "order": "5",
+    "order_locked": 0,
+    "feedback": null,
+    "score": 0,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "6ec0f5d4-d17e-11e4-b41a-902b34691136",
+    "created_at": "2015-02-24 22:45:20",
+    "updated_at": "2015-03-25 21:59:52"
+}

@@ -1,0 +1,17 @@
+{
+    "uuid": "d0723b02-9403-11e6-babe-a89802414180",
+    "content_item_id": "9be37b52-2b51-11e5-890e-902b34691136",
+    "content_passage_id": null,
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "Una empresa de suministros para fiestas hace una fiesta de sombreros de forma c\u00f3nica <br>\npara ni\u00f1os usando cart\u00f3n fino. En los <br>\ncent\u00edmetros cuadrados m\u00e1s cercanos, \u00bfcu\u00e1nto cart\u00f3n se necesita para hacer el <br>\nsombrero de fiesta que muestra el dise\u00f1o?<br>\n(Utiliza <math>\n <mi>\u03c0<\/mi>\n<\/math> = 3.14)<\/br>\n",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "<math>\n <mtable columnalign='left'>\n  <mtr>\n   <mtd>\n    <mtext>La f\u00f3rmula para conocer la superficie de un cono es:\u00a0<\/mtext><mi>A<\/mi><mo>=<\/mo><mi>\u03c0<\/mi><mi>r<\/mi><mi>s<\/mi><mo>+<\/mo><mi>\u03c0<\/mi><msup>\n     <mi>r<\/mi>\n     <mn>2<\/mn>\n    <\/msup>\n    <mo>.<\/mo>\n   <\/mtd>\n  <\/mtr>\n  <mtr>\n   <mtd>\n    <mrow><\/mrow>\n   <\/mtd>\n  <\/mtr>\n  <mtr>\n   <mtd>\n    <mtext>Ya que los gorros de fiesta no tienen fondo, quita\u00a0<\/mtext><mi>\u03c0<\/mi><msup>\n     <mi>r<\/mi>\n     <mn>2<\/mn>\n    <\/msup>\n    <mtext>\u00a0de la<\/mtext>\n   <\/mtd>\n  <\/mtr>\n  <mtr>\n   <mtd>\n    <mtext>f\u00f3rmula<\/mtext><mtext>.\u00a0La cantidad que se necesita de cart\u00f3n es:<\/mtext>\n   <\/mtd>\n  <\/mtr>\n  <mtr>\n   <mtd>\n    <mrow><\/mrow>\n   <\/mtd>\n  <\/mtr>\n  <mtr>\n   <mtd>\n    <mtext>\u00a0<\/mtext><mi>A<\/mi><mo>=<\/mo><mi>\u03c0<\/mi><mi>r<\/mi><mi>s<\/mi><mo>=<\/mo><mo stretchy='false'>(<\/mo><mn>3.14<\/mn><mo stretchy='false'>)<\/mo><mo stretchy='false'>(<\/mo><mn>10<\/mn><mo stretchy='false'>)<\/mo><mo stretchy='false'>(<\/mo><mn>24<\/mn><mo stretchy='false'>)<\/mo><mo>=<\/mo><mn>753.6<\/mn><mo>\u2248<\/mo><mn>754<\/mn><msup>\n     <mtext>\u00a0cm<\/mtext>\n     <mn>2<\/mn>\n    <\/msup>\n    \n   <\/mtd>\n  <\/mtr>\n <\/mtable>\n \n<\/math>\n",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

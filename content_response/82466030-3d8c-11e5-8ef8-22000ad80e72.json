@@ -1,0 +1,20 @@
+{
+    "content_item_id": "8241bc3f-3d8c-11e5-8ef8-22000ad80e72",
+    "name": "<math>  <mrow><mo>{<\/mo> <mtable columnalign='left'>   <mtr>    <mtd>     <mi>M<\/mi><mo>+<\/mo><mi>W<\/mi><mo>=<\/mo><mn>558<\/mn>    <\/mtd>   <\/mtr>   <mtr>    <mtd>     <mn>0.05<\/mn><mi>M<\/mi><mo>+<\/mo><mn>0.045<\/mn><mi>W<\/mi><mo>=<\/mo><mn>12<\/mn><mo>,<\/mo>",
+    "value": "<math>  <mrow><mo>{<\/mo> <mtable columnalign='left'>   <mtr>    <mtd>     <mi>M<\/mi><mo>+<\/mo><mi>W<\/mi><mo>=<\/mo><mn>558<\/mn>    <\/mtd>   <\/mtr>   <mtr>    <mtd>     <mn>0.05<\/mn><mi>M<\/mi><mo>+<\/mo><mn>0.045<\/mn><mi>W<\/mi><mo>=<\/mo><mn>12<\/mn><mo>,<\/mo><mn>400<\/mn>    <\/mtd>   <\/mtr>  <\/mtable>   <\/mrow> <\/math>",
+    "order": 5,
+    "order_locked": 0,
+    "feedback": null,
+    "score": 0,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "82466030-3d8c-11e5-8ef8-22000ad80e72",
+    "created_at": "2015-08-08 05:15:39",
+    "updated_at": "2015-08-08 05:15:39"
+}

@@ -1,0 +1,17 @@
+{
+    "uuid": "d07235ee-9403-11e6-babe-a89802414180",
+    "content_item_id": "9bc40e15-2b51-11e5-890e-902b34691136",
+    "content_passage_id": null,
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "Una galer\u00eda de arte est\u00e1 vendiendo cinco impresiones de p\u00f3ster de pinturas por $22, $26, $35, $50 y $64. <br>\nSi la tienda comenz\u00f3 vendiendo una sexta impresi\u00f3n por $45, \u00bfa cu\u00e1ntos d\u00f3lares aumentar\u00e1 la mediana <\/br>\ndel precio de venta de las impresiones?<\/br>\n<p><\/p>",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "El costo medio de las cinco impresiones originales el $\u00a035. Cuando se agrega un sexto precio a la lista de precios, la mediana es el n\u00famero promedio entre los dos precios medios, $\u00a035 y $\u00a045, El promedio de $\u00a035 y $\u00a045 es $\u00a040, por lo cual $\u00a040 es el nuevo precio mediano. El precio mediano ha cambiado de $35 a $40, una diferencia de $5.\n<p><\/p>\n<b>El costo mediano de las impresiones cambiar\u00eda por $5. <\/b>",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

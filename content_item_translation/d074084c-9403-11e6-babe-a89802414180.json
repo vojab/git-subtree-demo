@@ -1,0 +1,17 @@
+{
+    "uuid": "d074084c-9403-11e6-babe-a89802414180",
+    "content_item_id": "82bb908a-2b54-11e5-890e-902b34691136",
+    "content_passage_id": "765a2c32-9404-11e6-babe-a89802414180",
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "<p>\u00bfC\u00f3mo puedes resolver los efectos perjudiciales y beneficiosos del ozono descritos en los dos pasajes?<\/p>",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "<p>Los dos pasajes hablan sobre el ozono. El primer pasaje explica que el ozono a nivel del suelo (troposf\u00e9rico) puede ser da\u00f1ino. El segundo pasaje explica que el ozono estratosf\u00e9rico, mayor en la atm\u00f3sfera, es beneficioso. El ozono puede ser da\u00f1ino en la trop\u00f3sfera pero beneficioso en la estrat\u00f3sfera.<\/p>",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

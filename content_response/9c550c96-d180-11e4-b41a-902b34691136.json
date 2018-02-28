@@ -1,0 +1,20 @@
+{
+    "content_item_id": "9c2884a8-d180-11e4-b41a-902b34691136",
+    "name": "Eating cooked meat from an infected pig.",
+    "value": "Eating cooked meat from an infected pig.",
+    "order": "5",
+    "order_locked": 0,
+    "feedback": null,
+    "score": 0,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "9c550c96-d180-11e4-b41a-902b34691136",
+    "created_at": "2015-02-10 15:57:54",
+    "updated_at": "2015-03-25 22:00:42"
+}

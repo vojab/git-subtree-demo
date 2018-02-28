@@ -1,0 +1,17 @@
+{
+    "uuid": "d0723c10-9403-11e6-babe-a89802414180",
+    "content_item_id": "9bf4fccf-2b51-11e5-890e-902b34691136",
+    "content_passage_id": null,
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "Simplifica: \n\n<math>\n\u00a0<mrow>\n\u00a0 <mfrac>\n\u00a0\u00a0 <mrow>\n<mn>4<\/mn><mrow><mo>(<\/mo>\n<mrow>\n<mn>4<\/mn><mo>+<\/mo><mn>7<\/mn><\/mrow>\n<mo>)<\/mo><\/mrow><\/mrow>\n\u00a0\u00a0 <mrow>\n<msup>\n<mn>2<\/mn>\n<mn>2<\/mn>\n<\/msup>\n<mo>\u2212<\/mo><mn>4<\/mn><\/mrow>\n<\/mfrac>\n\u00a0 <\/mrow>\n<\/math>\n",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "Seg\u00fan el orden de las operaciones, primero simplifica el numerador y el denominador por separado. En el denominador, hay un exponente. Cuando lo calculas, obtienes <math>\n\u00a0<mrow><mn>4<\/mn><mo>-<\/mo><mn>4<\/mn>\n<\/mrow>\n<\/math> que es 0. Los n\u00fameros racionales con 0 en el denominador son indefinidos.",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

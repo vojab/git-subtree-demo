@@ -1,0 +1,17 @@
+{
+    "uuid": "d0731d88-9403-11e6-babe-a89802414180",
+    "content_item_id": "90bdb640-2b51-11e5-890e-902b34691136",
+    "content_passage_id": null,
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "Multiplica:\n<math>  <mrow><\/mrow> <\/math>   <math>  <mrow>   <mrow><mo>(<\/mo>    <mrow>     <mn>3<\/mn><mi>x<\/mi><mo>+<\/mo><mn>4<\/mn><\/mrow>\n  <mo>)<\/mo><\/mrow><mrow><mo>(<\/mo>\n   <mrow>     <mn>2<\/mn><mi>x<\/mi><mo>\u2212<\/mo><mn>5<\/mn><\/mrow>\n  <mo>)<\/mo><\/mrow><\/mrow>\n<\/math>    ",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "Utiliza el m\u00e9todo FOIL para distribuir los t\u00e9rminos del primer binomio\nen el segundo binomio. <br\/> <math>\n <mtable columnalign=left>   <mtr>    <mtd>     <mrow><mo>(<\/mo>      <mrow>       <mn>3<\/mn><mi>x<\/mi><mo>+<\/mo><mn>4<\/mn><\/mrow>\n    <mo>)<\/mo><\/mrow><mrow><mo>(<\/mo>\n     <mrow>       <mn>2<\/mn><mi>x<\/mi><mo>\u2212<\/mo><mn>5<\/mn><\/mrow>\n    <mo>)<\/mo><\/mrow><\/mtd><mtd><mo>=<\/mo><mn>3<\/mn><mi>x<\/mi><mrow><mo>(<\/mo>\n     <mrow>       <mn>2<\/mn><mi>x<\/mi><\/mrow>\n    <mo>)<\/mo><\/mrow><mo>+<\/mo><mn>3<\/mn><mi>x<\/mi><mrow><mo>(<\/mo>\n     <mrow>       <mo>\u2212<\/mo><mn>5<\/mn><\/mrow>\n    <mo>)<\/mo><\/mrow><mo>+<\/mo><mn>4<\/mn><mrow><mo>(<\/mo>\n     <mrow>       <mn>2<\/mn><mi>x<\/mi><\/mrow>\n    <mo>)<\/mo><\/mrow><mo>+<\/mo><mn>4<\/mn><mrow><mo>(<\/mo>\n     &t\u00a6;       &t\u00a7;\u2212&t\u00a8;&t\u00a9;5&t\u00aa;&t\u00ab;&t\u00ac;    &t\u00ad;)&t\u00ae;&t\u00af;    &t\u00b0;   &t\u00b1;   &t\u00b2;    &t\u00b3;   &t\u00b4;&t\u00b5;  &t\u00b6;=&t\u00b7;&t\u00b8;6&t\u00b9;&t\u00ba;&t\u00bb;     &t\u00bc;x&t\u00bd;      &t\u00be;2&t\u00bf;     &t\u00c0;     &t\u00c1;\u2212&t\u00c2;&t\u00c3;15&t\u00c4;&t\u00c5;x&t\u00c6;&t\u00c7;+&t\u00c8;&t\u00c9;8&t\u00ca;&t\u00cb;x&t\u00cc;&t\u00cd;\u2212&t\u00ce;&t\u00cf;20&t\u00d0;&t\u00d1;   &t\u00d2;   &t\u00d3;   &t\u00d4;    &t\u00d5; &t\u00d6;&t\u00d7;    &t\u00d8;=&t\u00d9;&t\u00da;6&t\u00db;&t\u00dc;&t\u00dd;     &t\u00de;x&t\u00df;      &t\u00e0;2&t\u00e1;     &t\u00e2;     &t\u00e3;\u2212&t\u00e4;&t\u00e5;7&t\u00e6;&t\u00e7;x&t\u00e8;&t\u00e9;\u2212&t\u00ea;&t\u00eb;20&t\u00ec;&t\u00ed;   &t\u00ee;   &t\u00ef;  &t\u00f0;   &t\u00f1;&t\u00f2;",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

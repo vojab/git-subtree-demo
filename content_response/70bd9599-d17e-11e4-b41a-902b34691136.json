@@ -1,0 +1,20 @@
+{
+    "content_item_id": "7074b1b9-d17e-11e4-b41a-902b34691136",
+    "name": "<math>  <mtext>The&#x00A0;mode&#x00A0;is&#x00A0;greater&#x00A0;than&#x00A0;the&#x00A0;mean<\/mtext><mtext>.<\/mtext> <\/math>",
+    "value": "<math>  <mtext>The&#x00A0;mode&#x00A0;is&#x00A0;greater&#x00A0;than&#x00A0;the&#x00A0;mean<\/mtext><mtext>.<\/mtext> <\/math>",
+    "order": "5",
+    "order_locked": 0,
+    "feedback": null,
+    "score": 0,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "70bd9599-d17e-11e4-b41a-902b34691136",
+    "created_at": "2015-02-25 14:33:22",
+    "updated_at": "2015-03-25 21:59:52"
+}

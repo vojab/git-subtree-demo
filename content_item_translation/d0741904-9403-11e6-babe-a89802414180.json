@@ -1,0 +1,17 @@
+{
+    "uuid": "d0741904-9403-11e6-babe-a89802414180",
+    "content_item_id": "746e5b62-2b51-11e5-890e-902b34691136",
+    "content_passage_id": null,
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "El gr\u00e1fico muestra las alturas, en cent\u00edmetros, de los estudiantes <br>varones en una universidad de la ciudad.\nDe los 288 estudiantes varones<br> mostrados en el gr\u00e1fico, 215 de ellos ten\u00edan alturas de 170\u00a0cm <br>\no m\u00e1s. \u00bfCu\u00e1ntos estudiantes varones ten\u00edan <br>menos de 170\u00a0cm de alto?<\/br>\n\n",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "Hay tres barras a la derecha de la barra que comienza con alturas de<br>\n170 cm o m\u00e1s. Resta 215 de 288 para encontrar la cantidad de estudiantes<br>\nque ten\u00edan menos de 170 cm de alto: 288 - 215 = <b>73 estudiantes<\/b>",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

@@ -1,0 +1,17 @@
+{
+    "uuid": "d0734e16-9403-11e6-babe-a89802414180",
+    "content_item_id": "8e1be7de-2583-11e5-aa6b-08606ee5c22f",
+    "content_passage_id": "765a1e0e-9404-11e6-babe-a89802414180",
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "\u00bfCu\u00e1les de las siguientes personas est\u00e1n preocupadas por el mismo principio general como el autor del pasaje?",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "El principio general que preocupa al autor del pasaje es entender las causas del aumento en la actividad de incendios y encontrar una soluci\u00f3n basada en esas causas. Con respecto a esto, el autor es m\u00e1s parecido a un investigador de c\u00e1ncer que intenta entender la causa del c\u00e1ncer y buscar una cura.",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

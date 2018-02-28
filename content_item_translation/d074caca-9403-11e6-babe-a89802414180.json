@@ -1,0 +1,17 @@
+{
+    "uuid": "d074caca-9403-11e6-babe-a89802414180",
+    "content_item_id": "6b725eed-dee4-11e5-9186-22000af4874e",
+    "content_passage_id": "765a74a8-9404-11e6-babe-a89802414180",
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "\u00bfCu\u00e1l de las siguientes acciones <u>no<\/u> est\u00e1 respaldada por los fragmentos de la Constituci\u00f3n de EE.\u00a0UU.?",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "El Congreso tiene el poder de declarar la guerra y de crear un ej\u00e9rcito; por ende, declarar la guerra en 1945 y aprobar la Ley de Servicio Selectivo son eventos respaldados por los fragmentos. Al ordenar el lanzamiento de la bomba at\u00f3mica, Truman tambi\u00e9n cuenta con respaldo porque el presidente es el comandante en jefe del ej\u00e9rcito. Al ordenar el avance de tropas de combate en Vietnam, Johnson no cuenta con respaldo, ya que enviar tropas armadas a un \u00e1rea es un acto de guerra y solo el Congreso puede declarar la guerra.",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

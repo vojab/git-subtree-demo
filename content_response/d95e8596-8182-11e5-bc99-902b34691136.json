@@ -1,0 +1,20 @@
+{
+    "content_item_id": "d92b8777-8182-11e5-bc99-902b34691136",
+    "name": "17.5%",
+    "value": "17.5%",
+    "order": 6,
+    "order_locked": 0,
+    "feedback": null,
+    "score": 0,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "d95e8596-8182-11e5-bc99-902b34691136",
+    "created_at": "2015-09-15 17:54:13",
+    "updated_at": "2015-11-02 17:13:09"
+}

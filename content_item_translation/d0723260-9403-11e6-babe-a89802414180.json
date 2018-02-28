@@ -1,0 +1,17 @@
+{
+    "uuid": "d0723260-9403-11e6-babe-a89802414180",
+    "content_item_id": "f3366e58-65e7-11e4-b4ef-123139092536",
+    "content_passage_id": "765a1814-9404-11e6-babe-a89802414180",
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "\u00bfCu\u00e1l de las siguientes declaraciones es verdad? ",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "Algunas partes de las respuestas incorrectas son verdaderas, pero ninguna es completamente verdadera.",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

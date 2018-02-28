@@ -1,0 +1,17 @@
+{
+    "uuid": "d075a3a0-9403-11e6-babe-a89802414180",
+    "content_item_id": "3f24f076-d182-11e4-8a55-123139092536",
+    "content_passage_id": "765b1a2a-9404-11e6-babe-a89802414180",
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "<p>\u00bfCu\u00e1l es la mejor forma de completar el espacio en blanco 6?<\/p>\n\n<span style=\"font-weight: normal;\" >Se encuentra en el oeste del Oc\u00e9ano Pac\u00edfico<\/span> ![dropdown:Drop_Down_538_49] <span style=\"font-weight: normal;\" >mide aproximadamente 1,580 millas de largo.<\/span>",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "La respuesta correcta es \u201ccerca de Guam, la fosa.\u201d La oraci\u00f3n deber\u00eda decir: \u201cUbicada en el oeste del Oc\u00e9ano Pac\u00edfico cerca de Guam, la fosa mide aproximadamente 1,580 millas de largo.\u201d La oraci\u00f3n comienza con un modificador, \u201cubicada en el oeste del Oc\u00e9ano Pac\u00edfico cerca de Guam,\u201d que describe la fosa. Cuando la oraci\u00f3n comienza con una frase modificadora, una coma debe separar la frase del resto de la oraci\u00f3n. No debe haber una coma despu\u00e9s de \u201cfosa,\u201d el sujeto de la oraci\u00f3n.",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

@@ -1,0 +1,17 @@
+{
+    "uuid": "d0734fec-9403-11e6-babe-a89802414180",
+    "content_item_id": "8e207647-2583-11e5-aa6b-08606ee5c22f",
+    "content_passage_id": null,
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "\u00bfC\u00f3mo se aplican los datos en la tabla a la idea de \"no darle de comer a la bestia\"?",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "La idea de \"no darle de comer a la bestia\" dice que si los impuestos son m\u00e1s altos, el gobierno gastar\u00e1 m\u00e1s. Datos opuestos a esta idea mostrar\u00e1n que cuando los ingresos se elevan, el gasto disminuye, y cuando los ingresos disminuyen, el gasto se eleva. Los datos en el gr\u00e1fico refutan la teor\u00eda de \"no darle de comer a la bestia\". Cuando los ingresos de impuestos aumentan, el gasto disminuye. Cuando los ingresos de impuestos disminuyen, el gasto aumenta.",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

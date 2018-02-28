@@ -1,0 +1,19 @@
+{
+    "uuid": "d07565fc-9403-11e6-babe-a89802414180",
+    "content_item_id": "5f21e017-2b54-11e5-890e-902b34691136",
+    "content_passage_id": null,
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "<p style=\"font-weight: normal\">Los estudiantes tienen la hip\u00f3tesis de que la presi\u00f3n sangu\u00ednea y la frecuencia del pulso disminuyen en respuesta a las temperaturas corporales elevadas. Recolectaron los datos experimentales que se muestran.<\/p> \n<p>\u00bfLos resultados del experimento respaldan la hip\u00f3tesis de los estudiantes?<\/p>",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "Los estudiantes predijeron que la presi\u00f3n sangu\u00ednea y la frecuencia del pulso disminuyen en respuesta a las temperaturas corporales elevadas. Cuando la temperatura del cuerpo del sujeto estudiado aument\u00f3, la frecuencia del pulso aument\u00f3, pero la presi\u00f3n sangu\u00ednea disminuy\u00f3. Por lo tanto, la hip\u00f3tesis fue parcialmente respaldada por el experimento y parcialmente refutada.<img src='\/uploads\/assessments\/2999\/es_7wa0g1d43010.png' alt='Answer Explanation Image'>",
+    "intro_text": null,
+    "prefix": null,
+    "suffix": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

@@ -1,0 +1,17 @@
+{
+    "uuid": "d074fa22-9403-11e6-babe-a89802414180",
+    "content_item_id": "66112727-dee1-11e5-9186-22000af4874e",
+    "content_passage_id": "765a8e66-9404-11e6-babe-a89802414180",
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "\u00bfEn qu\u00e9 idea est\u00e1n de acuerdo los dos oradores?",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "Ambos oradores hablan sobre la seguridad del voto. El orador A quiere encontrar formas de hacer m\u00e1s seguro el voto electr\u00f3nico. El orador B quiere prohibir el voto electr\u00f3nico para asegurar que el voto sea m\u00e1s seguro. Debido a que ambos oradores bregan por la seguridad, este es el asunto sobre el que ambos oradores coincidir\u00edan.",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

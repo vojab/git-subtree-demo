@@ -1,0 +1,20 @@
+{
+    "content_item_id": "eb69e228-8182-11e5-bc99-902b34691136",
+    "name": "<math><mtable><mtr><mtd><mfrac linethickness=\"1\"><mn>6<\/mn><mn>1<\/mn><\/mfrac><mo>&#x000D7;<\/mo><mfrac linethickness=\"1\"><mn>10<\/mn><mn>1<\/mn><\/mfrac><\/mtd><\/mtr><\/mtable><\/math>",
+    "value": "<math><mtable><mtr><mtd><mfrac linethickness=\"1\"><mn>6<\/mn><mn>1<\/mn><\/mfrac><mo>&#x000D7;<\/mo><mfrac linethickness=\"1\"><mn>10<\/mn><mn>1<\/mn><\/mfrac><\/mtd><\/mtr><\/mtable><\/math>",
+    "order": 6,
+    "order_locked": 0,
+    "feedback": null,
+    "score": 0,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "eb8e3ea1-8182-11e5-bc99-902b34691136",
+    "created_at": "2015-09-16 13:16:31",
+    "updated_at": "2015-11-02 17:13:22"
+}

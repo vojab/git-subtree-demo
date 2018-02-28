@@ -1,0 +1,17 @@
+{
+    "uuid": "d075b458-9403-11e6-babe-a89802414180",
+    "content_item_id": "2f65433c-dee4-11e5-9186-22000af4874e",
+    "content_passage_id": null,
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "Seg\u00fan el cronograma, \u00bfqu\u00e9 precio del libro est\u00e1 m\u00e1s cerca del punto donde la oferta cumple con la demanda?",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "Comentarios: El precio donde la oferta y la demanda son iguales se llama punto de equilibrio. Esto ocurre en alg\u00fan punto entre $30 y $35, por lo cual $33 es el precio m\u00e1s cercano al punto de equilibrio.",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

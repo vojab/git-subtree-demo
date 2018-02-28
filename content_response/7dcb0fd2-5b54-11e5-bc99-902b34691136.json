@@ -1,0 +1,20 @@
+{
+    "content_item_id": "7cea09dc-5b54-11e5-bc99-902b34691136",
+    "name": "Linda jogged more then her sister which was eleven miles through the park.  ",
+    "value": "Linda jogged more then her sister which was eleven miles through the park.  ",
+    "order": 5,
+    "order_locked": 0,
+    "feedback": null,
+    "score": 0,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "7dcb0fd2-5b54-11e5-bc99-902b34691136",
+    "created_at": "2015-09-09 12:03:30",
+    "updated_at": "2015-09-15 02:52:07"
+}

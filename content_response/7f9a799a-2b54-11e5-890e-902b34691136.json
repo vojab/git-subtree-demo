@@ -1,0 +1,20 @@
+{
+    "content_item_id": "7f511deb-2b54-11e5-890e-902b34691136",
+    "name": "Newton\u2019s First Law of Motion",
+    "value": "Newton\u2019s First Law of Motion",
+    "order": "5",
+    "order_locked": "0",
+    "feedback": null,
+    "score": "0.00",
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": "0",
+    "uuid": "7f9a799a-2b54-11e5-890e-902b34691136",
+    "created_at": "2015-06-09 16:15:12",
+    "updated_at": "2015-07-16 02:20:52"
+}

@@ -1,0 +1,20 @@
+{
+    "content_item_id": "8ac2cd8d-8182-11e5-bc99-902b34691136",
+    "name": "The doctors didn\u2019t think the boy\u2019s leg was important.",
+    "value": "The doctors didn\u2019t think the boy\u2019s leg was important.",
+    "order": 6,
+    "order_locked": 0,
+    "feedback": null,
+    "score": 0,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "8b250a5b-8182-11e5-bc99-902b34691136",
+    "created_at": "2015-08-31 09:42:06",
+    "updated_at": "2015-11-02 17:11:03"
+}

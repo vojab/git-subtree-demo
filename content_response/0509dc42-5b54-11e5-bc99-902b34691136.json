@@ -1,0 +1,20 @@
+{
+    "content_item_id": "04b21245-5b54-11e5-bc99-902b34691136",
+    "name": "To discover",
+    "value": "To discover",
+    "order": 5,
+    "order_locked": 0,
+    "feedback": null,
+    "score": 0,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "0509dc42-5b54-11e5-bc99-902b34691136",
+    "created_at": "2015-09-03 07:58:53",
+    "updated_at": "2015-09-15 02:47:16"
+}

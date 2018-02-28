@@ -1,0 +1,20 @@
+{
+    "content_item_id": "a78e75fd-8182-11e5-bc99-902b34691136",
+    "name": "social rule of conduct",
+    "value": "social rule of conduct",
+    "order": 6,
+    "order_locked": 0,
+    "feedback": null,
+    "score": 0,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "a7bf6ba4-8182-11e5-bc99-902b34691136",
+    "created_at": "2015-09-02 12:46:22",
+    "updated_at": "2015-11-02 17:11:53"
+}

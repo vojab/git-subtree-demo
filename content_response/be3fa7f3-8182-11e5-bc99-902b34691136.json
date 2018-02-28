@@ -1,0 +1,20 @@
+{
+    "content_item_id": "bdf0fefb-8182-11e5-bc99-902b34691136",
+    "name": "replace <u>can result<\/u> with <u>could be resulting<\/u>",
+    "value": "replace <u>can result<\/u> with <u>could be resulting<\/u>",
+    "order": 6,
+    "order_locked": 0,
+    "feedback": null,
+    "score": 0,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "be3fa7f3-8182-11e5-bc99-902b34691136",
+    "created_at": "2015-09-14 17:11:45",
+    "updated_at": "2015-11-02 17:12:32"
+}

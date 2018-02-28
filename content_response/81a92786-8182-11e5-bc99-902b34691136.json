@@ -1,0 +1,20 @@
+{
+    "content_item_id": "813b8625-8182-11e5-bc99-902b34691136",
+    "name": "the number of people who responded that religion is very important in each area of the study",
+    "value": "the number of people who responded that religion is very important in each area of the study",
+    "order": 6,
+    "order_locked": 0,
+    "feedback": null,
+    "score": 0,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "81a92786-8182-11e5-bc99-902b34691136",
+    "created_at": "2015-08-26 16:47:57",
+    "updated_at": "2015-11-02 17:10:50"
+}

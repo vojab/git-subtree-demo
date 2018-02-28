@@ -1,0 +1,17 @@
+{
+    "uuid": "d074c872-9403-11e6-babe-a89802414180",
+    "content_item_id": "6b642421-dee4-11e5-9186-22000af4874e",
+    "content_passage_id": "765a6e90-9404-11e6-babe-a89802414180",
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "\u00bfDe qu\u00e9 forma difieren estas dos partes de la Constituci\u00f3n de EE.\u00a0UU.?\n",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "El art\u00edculo 1 y el art\u00edculo 2 de la Constituci\u00f3n de los Estados Unidos parece entrar en conflicto sobre qui\u00e9n tiene el control del ej\u00e9rcito. El presidente es el \u201ccomandante en jefe\u201d pero solo el Congreso puede declarar la guerra y llamar al ej\u00e9rcito a prestar servicio; por lo tanto, el presidente solo puede dirigir el ej\u00e9rcito, no emitir \u00f3rdenes de guerra. Los redactores de la Constituci\u00f3n quer\u00edan evitar que el presidente se volviera demasiado poderoso, entonces incluyeron disposiciones para que el Congreso tuviera poder sobre el presidente.",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

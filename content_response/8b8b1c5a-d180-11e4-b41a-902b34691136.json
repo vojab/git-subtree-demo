@@ -1,0 +1,20 @@
+{
+    "content_item_id": "8ac0dced-d180-11e4-b41a-902b34691136",
+    "name": "Mid-oceanic ridges are common around volcanoes.",
+    "value": "Mid-oceanic ridges are common around volcanoes.",
+    "order": "5",
+    "order_locked": 0,
+    "feedback": null,
+    "score": 0,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "8b8b1c5a-d180-11e4-b41a-902b34691136",
+    "created_at": "2015-02-09 16:11:30",
+    "updated_at": "2015-03-25 22:00:27"
+}

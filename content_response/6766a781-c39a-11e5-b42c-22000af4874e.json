@@ -1,0 +1,20 @@
+{
+    "content_item_id": "666d96fe-c39a-11e5-b42c-22000af4874e",
+    "name": "Both searches are the same and will give the same results.",
+    "value": "Both searches are the same and will give the same results.",
+    "order": 5,
+    "order_locked": 0,
+    "feedback": null,
+    "score": 0,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "6766a781-c39a-11e5-b42c-22000af4874e",
+    "created_at": "2015-12-30 21:23:32",
+    "updated_at": "2016-01-25 11:32:43"
+}

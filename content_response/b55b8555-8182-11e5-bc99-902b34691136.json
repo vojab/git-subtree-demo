@@ -1,0 +1,20 @@
+{
+    "content_item_id": "b532fc1c-8182-11e5-bc99-902b34691136",
+    "name": "The narrator would have forgotten about his anger.",
+    "value": "The narrator would have forgotten about his anger.",
+    "order": 6,
+    "order_locked": 0,
+    "feedback": null,
+    "score": 0,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "b55b8555-8182-11e5-bc99-902b34691136",
+    "created_at": "2015-09-02 16:57:47",
+    "updated_at": "2015-11-02 17:12:21"
+}

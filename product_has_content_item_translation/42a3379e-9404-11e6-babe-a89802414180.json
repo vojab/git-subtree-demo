@@ -1,0 +1,10 @@
+{
+    "product_id": 5,
+    "content_item_id": 456,
+    "translation_id": 1,
+    "uuid": "42a3379e-9404-11e6-babe-a89802414180",
+    "title": "Prueba Pr\u00e1ctica de Lenguaje 1",
+    "intro_text": "<h1>Lenguaje<\/h1> <p>\u00a1Bienvenido a la prueba de pr\u00e1ctica inicial de lenguaje!<\/p> <p>Esta es una prueba r\u00e1pida para ver qu\u00e9 tan preparada est\u00e1s para la parte de lenguaje de GED<sup>\u00ae<\/sup> prueba Razonamiento a trav\u00e9s de las artes del lenguaje. Usaremos sus resultados para ayudarlo a crear un plan de aprendizaje y hacer recomendaciones a lo largo del curso.<\/p> <p>T\u00f3mate el tiempo con esta prueba. Si no sabes c\u00f3mo responder a una pregunta, d\u00e9jala en blanco y contin\u00faa con la siguiente pregunta. Suponer es una buena idea en una prueba GED<sup>\u00ae<\/sup>, pero para esta prueba, queremos saber qu\u00e9 sabes. Si no est\u00e1s seguro de la respuesta y quieres repensarla, haz clic en \u201cVer la pregunta m\u00e1s tarde\u201d para regresar a la pregunta en otro momento.<\/p> <p>La prueba tiene 15\u00a0preguntas. Estas preguntas te brindar\u00e1n una pr\u00e1ctica de los tipos de preguntas que ver\u00e1s en la prueba GED<sup>\u00ae<\/sup> y nos ayudar\u00e1 a producir un plan de estudio para lo que necesites repasar para la prueba.<\/p> <p>\u00a1Rel\u00e1jate y da lo mejor de ti!<\/p>",
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:54:30"
+}

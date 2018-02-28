@@ -1,0 +1,12 @@
+{
+    "short_name": "LS Math",
+    "long_name": "Life Skills Math",
+    "order": 3,
+    "color": "",
+    "icon": null,
+    "uuid": "5f454728-2caf-11e6-80f3-54ee751c9d45",
+    "created_at": "2016-06-07 14:57:21",
+    "updated_at": "2016-07-15 08:00:05",
+    "separate_tests_by_level": 1,
+    "restrict_tests_to_started_levels": 1
+}
