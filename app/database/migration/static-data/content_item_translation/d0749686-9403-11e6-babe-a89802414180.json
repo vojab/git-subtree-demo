@@ -1,0 +1,17 @@
+{
+    "uuid": "d0749686-9403-11e6-babe-a89802414180",
+    "content_item_id": "7766940f-2b54-11e5-890e-902b34691136",
+    "content_passage_id": null,
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "<p>Un investigador tiene la hip\u00f3tesis de que las c\u00e9lulas solares funcionar\u00edan mejor si se fabricaran de materiales resistentes al calor.<\/p>\n\n<p>\u00bfCu\u00e1l de las siguientes opciones mejora la hip\u00f3tesis?<\/p>",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "<P>La hip\u00f3tesis inicial dice que la c\u00e9lula solar funcionar\u00e1 \"m\u00e1s eficazmente,\" pero no establece con qu\u00e9 se comparar\u00e1 el rendimiento. Esto hace imposible determinar si la hip\u00f3tesis es correcta o no.<\/p>\n\n<p>Entonces, la mejor respuesta es:<\/p>\n\n<p>Una c\u00e9lula solar producida de materiales resistentes al calor producir\u00e1 m\u00e1s energ\u00eda que una c\u00e9lula solar similar hecha de materiales tradicionales.<\/p>",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

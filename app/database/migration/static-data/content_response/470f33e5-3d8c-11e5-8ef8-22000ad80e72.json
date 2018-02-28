@@ -1,0 +1,20 @@
+{
+    "content_item_id": "470c43aa-3d8c-11e5-8ef8-22000ad80e72",
+    "name": "<math>  <mn>10<\/mn><mo>+<\/mo><mn>10<\/mn><mo>+<\/mo><mn>10<\/mn><mo>+<\/mo><mn>10<\/mn> <\/math>",
+    "value": "<math>  <mn>10<\/mn><mo>+<\/mo><mn>10<\/mn><mo>+<\/mo><mn>10<\/mn><mo>+<\/mo><mn>10<\/mn> <\/math>",
+    "order": 5,
+    "order_locked": 0,
+    "feedback": null,
+    "score": 0,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "470f33e5-3d8c-11e5-8ef8-22000ad80e72",
+    "created_at": "2015-08-08 05:14:00",
+    "updated_at": "2015-08-08 05:14:00"
+}

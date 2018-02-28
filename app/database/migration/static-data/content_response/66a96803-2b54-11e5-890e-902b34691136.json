@@ -1,0 +1,20 @@
+{
+    "content_item_id": "666eddbf-2b54-11e5-890e-902b34691136",
+    "name": "A single species of anole lizards evolved into 150 closely related lizard species.",
+    "value": "A single species of anole lizards evolved into 150 closely related lizard species.",
+    "order": "5",
+    "order_locked": "0",
+    "feedback": null,
+    "score": "1.00",
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": "0",
+    "uuid": "66a96803-2b54-11e5-890e-902b34691136",
+    "created_at": "2015-06-02 22:13:55",
+    "updated_at": "2015-07-16 02:20:26"
+}

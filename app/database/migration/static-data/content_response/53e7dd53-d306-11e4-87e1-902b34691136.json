@@ -1,0 +1,20 @@
+{
+    "content_item_id": "53bf2792-d306-11e4-87e1-902b34691136",
+    "name": "higher population density in cities. ",
+    "value": "higher population density in cities. ",
+    "order": "5",
+    "order_locked": "0",
+    "feedback": null,
+    "score": "1.00",
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": "0",
+    "uuid": "53e7dd53-d306-11e4-87e1-902b34691136",
+    "created_at": "2015-03-03 07:38:17",
+    "updated_at": "2015-05-07 17:23:10"
+}

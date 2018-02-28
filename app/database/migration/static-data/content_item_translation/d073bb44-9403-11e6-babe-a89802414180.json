@@ -1,0 +1,17 @@
+{
+    "uuid": "d073bb44-9403-11e6-babe-a89802414180",
+    "content_item_id": "867b7110-2b51-11e5-890e-902b34691136",
+    "content_passage_id": null,
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "Resuelve la desigualdad para <i>y<\/i>.\n",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "Comienza escribiendo <math>\n <mrow>\n  <mfrac>\n   <mrow>\n    <mn>5<\/mn><mi>y<\/mi><\/mrow>\n   <mn>2<\/mn>\n  <\/mfrac>\n  <\/mrow>\n<\/math>\n como 2.5<i>y<\/i>.\n<p><\/p>\nLuego, sustrae 1.5 de ambos lados de la desigualdad:\n<p>\n6.5 - 1.5 > 1.5 + 2.5<em>y<\/em> - 1.5 <\/p>\n<p>     5 > 2.5<em>y<\/em>\n<\/p>\n\nCuando cada lado de la desigualdad se divide por 2.5, el resultado es 2 > <em>y<\/em>, que es el mismo que<em>y<\/em> < 2.",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

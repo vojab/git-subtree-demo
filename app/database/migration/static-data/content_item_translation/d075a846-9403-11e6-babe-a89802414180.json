@@ -1,0 +1,17 @@
+{
+    "uuid": "d075a846-9403-11e6-babe-a89802414180",
+    "content_item_id": "40fb6041-d182-11e4-8a55-123139092536",
+    "content_passage_id": "765b1d40-9404-11e6-babe-a89802414180",
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "<p>\u00bfCu\u00e1l es la mejor forma de completar el espacio en blanco 12?<\/p>\n\n<span style=\"font-weight: normal;\" >Las reparaciones<\/span> ![dropdown:Drop_Down_544_55] <span style=\"font-weight: normal;\" >esta ma\u00f1ana, pero el servicio de reparaci\u00f3n de calefacci\u00f3n cancel\u00f3 la cita por circunstancias no previstas.<\/span>",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "La respuesta correcta es \u201cse deber\u00edan haber realizado.\u201d La oraci\u00f3n deber\u00eda decir: \u201cLas reparaciones se deber\u00edan haber realizado esta ma\u00f1ana, pero el servicio de reparaci\u00f3n de calefacci\u00f3n cancel\u00f3 la cita por circunstancias no previstas.\u201d La palabra \u201chaber\u201d es necesaria en esta oraci\u00f3n porque es parte del verbo \u201chaber realizado.\u201d The word \u201chave\u201d is often confused with the word \u201cof\u201d when it\u2019s used with \u201cwould,\u201d \u201ccould,\u201d or \u201cshould.\u201d Usually, \u201cwould of\u201d should be \u201cwould have\u201d or \u201cwould\u2019ve.\u201d\n",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

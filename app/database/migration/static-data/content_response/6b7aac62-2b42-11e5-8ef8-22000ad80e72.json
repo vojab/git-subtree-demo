@@ -1,0 +1,20 @@
+{
+    "content_item_id": "6b7589d0-2b42-11e5-8ef8-22000ad80e72",
+    "name": "change the weather and interfere",
+    "value": "change the weather and interfere",
+    "order": 5,
+    "order_locked": 0,
+    "feedback": null,
+    "score": 1,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "6b7aac62-2b42-11e5-8ef8-22000ad80e72",
+    "created_at": "2015-07-16 01:39:57",
+    "updated_at": "2015-07-16 01:39:57"
+}

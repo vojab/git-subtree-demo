@@ -1,0 +1,20 @@
+{
+    "content_item_id": "71210faf-8182-11e5-bc99-902b34691136",
+    "name": "Between 2000 and 2050, the distribution of population remained the same.",
+    "value": "Between 2000 and 2050, the distribution of population remained the same.",
+    "order": 6,
+    "order_locked": 0,
+    "feedback": null,
+    "score": 0,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "7166846b-8182-11e5-bc99-902b34691136",
+    "created_at": "2015-08-26 14:28:16",
+    "updated_at": "2015-11-02 17:10:34"
+}

@@ -1,0 +1,11 @@
+{
+    "message": "Congratulations! Your College Essentials scores indicate that you're near the highest level of College Essentials. Feel free to review any areas you'd like to improve or choose another course.",
+    "uuid": "72554616-75be-11e7-8ee7-b8e856495142",
+    "created_at": "2017-07-31 14:04:08",
+    "updated_at": "2017-07-31 14:04:08",
+    "header": "Congratulations!",
+    "subheader": "%subject% Assessment",
+    "next_step": "",
+    "show_links": 0,
+    "show_retake_link": 0
+}

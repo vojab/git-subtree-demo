@@ -1,0 +1,11 @@
+{
+    "metadata_type_id": "0a0fbb02-75a4-11e4-b41a-902b34691136",
+    "parent_metadata_value_id": null,
+    "code": "8.SP.2",
+    "description": "Know that straight lines are widely used to model relationships between two quantitative variables. For scatter plots that suggest a linear association, informally fit a straight line, and informally assess the model fit by judging the closeness of the data points to the line.",
+    "subject_area_id": null,
+    "uuid": "d471a1fc-75b0-11e4-b41a-902b34691136",
+    "created_at": "2014-11-26 19:11:46",
+    "updated_at": "2015-05-11 22:59:33",
+    "hidden": "0"
+}

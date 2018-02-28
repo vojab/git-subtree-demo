@@ -1,0 +1,20 @@
+{
+    "content_item_id": "527cbe7d-5b54-11e5-bc99-902b34691136",
+    "name": "There was not much snow last winter.",
+    "value": "There was not much snow last winter.",
+    "order": 5,
+    "order_locked": 0,
+    "feedback": null,
+    "score": 1,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "52b969e5-5b54-11e5-bc99-902b34691136",
+    "created_at": "2015-09-08 15:51:01",
+    "updated_at": "2015-09-15 02:51:18"
+}

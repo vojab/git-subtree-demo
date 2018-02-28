@@ -1,0 +1,11 @@
+{
+    "name": "Texas ELA and Literacy",
+    "order": 400,
+    "associated_metadata_type_id": "f0a0cceb-75a3-11e4-b41a-902b34691136",
+    "hidden": 0,
+    "hide_from_skill_mastery_report": 1,
+    "default_course_id": null,
+    "uuid": "3f1e1a5a-98c3-11e7-b528-902b34691136",
+    "created_at": "2017-09-13 13:36:40",
+    "updated_at": "2017-09-13 13:36:40"
+}

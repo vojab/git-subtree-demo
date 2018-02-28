@@ -1,0 +1,17 @@
+{
+    "uuid": "d0755fe4-9403-11e6-babe-a89802414180",
+    "content_item_id": "5a7dd99a-2b54-11e5-890e-902b34691136",
+    "content_passage_id": "b67c5b04-d1f8-11e6-9527-54ee751c9d45",
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "<strong>\u00bfCu\u00e1l es la idea principal del pasaje?<\/strong>",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "El pasaje dice que, debido a que el di\u00f3xido de carbono contribuye al calentamiento global, es importante entender cu\u00e1ndo y d\u00f3nde se libera el carbono a la atm\u00f3sfera. Si bien el pasaje establece que la actividad humana es una fuente principal de di\u00f3xido de carbono y que la actividad humana crea di\u00f3xido de carbono m\u00e1s r\u00e1pidamente de lo que el planeta puede eliminarlo, el enfoque del texto est\u00e1 en encontrar y rastrear fuentes de di\u00f3xido de carbono.",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

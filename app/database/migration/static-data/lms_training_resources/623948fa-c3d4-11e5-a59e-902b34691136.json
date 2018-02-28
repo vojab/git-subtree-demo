@@ -1,0 +1,12 @@
+{
+    "title": "Teacher User Guide",
+    "thumbnail": "assets\/img\/lms\/training-resources\/GED-TUG-TeacherEd.png",
+    "url": "resources\/Teacher-Guide-GED-offline.pdf",
+    "description": "Learn the features to get started using the Learning Management System",
+    "order": 7,
+    "uuid": "623948fa-c3d4-11e5-a59e-902b34691136",
+    "product_id": "19e2f3cf-c9c4-11e4-b41a-902b34691136",
+    "offline_resource": 1,
+    "created_at": "2016-01-25 18:27:45",
+    "updated_at": "2016-01-25 18:27:45"
+}

@@ -1,0 +1,20 @@
+{
+    "content_item_id": "cb1d9ce8-2ccd-11e5-8ef8-22000ad80e72",
+    "name": "mild, or temperatures",
+    "value": "mild, or temperatures",
+    "order": 5,
+    "order_locked": 0,
+    "feedback": null,
+    "score": 0,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": "cb287cdf-2ccd-11e5-8ef8-22000ad80e72",
+    "evaluate_user_response": 0,
+    "uuid": "cb27c7ba-2ccd-11e5-8ef8-22000ad80e72",
+    "created_at": "2015-07-17 21:50:09",
+    "updated_at": "2015-07-17 21:50:09"
+}

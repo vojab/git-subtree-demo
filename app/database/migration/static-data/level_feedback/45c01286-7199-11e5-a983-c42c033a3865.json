@@ -1,0 +1,12 @@
+{
+    "level_id": "f4fdaa0d-3e0d-11e4-b41a-902b34691136",
+    "min_score": 80,
+    "max_score": 101,
+    "uuid": "45c01286-7199-11e5-a983-c42c033a3865",
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2015-10-14 07:47:23",
+    "course_id": null,
+    "product_id": "2d902d72-5b52-11e5-bc99-902b34691136",
+    "feedback_message_id": "45be9082-7199-11e5-a983-c42c033a3865",
+    "priority": 40
+}

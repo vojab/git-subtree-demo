@@ -1,0 +1,9 @@
+{
+    "uuid": "d601bd92-34ab-11e7-8452-b8e856495142",
+    "metadata_value_id": "da87837e-75ab-11e4-b41a-902b34691136",
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "code": null,
+    "description": "Usar vocabulario para hacer predicciones sobre un texto (con textos en los niveles de grado 2 y 3)",
+    "created_at": "2017-05-09 18:37:09",
+    "updated_at": "2017-05-09 18:37:09"
+}

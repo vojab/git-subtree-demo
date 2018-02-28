@@ -1,0 +1,20 @@
+{
+    "content_item_id": "07d33c97-d17f-11e4-b41a-902b34691136",
+    "name": "Species S and P are more closely related than species P and Q.",
+    "value": "Species S and P are more closely related than species P and Q.",
+    "order": "5",
+    "order_locked": 0,
+    "feedback": null,
+    "score": 0,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "0812d44f-d17f-11e4-b41a-902b34691136",
+    "created_at": "2015-02-09 19:33:38",
+    "updated_at": "2015-03-25 21:54:46"
+}

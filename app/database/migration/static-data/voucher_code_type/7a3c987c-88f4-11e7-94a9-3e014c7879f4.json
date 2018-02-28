@@ -1,0 +1,11 @@
+{
+    "uuid": "7a3c987c-88f4-11e7-94a9-3e014c7879f4",
+    "type": "ged_academy",
+    "name": "GED Academy (GEDA)",
+    "description": "GED Academy voucher code type. By using this code user obtains access to the GED Academy product license.",
+    "prefix": "GM",
+    "logic_class": "eec\\models\\common\\GedAcademyVoucherCodeType",
+    "created_at": "2018-01-10 09:51:13",
+    "updated_at": "2018-01-10 09:51:13",
+    "deleted_at": null
+}

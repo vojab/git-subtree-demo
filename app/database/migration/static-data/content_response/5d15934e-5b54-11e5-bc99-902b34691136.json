@@ -1,0 +1,20 @@
+{
+    "content_item_id": "5cd8df38-5b54-11e5-bc99-902b34691136",
+    "name": "<math>  <mo stretchy='false'>(<\/mo><mn>4<\/mn><mo>+<\/mo><mn>2.50<\/mn><mo stretchy='false'>)<\/mo><mo>+<\/mo><mo stretchy='false'>(<\/mo><mn>2<\/mn><mo>+<\/mo><mn>21.99<\/mn><mo stretchy='false'>)<\/mo><mo>+<\/mo><mo stretchy='false'>(<\/mo><mn>1<\/mn><mo>+<\/mo><mn>3",
+    "value": "<math>  <mo stretchy='false'>(<\/mo><mn>4<\/mn><mo>+<\/mo><mn>2.50<\/mn><mo stretchy='false'>)<\/mo><mo>+<\/mo><mo stretchy='false'>(<\/mo><mn>2<\/mn><mo>+<\/mo><mn>21.99<\/mn><mo stretchy='false'>)<\/mo><mo>+<\/mo><mo stretchy='false'>(<\/mo><mn>1<\/mn><mo>+<\/mo><mn>36.99<\/mn><mo stretchy='false'>)<\/mo> <\/math>",
+    "order": 5,
+    "order_locked": 0,
+    "feedback": null,
+    "score": 0,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "5d15934e-5b54-11e5-bc99-902b34691136",
+    "created_at": "2015-09-08 15:35:30",
+    "updated_at": "2015-09-19 14:15:53"
+}

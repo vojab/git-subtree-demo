@@ -1,0 +1,17 @@
+{
+    "uuid": "d07501ca-9403-11e6-babe-a89802414180",
+    "content_item_id": "664c5850-dee1-11e5-9186-22000af4874e",
+    "content_passage_id": "765a9712-9404-11e6-babe-a89802414180",
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "Seg\u00fan el pasaje, \u00bfpara qu\u00e9 parte de un ataque de bomba nuclear concluy\u00f3 el gobierno que no hab\u00eda defensa?",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "El pasaje dice claramente que \"de los dos resultados de la explosi\u00f3n nuclear, la tormenta de fuego y lluvia radiactiva,\" defenderse contra la lluvia radiactiva \"tuvo la \u00fanica posibilidad real de \u00e9xito.\" El pasaje no menciona \"la represalia estadounidense\" ni \"la apat\u00eda por parte de los ciudadanos.\"",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

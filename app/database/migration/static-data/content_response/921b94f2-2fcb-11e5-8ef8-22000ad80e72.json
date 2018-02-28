@@ -1,0 +1,20 @@
+{
+    "content_item_id": "9216cbb2-2fcb-11e5-8ef8-22000ad80e72",
+    "name": "Test only one type of water at a larger range of temperatures.",
+    "value": "Test only one type of water at a larger range of temperatures.",
+    "order": 5,
+    "order_locked": 0,
+    "feedback": null,
+    "score": 1,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "921b94f2-2fcb-11e5-8ef8-22000ad80e72",
+    "created_at": "2015-07-21 17:11:48",
+    "updated_at": "2015-07-21 17:11:48"
+}

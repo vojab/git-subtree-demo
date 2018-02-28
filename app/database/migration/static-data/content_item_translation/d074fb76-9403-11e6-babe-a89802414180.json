@@ -1,0 +1,17 @@
+{
+    "uuid": "d074fb76-9403-11e6-babe-a89802414180",
+    "content_item_id": "661da513-dee1-11e5-9186-22000af4874e",
+    "content_passage_id": null,
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "Seg\u00fan el mapa, \u00bfen qu\u00e9 parte del pa\u00eds hay m\u00e1s escasez de agua dulce?\n ",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "Un an\u00e1lisis cuidadoso del mapa revela que la mayor\u00eda de escasez de agua dulce local sucede en la secci\u00f3n noroeste del pa\u00eds.",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

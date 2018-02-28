@@ -1,0 +1,17 @@
+{
+    "uuid": "d073828c-9403-11e6-babe-a89802414180",
+    "content_item_id": "864ccdbb-2b51-11e5-890e-902b34691136",
+    "content_passage_id": null,
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "La ecuaci\u00f3n de la l\u00ednea 1 es <i>y<\/i> = <math>\n <mo>\u2212<\/mo>\n<\/math>2<i>x<\/i> + 7. La l\u00ednea 2 pasa <br>a trav\u00e9s de los puntos (2, 3) y (4, 4).\n\u00bfQu\u00e9 declaraci\u00f3n<br> es verdadera sobre la l\u00ednea 1 y la l\u00ednea 2?<\/br>",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "L\u00ednea 1 con ecuaci\u00f3n <i>y<\/i> = <math>\n <mo>\u2212<\/mo>\n<\/math>2<i>x<\/i> + 7 tiene una pendiente de <math>\n <mo>\u2212<\/mo>\n<\/math>2.\n<p><\/p>\nLa l\u00ednea 2 pasa a trav\u00e9s de los puntos (2, 3) y (4, 4) tiene una pendiente de:<math>\n <mrow>\n  <mi>m<\/mi><mo>=<\/mo><mfrac>\n   <mrow>\n    <mn>4<\/mn><mo>\u2212<\/mo><mn>3<\/mn><\/mrow>\n   <mrow>\n    <mn>4<\/mn><mo>\u2212<\/mo><mn>2<\/mn><\/mrow>\n  <\/mfrac>\n  <mo>=<\/mo><mfrac>\n   <mn>1<\/mn>\n   <mn>2<\/mn>\n  <\/mfrac>\n  <\/mrow>\n<\/math>\n<p><\/p>\nLa l\u00ednea 1 y la l\u00ednea 2 son perpendiculares porque cada pendiente es la rec\u00edproca negativa de la otra.",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

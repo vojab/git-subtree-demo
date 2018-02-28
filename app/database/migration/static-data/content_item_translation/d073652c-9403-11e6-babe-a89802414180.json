@@ -1,0 +1,19 @@
+{
+    "uuid": "d073652c-9403-11e6-babe-a89802414180",
+    "content_item_id": "85dc90ba-2b51-11e5-890e-902b34691136",
+    "content_passage_id": null,
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "Considera la suma:\n\u00a0\u00a0\u00a0<math>\n<mrow>\n <mn>7<\/mn>\n <mo>+<\/mo>\n <mrow>\n  <mo maxsize=\"1.00em\" form=\"prefix\">(<\/mo>\n  <mo>-<\/mo>\n  <mn>11<\/mn>\n  <mo maxsize=\"1.00em\" form=\"postfix\">)<\/mo>\n <\/mrow>\n <mo>+<\/mo>\n <mn>4<\/mn>\n<\/mrow>\n<\/math>\n<br\/>\n<br \/>\nUbica un punto en la l\u00ednea de n\u00fameros en el 7 para representar al <br>\nprimer n\u00famero en la expresi\u00f3n. Luego agrega los n\u00fameros. <br>\nUbica un punto en la l\u00ednea de n\u00fameros para cada suma resultante, <br>\nmientras lo agregas de izquierda a derecha. Para quitar un punto que <br>\nya has ubicado, haz clic en \u00e9l nuevamente.<\/br>",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "Comienza ubicando un punto en el 7. La primera operaci\u00f3n en la lista era \n<!-- (your LaTeX) $ 7 - 11 = -4$ -->\n<math>\n<mrow>\n <mn>7<\/mn>\n <mo>-<\/mo>\n <mn>11<\/mn>\n <mo>=<\/mo>\n <mo>-<\/mo>\n <mn>4<\/mn>\n<\/mrow>\n<\/math>\n, entonces ubica un punto en \n<!-- (your LaTeX) $-4$ -->\n<math>\n<mrow>\n <mo>-<\/mo>\n <mn>4<\/mn>\n<\/mrow>\n<\/math>\n La pr\u00f3xima operaci\u00f3n es \n<!-- (your LaTeX) $-4 + 4= 0$ -->\n<math>\n<mrow>\n <mo>-<\/mo>\n <mn>4<\/mn>\n <mo>+<\/mo>\n <mn>4<\/mn>\n <mo>=<\/mo>\n <mn>0<\/mn>\n<\/mrow>\n<\/math>\n entonces ubica un punto en 0.\n<br \/>\n<img src='\/uploads\/assessments\/3312\/es_vivuyo4e3312.png' alt='Answer Explanation Image'>",
+    "intro_text": null,
+    "prefix": null,
+    "suffix": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

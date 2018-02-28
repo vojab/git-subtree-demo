@@ -1,0 +1,15 @@
+{
+    "label": "Droppable Target 2",
+    "content_item_id": "dbeb4cbb-a024-11e4-b41a-902b34691136",
+    "order": 2,
+    "enable_snap": 1,
+    "max_x": 413,
+    "max_y": 212,
+    "min_x": 399,
+    "min_y": 195,
+    "snap_x": null,
+    "snap_y": null,
+    "uuid": "dc4bf70b-a024-11e4-b41a-902b34691136",
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2015-03-25 21:51:35"
+}

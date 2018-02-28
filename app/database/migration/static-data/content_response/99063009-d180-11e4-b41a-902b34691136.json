@@ -1,0 +1,20 @@
+{
+    "content_item_id": "98dd7bae-d180-11e4-b41a-902b34691136",
+    "name": "decrease by a factor of 1\/4.",
+    "value": "decrease by a factor of 1\/4.",
+    "order": "5",
+    "order_locked": "0",
+    "feedback": null,
+    "score": "1.00",
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": "0",
+    "uuid": "99063009-d180-11e4-b41a-902b34691136",
+    "created_at": "2015-02-10 07:01:12",
+    "updated_at": "2015-05-15 15:49:56"
+}

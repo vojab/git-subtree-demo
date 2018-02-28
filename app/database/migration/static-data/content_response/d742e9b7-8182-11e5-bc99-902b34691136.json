@@ -1,0 +1,20 @@
+{
+    "content_item_id": "d6dc8a92-8182-11e5-bc99-902b34691136",
+    "name": "to voice his or her comments",
+    "value": "to voice his or her comments",
+    "order": 6,
+    "order_locked": 0,
+    "feedback": null,
+    "score": 1,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "d742e9b7-8182-11e5-bc99-902b34691136",
+    "created_at": "2015-09-14 19:36:14",
+    "updated_at": "2015-11-02 17:12:55"
+}

@@ -1,0 +1,10 @@
+{
+    "uuid": "d86fca32-756c-11e7-9ce8-00ff88ea10ca",
+    "course_id": "745d3ea9-282e-11e7-82e8-902b34691136",
+    "sub_level_id": "0efbfb48-7568-11e7-9ce8-00ff88ea10ca",
+    "min": 0,
+    "max": 60,
+    "level_designation_description": "Needs Improvement in Arithmetic",
+    "created_at": "2017-07-31 00:34:47",
+    "updated_at": "2017-07-31 00:34:47"
+}

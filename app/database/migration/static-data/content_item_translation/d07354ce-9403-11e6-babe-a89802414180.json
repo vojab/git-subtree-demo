@@ -1,0 +1,19 @@
+{
+    "uuid": "d07354ce-9403-11e6-babe-a89802414180",
+    "content_item_id": "8e2bb5a8-2583-11e5-aa6b-08606ee5c22f",
+    "content_passage_id": "765a203e-9404-11e6-babe-a89802414180",
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "<span style=\"font-weight: normal;\" >Seg\u00fan el fragmento, el presidente tiene el poder de vetar cualquier ley aprobada por el Congreso. Sin embargo, la ley todav\u00eda puede aprobarse si dos tercios del Congreso votan por ella. <\/span> <span>\n<p><\/p>\n<b>\u00bfCu\u00e1l es un ejemplo del poder de veto del presidente?<\/span><\/b>",
+    "description": "El pasaje es un fragmento de la Constituci\u00f3n de los Estados Unidos.",
+    "hint": null,
+    "directions": null,
+    "feedback": "El sistema de chequeos y balances en la Constituci\u00f3n de Estados Unidos le da a las ramas del gobierno (Congreso, el Presidente y la Corte Suprema) facultades sobre el otro. El poder de veto del presidente le da al presidente poder sobre el Congreso, porque el presidente puede vetar una ley aprobada por el Congreso.",
+    "intro_text": null,
+    "prefix": null,
+    "suffix": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

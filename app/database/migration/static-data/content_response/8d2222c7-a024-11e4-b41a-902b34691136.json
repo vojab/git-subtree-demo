@@ -1,0 +1,20 @@
+{
+    "content_item_id": "8cf826b2-a024-11e4-b41a-902b34691136",
+    "name": "Electronic voting is always going to be more insecure than traditional voting.",
+    "value": "Electronic voting is always going to be more insecure than traditional voting.",
+    "order": "5",
+    "order_locked": 0,
+    "feedback": null,
+    "score": 0,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "8d2222c7-a024-11e4-b41a-902b34691136",
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2015-03-25 21:51:57"
+}

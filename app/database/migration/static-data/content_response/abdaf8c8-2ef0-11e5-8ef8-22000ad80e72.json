@@ -1,0 +1,20 @@
+{
+    "content_item_id": "abd219b7-2ef0-11e5-8ef8-22000ad80e72",
+    "name": "The bacterium expels oxygen, making room for hydrogen peroxide and carbon dioxide. These elements are then combined with solar energy to produce fuel. ",
+    "value": "The bacterium expels oxygen, making room for hydrogen peroxide and carbon dioxide. These elements are then combined with solar energy to produce fuel. ",
+    "order": 5,
+    "order_locked": 0,
+    "feedback": null,
+    "score": 0,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "abdaf8c8-2ef0-11e5-8ef8-22000ad80e72",
+    "created_at": "2015-07-20 15:04:51",
+    "updated_at": "2015-07-20 15:04:51"
+}

@@ -1,0 +1,20 @@
+{
+    "content_item_id": "e0ef6436-8182-11e5-bc99-902b34691136",
+    "name": "<math><mtable><mtr><mtd><mi>d<\/mi><mo>=<\/mo><mrow><mo form=\"prefix\">(<\/mo><mi>s<\/mi><mo>-<\/mo><mn>1<\/mn><mo form=\"postfix\">)<\/mo><\/mrow><mo>&#x000D7;<\/mo><mn>2<\/mn><\/mtd><\/mtr><\/mtable><\/math>",
+    "value": "<math><mtable><mtr><mtd><mi>d<\/mi><mo>=<\/mo><mrow><mo form=\"prefix\">(<\/mo><mi>s<\/mi><mo>-<\/mo><mn>1<\/mn><mo form=\"postfix\">)<\/mo><\/mrow><mo>&#x000D7;<\/mo><mn>2<\/mn><\/mtd><\/mtr><\/mtable><\/math>",
+    "order": 6,
+    "order_locked": 0,
+    "feedback": null,
+    "score": 0,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "e123b09b-8182-11e5-bc99-902b34691136",
+    "created_at": "2015-09-16 05:54:19",
+    "updated_at": "2015-11-02 17:13:09"
+}

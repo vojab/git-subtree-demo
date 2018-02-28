@@ -1,0 +1,20 @@
+{
+    "content_item_id": "a9b2d301-d180-11e4-b41a-902b34691136",
+    "name": "bacteria",
+    "value": "bacteria",
+    "order": "5",
+    "order_locked": 0,
+    "feedback": null,
+    "score": 0,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "aa705b98-d180-11e4-b41a-902b34691136",
+    "created_at": "2015-02-11 13:12:51",
+    "updated_at": "2015-03-25 22:00:51"
+}

@@ -1,0 +1,20 @@
+{
+    "content_item_id": "085c969d-d17f-11e4-b41a-902b34691136",
+    "name": "A snail goes a distance of 1 foot every 2 minutes.",
+    "value": "A snail goes a distance of 1 foot every 2 minutes.",
+    "order": "5",
+    "order_locked": 0,
+    "feedback": null,
+    "score": 1,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "0882bcfe-d17f-11e4-b41a-902b34691136",
+    "created_at": "2015-02-09 19:45:32",
+    "updated_at": "2015-03-25 21:54:46"
+}

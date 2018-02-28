@@ -1,0 +1,20 @@
+{
+    "content_item_id": "513e4436-d306-11e4-87e1-902b34691136",
+    "name": "All exporting from the United States to another country is prohibited.",
+    "value": "All exporting from the United States to another country is prohibited.",
+    "order": "5",
+    "order_locked": 0,
+    "feedback": null,
+    "score": 1,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "516098a7-d306-11e4-87e1-902b34691136",
+    "created_at": "2015-03-03 11:43:23",
+    "updated_at": "2015-03-25 15:47:52"
+}

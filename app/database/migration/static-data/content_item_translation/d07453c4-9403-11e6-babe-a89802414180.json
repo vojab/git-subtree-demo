@@ -1,0 +1,19 @@
+{
+    "uuid": "d07453c4-9403-11e6-babe-a89802414180",
+    "content_item_id": "74bdd68d-2b51-11e5-890e-902b34691136",
+    "content_passage_id": null,
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "Resuelva la siguiente ecuaci\u00f3n de <em>x<\/em>.\n<br\/>\n<br\/>\n\u00a0\u00a0\u00a0\u00a0<math>\n<mrow>\n <mn>0<\/mn>\n <mo>=<\/mo>\n <mn>3<\/mn>\n <msup>\n  <mi>x<\/mi>\n  <mn>2<\/mn>\n <\/msup>\n <mo>-<\/mo>\n <mn>8<\/mn>\n <mi>x<\/mi>\n <mo>+<\/mo>\n <mn>5<\/mn>\n<\/mrow>\n<\/math>",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "Esta ecuaci\u00f3n puede resolverse mediante la factorizaci\u00f3n; sin embargo, aqu\u00ed se usar\u00e1 la <br>f\u00f3rmula cuadr\u00e1tica:<\/br><p><\/p>\r\n<!-- (your LaTeX) $x= \\frac{8 \\pm \\sqrt[]{64-4\\cdot3\\cdot5}}{2\\cdot3} $ -->\r\n<math>\r\n<mrow>\r\n <mi>x<\/mi>\r\n <mo>=<\/mo>\r\n <mfrac linethickness=\"1\">\r\n  <mrow>\r\n   <mn>8<\/mn>\r\n   <mo>\u00b1<\/mo>\r\n   <mroot>\r\n    <mrow>\r\n     <mn>64<\/mn>\r\n     <mo>-<\/mo>\r\n     <mn>4<\/mn>\r\n     <mo>\u22c5<\/mo>\r\n     <mn>3<\/mn>\r\n     <mo>\u22c5<\/mo>\r\n     <mn>5<\/mn>\r\n    <\/mrow>\r\n    <mi><\/mi>\r\n   <\/mroot>\r\n  <\/mrow>\r\n  <mrow>\r\n   <mn>2<\/mn>\r\n   <mo>\u22c5<\/mo>\r\n   <mn>3<\/mn>\r\n  <\/mrow>\r\n <\/mfrac>\r\n<\/mrow>\r\n<\/math>\r\n<br\/>\r\n<!-- (your LaTeX) $=\\frac{8 \\pm 2}{6}$ -->\r\n<math>\r\n<mrow>\r\n <mo>=<\/mo>\r\n <mfrac linethickness=\"1\">\r\n  <mrow>\r\n   <mn>8<\/mn>\r\n   <mo>\u00b1<\/mo>\r\n   <mn>2<\/mn>\r\n  <\/mrow>\r\n  <mn>6<\/mn>\r\n <\/mfrac>\r\n<\/mrow>\r\n<\/math>\r\n <br\/> \r\n<!-- (your LaTeX) $= {1, \\frac{5}{3}}$ -->\r\n<math>\r\n<mrow>\r\n <mo>=<\/mo>\r\n <mrow>\r\n  <mn>1<\/mn>\r\n  <mo>,<\/mo>\r\n  <mfrac linethickness=\"1\">\r\n   <mn>5<\/mn>\r\n   <mn>3<\/mn>\r\n  <\/mfrac>\r\n <\/mrow>\r\n<\/mrow>\r\n<\/math>",
+    "intro_text": null,
+    "prefix": null,
+    "suffix": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

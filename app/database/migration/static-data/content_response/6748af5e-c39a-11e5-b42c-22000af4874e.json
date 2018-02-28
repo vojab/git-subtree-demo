@@ -1,0 +1,20 @@
+{
+    "content_item_id": "66486b9d-c39a-11e5-b42c-22000af4874e",
+    "name": "George often misbehaves and usually gets caught.",
+    "value": "George often misbehaves and usually gets caught.",
+    "order": 5,
+    "order_locked": 0,
+    "feedback": null,
+    "score": 0,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "6748af5e-c39a-11e5-b42c-22000af4874e",
+    "created_at": "2015-03-31 10:49:37",
+    "updated_at": "2016-01-25 11:32:43"
+}

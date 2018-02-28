@@ -1,0 +1,17 @@
+{
+    "uuid": "d0753d52-9403-11e6-babe-a89802414180",
+    "content_item_id": "60335a9f-d182-11e4-8a55-123139092536",
+    "content_passage_id": "765ad1b4-9404-11e6-babe-a89802414180",
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "<p>\u00bfCu\u00e1l es la mejor forma de completar el espacio en blanco 15?<\/p>\n\n![dropdown:Drop_Down_723_102] <span style=\"font-weight: normal;\" >su compa\u00f1\u00eda tiene una reputaci\u00f3n por el servicio amable, los productos de calidad y la entrega a tiempo, el puesto en el \u00e1rea de Letreros y carteles parece una excelente oportunidad para m\u00ed.<\/span>",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "La respuesta correcta es \"Debido a que.\" La oraci\u00f3n deber\u00eda decir: \u201cDebido a que su compa\u00f1\u00eda tiene una reputaci\u00f3n por el servicio amable, los productos de calidad y la entrega a tiempo, el puesto en el \u00e1rea de Letreros y carteles parece una excelente oportunidad para m\u00ed.\u201d Esta pregunta te pide que elijas una conjunci\u00f3n subordinante adecuada, o un subordinante. Las palabras \u201cDebido a que\u201d tienen sentido. El puesto parece prometedor para Mar\u00eda porque la compa\u00f1\u00eda ofrece un servicio amable, productos de calidad y entrega a tiempo.",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

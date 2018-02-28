@@ -1,0 +1,20 @@
+{
+    "content_item_id": "6648cd35-c39a-11e5-b42c-22000af4874e",
+    "name": "an executioner at a prison who must end a man\u2019s life",
+    "value": "an executioner at a prison who must end a man\u2019s life",
+    "order": 5,
+    "order_locked": 0,
+    "feedback": null,
+    "score": 0,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "674984b1-c39a-11e5-b42c-22000af4874e",
+    "created_at": "2015-04-01 11:58:24",
+    "updated_at": "2016-01-25 11:32:43"
+}

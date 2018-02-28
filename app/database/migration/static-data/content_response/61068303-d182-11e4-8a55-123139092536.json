@@ -1,0 +1,20 @@
+{
+    "content_item_id": "60ee4b22-d182-11e4-8a55-123139092536",
+    "name": "A reaction where there is no energy",
+    "value": "A reaction where there is no energy",
+    "order": "5",
+    "order_locked": 0,
+    "feedback": null,
+    "score": 0,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "61068303-d182-11e4-8a55-123139092536",
+    "created_at": "2015-01-30 20:45:10",
+    "updated_at": "2015-03-25 21:53:11"
+}

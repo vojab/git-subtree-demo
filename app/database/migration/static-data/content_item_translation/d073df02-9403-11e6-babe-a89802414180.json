@@ -1,0 +1,19 @@
+{
+    "uuid": "d073df02-9403-11e6-babe-a89802414180",
+    "content_item_id": "8695d7f3-2b51-11e5-890e-902b34691136",
+    "content_passage_id": null,
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "El gr\u00e1fico muestra la relaci\u00f3n entre<br>\nel precio del petr\u00f3leo y el precio del pan en <br>\nEstados Unidos. \u00bfQu\u00e9 se puede decir <br>\nsobre esta relaci\u00f3n?<\/br>\n\n",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "Debido a que el gr\u00e1fico est\u00e1 en aumento estrictamente, puedes decir que el precio del pan aumenta con el costo del aceite, entonces hay una relaci\u00f3n. Sin embargo, la tasa de aumento (la pendiente) var\u00eda, entonces no es una relaci\u00f3n lineal, y por lo tanto, no proporcional.",
+    "intro_text": null,
+    "prefix": null,
+    "suffix": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

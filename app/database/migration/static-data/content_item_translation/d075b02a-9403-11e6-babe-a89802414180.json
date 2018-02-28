@@ -1,0 +1,19 @@
+{
+    "uuid": "d075b02a-9403-11e6-babe-a89802414180",
+    "content_item_id": "2f490ab1-dee4-11e5-9186-22000af4874e",
+    "content_passage_id": null,
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "Seg\u00fan el fragmento, \u00bfcu\u00e1l es el objetivo de Jefferson con la expedici\u00f3n?",
+    "description": "Este extracto es de las instrucciones de Thomas Jefferson para Meriwether Lewis, el 20 de junio de 1803, con respecto a la expedici\u00f3n de Lewis y Clark.<p><\/p> \u201cEl objeto de su misi\u00f3n es explorar el r\u00edo Misuri [y] tal flujo principal de \u00e9l, ya que, por su curso [y] la comunicaci\u00f3n con las aguas del Oc\u00e9ano Pac\u00edfico, puede ofrecer la comunicaci\u00f3n de agua m\u00e1s directa y practicable a trav\u00e9s de este continente, con fines de comercio.\u201d",
+    "hint": null,
+    "directions": null,
+    "feedback": "Jefferson le ordena a Lewis encontrar una manera de conectar el R\u00edo Misuri con el Oc\u00e9ano Pac\u00edfico \u201cpara el comercio\u201d. Jefferson ten\u00eda la esperanza de que hubiera una ruta por agua desde el medio del pa\u00eds hasta el Pac\u00edfico porque eso facilitar\u00eda mucho m\u00e1s el comercio con esa parte de la Compra de Luisiana que ir por tierra todo el camino.",
+    "intro_text": null,
+    "prefix": null,
+    "suffix": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

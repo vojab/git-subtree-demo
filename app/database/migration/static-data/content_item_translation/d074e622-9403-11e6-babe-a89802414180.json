@@ -1,0 +1,17 @@
+{
+    "uuid": "d074e622-9403-11e6-babe-a89802414180",
+    "content_item_id": "6b800ce4-dee4-11e5-9186-22000af4874e",
+    "content_passage_id": "765a7624-9404-11e6-babe-a89802414180",
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "\u00bfCu\u00e1l de las siguientes opciones har\u00eda que el Senado rechace un candidato del presidente a la Corte Suprema?",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "Estados Unidos tiene dos partidos pol\u00edticos principales que conforman la mayor\u00eda del Senado. Cuando el presidente es de un partido pol\u00edtico y la mayor\u00eda de senadores son de otro partido, por lo general, est\u00e1n en desacuerdo sobre ciertos asuntos. Debido a que los jueces de la Corte Suprema se desempe\u00f1an en sus cargos por el tiempo que deseen, es importante que los partidos pol\u00edticos pongan jueces id\u00f3neos para ocupar estos puestos.",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

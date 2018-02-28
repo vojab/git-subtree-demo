@@ -1,0 +1,19 @@
+{
+    "uuid": "d0745536-9403-11e6-babe-a89802414180",
+    "content_item_id": "74c39b59-2b51-11e5-890e-902b34691136",
+    "content_passage_id": null,
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "Un arquitecto hizo un dibujo a escala de un centro comercial que est\u00e1 dise\u00f1ando con una escala de <br>\n2 cent\u00edmetros = 7.5 metros. En el dibujo, el centro comercial tiene 8.6 cent\u00edmetros de alto. \u00bfCu\u00e1l<br>\n es la altura del centro comercial real?<\/br>\n<p><\/p>\nIngresa tu respuesta como decimal.<p><\/p>",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "<math>\n <mtable columnalign='left'>\n  <mtr>\n   <mtd>\n    <mtext>Comienza\u00a0escribiendo\u00a0una\u00a0proporci\u00f3n\u00a0y\u00a0deja\u00a0a\u00a0<\/mtext><mi>x<\/mi><mtext>\u00a0igual\u00a0a\u00a0la<\/mtext>\n   <\/mtd>\n  <\/mtr>\n  <mtr>\n   <mtd>\n    <mtext>altura\u00a0desconocida\u00a0del\u00a0centro\u00a0comercial\u00a0real:\u00a0<\/mtext><mfrac>\n     <mrow>\n      <mn>2<\/mn><mtext>\u00a0cm<\/mtext><\/mrow>\n     <mrow>\n      <mtext>7<\/mtext><mtext>.5\u00a0m<\/mtext><\/mrow>\n    <\/mfrac>\n    <mo>=<\/mo><mfrac>\n     <mrow>\n      <mn>8.6<\/mn><mtext>\u00a0cm<\/mtext><\/mrow>\n     <mrow>\n      <mi>x<\/mi><mtext>\u00a0m<\/mtext><\/mrow>\n    <\/mfrac>\n    <mo>.<\/mo>\n   <\/mtd>\n  <\/mtr>\n  <mtr>\n   <mtd>\n    <mrow><\/mrow>\n   <\/mtd>\n  <\/mtr>\n  <mtr>\n   <mtd>\n    <mtext>Multiplica\u00a0cruzado\u00a0para\u00a0resolver\u00a0<\/mtext><mi>x<\/mi><mtext>:<\/mtext>\n   <\/mtd>\n  <\/mtr>\n <\/mtable>\n \n<\/math>\n\n\n<math display='block'>\n <mtable>\n  <mtr>\n   <mtd>\n    <mn>2<\/mn><mo>\u22c5<\/mo><mi>x<\/mi><mo>=<\/mo><mo stretchy='false'>(<\/mo><mn>7.5<\/mn><mo stretchy='false'>)<\/mo><mo stretchy='false'>(<\/mo><mn>8.6<\/mn><mo stretchy='false'>)<\/mo>\n   <\/mtd>\n  <\/mtr>\n  <mtr>\n   <mtd>\n    <mn>2<\/mn><mi>x<\/mi><mo>=<\/mo><mn>64.5<\/mn>\n   <\/mtd>\n  <\/mtr>\n  <mtr>\n   <mtd>\n    <mi>x<\/mi><mo>=<\/mo><mn>32.25<\/mn><mtext>\u00a0metros<\/mtext>\n   <\/mtd>\n  <\/mtr>\n <\/mtable>\n \n<\/math>\n",
+    "intro_text": null,
+    "prefix": null,
+    "suffix": "metros",
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

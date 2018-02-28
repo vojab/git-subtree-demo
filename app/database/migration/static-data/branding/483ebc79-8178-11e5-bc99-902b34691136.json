@@ -1,0 +1,15 @@
+{
+    "product_id": "a5c36a3c-8173-11e5-8488-08606ee5c22f",
+    "district_id": null,
+    "school_id": null,
+    "logo_url": null,
+    "test_practice_header": "GED Practice Test",
+    "login_page_header": "Essential Education",
+    "created_at": "2017-11-21 11:43:33",
+    "updated_at": "2017-11-21 11:43:33",
+    "uuid": "483ebc79-8178-11e5-bc99-902b34691136",
+    "half_logo_url": null,
+    "copyright": "GED<sup>&reg;<\/sup> and GED Testing Service<sup>&reg;<\/sup> are registered trademarks of the American Council on Education (ACE).<br\/>\r\nThey may not be used or reproduced without the express written permission of ACE or GED Testing Service.<br\/>\r\nThe GED<sup>&reg;<\/sup> and GED Testing Service<sup>&reg;<\/sup> brands are administered by GED Testing Service LLC under license from the American Council on Education.<br\/>\r\nUse of the GED trademark does not imply support or endorsement by ACE.",
+    "brand_name": "",
+    "use_custom_style": 0
+}

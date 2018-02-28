@@ -1,0 +1,17 @@
+{
+    "uuid": "d075a6ca-9403-11e6-babe-a89802414180",
+    "content_item_id": "40600060-d182-11e4-8a55-123139092536",
+    "content_passage_id": "765b1c3c-9404-11e6-babe-a89802414180",
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "<p>\u00bfCu\u00e1l es la mejor forma de completar el espacio en blanco 10?<\/p>\n\n![dropdown:Drop_Down_542_53] <span style=\"font-weight: normal;\" >La Fosa de las Marianas es dif\u00edcil de explorar, nuestra informaci\u00f3n sobre la fosa viene de unas pocas expediciones.<\/span>",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "La respuesta correcta es \u201cDebido a que la.\u201d La oraci\u00f3n deber\u00eda decir: \u201cDebido a que la Fosa de las Marianas es dif\u00edcil de explorar, nuestra informaci\u00f3n sobre la fosa viene de unas pocas expediciones.\u201d Esta pregunta verifica su comprensi\u00f3n de las oraciones dependientes, o subordinadas. Una oraci\u00f3n subordinada tiene un sujeto y un verbo, pero no es la oraci\u00f3n principal. Tiene un subordinante, el cual muestra la relaci\u00f3n entre la oraci\u00f3n subordinada y la oraci\u00f3n principal. En este caso, \u201cDebido a que\u201d es el mejor subordinante, ya que es el que mejor describe la relaci\u00f3n. No es necesario colocar coma despu\u00e9s de \u201cdebido a que.\u201d\n",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

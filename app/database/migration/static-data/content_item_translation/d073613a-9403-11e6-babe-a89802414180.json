@@ -1,0 +1,17 @@
+{
+    "uuid": "d073613a-9403-11e6-babe-a89802414180",
+    "content_item_id": "8f1dd42b-2b54-11e5-890e-902b34691136",
+    "content_passage_id": "765a20ca-9404-11e6-babe-a89802414180",
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "<span style=\"font-weight:normal;\">En el pasaje 2, Douglass describe la a veces brutal vida de un esclavo.<\/span>\n<p><\/p> \n\u00bfQu\u00e9 afirmaci\u00f3n <i>no<\/i> concuerda con la evidencia presentada en los tres pasajes?",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "Todos los pasajes proporcionan informaci\u00f3n diferente sobre la esclavitud. La esclavitud conformaba un alto porcentaje de la poblaci\u00f3n en varios estados del sur. De hecho, el principio del federalismo permiti\u00f3 que los estados contin\u00faen con la esclavitud hasta que finalmente se prohibi\u00f3 en 1865 mediante la Enmienda 13. La esclavitud era claramente brutal para los afroamericanos, lo que proporcion\u00f3 una justificaci\u00f3n moral para abolir la esclavitud. No hay evidencia que muestre las consecuencias econ\u00f3micas de abolir la esclavitud. ",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

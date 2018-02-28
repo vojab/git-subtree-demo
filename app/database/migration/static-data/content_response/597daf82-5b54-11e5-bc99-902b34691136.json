@@ -1,0 +1,20 @@
+{
+    "content_item_id": "591337b4-5b54-11e5-bc99-902b34691136",
+    "name": "The seniors will take a field trip to the state park this Fall.  ",
+    "value": "The seniors will take a field trip to the state park this Fall.  ",
+    "order": 5,
+    "order_locked": 0,
+    "feedback": null,
+    "score": 0,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "597daf82-5b54-11e5-bc99-902b34691136",
+    "created_at": "2015-09-09 10:38:44",
+    "updated_at": "2015-09-15 02:51:18"
+}

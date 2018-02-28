@@ -1,0 +1,20 @@
+{
+    "content_item_id": "665c5536-c39a-11e5-b42c-22000af4874e",
+    "name": "When a senator filibusters, he or she usually wants to stop a bill from passing and becomming law.",
+    "value": "When a senator filibusters, he or she usually wants to stop a bill from passing and becomming law.",
+    "order": 7,
+    "order_locked": 0,
+    "feedback": null,
+    "score": 1,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "6754440a-c39a-11e5-b42c-22000af4874e",
+    "created_at": "2015-08-20 21:44:00",
+    "updated_at": "2016-01-25 11:32:43"
+}

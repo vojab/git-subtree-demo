@@ -1,0 +1,19 @@
+{
+    "uuid": "d072d076-9403-11e6-babe-a89802414180",
+    "content_item_id": "9071d411-2b51-11e5-890e-902b34691136",
+    "content_passage_id": null,
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "Haz clic y arrastra la expresi\u00f3n para que <br>el siguiente enunciado sea verdadero.<\/br>\n\n",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "<math>\r\n <mtable columnalign='left'>\r\n  <mtr>\r\n   <mtd>\n    <mtext>Escribe\u00a0el\u00a0problema\u00a0como\u00a0una\u00a0fracci\u00f3n<\/mtext><mtext>.\u00a0Luego,\u00a0divide\u00a0cada<\/mtext>\r\n   <\/mtd>\r\n  <\/mtr>\r\n  <mtr>\r\n   <mtd>\n    <mtext>t\u00e9rmino\u00a0en\u00a0el\u00a0numerador\u00a0entre\u00a0el\u00a0denominador:<\/mtext>\r\n   <\/mtd>\r\n  <\/mtr>\r\n  <mtr>\r\n   <mtd>\r\n    <mrow><\/mrow>\r\n   <\/mtd>\r\n  <\/mtr>\r\n  <mtr>\r\n   <mtd>\r\n    <mfrac>\r\n     <mrow>\r\n      <mn>36<\/mn><msup>\r\n       <mi>x<\/mi>\r\n       <mn>4<\/mn>\r\n      <\/msup>\r\n      <mo>+<\/mo><mn>12<\/mn><msup>\r\n       <mi>x<\/mi>\r\n       <mn>8<\/mn>\r\n      <\/msup>\r\n      <\/mrow>\r\n     <mrow>\r\n      <mn>12<\/mn><msup>\r\n       <mi>x<\/mi>\r\n       <mn>4<\/mn>\r\n      <\/msup>\r\n      <\/mrow>\r\n    <\/mfrac>\r\n    <mo>=<\/mo><mfrac>\r\n     <mrow>\r\n      <mn>36<\/mn><msup>\r\n       <mi>x<\/mi>\r\n       <mn>4<\/mn>\r\n      <\/msup>\r\n      <\/mrow>\r\n     <mrow>\r\n      <mn>12<\/mn><msup>\r\n       <mi>x<\/mi>\r\n       <mn>4<\/mn>\r\n      <\/msup>\r\n      <\/mrow>\r\n    <\/mfrac>\r\n    <mo>+<\/mo><mfrac>\r\n     <mrow>\r\n      <mn>12<\/mn><msup>\r\n       <mi>x<\/mi>\r\n       <mn>8<\/mn>\r\n      <\/msup>\r\n      <\/mrow>\r\n     <mrow>\r\n      <mn>12<\/mn><msup>\r\n       <mi>x<\/mi>\r\n       <mn>4<\/mn>\r\n      <\/msup>\r\n      <\/mrow>\r\n    <\/mfrac>\r\n    <mo>=<\/mo><mn>3<\/mn><msup>\r\n     <mi>x<\/mi>\r\n     <mrow>\r\n      <mn>4<\/mn><mo>\u2212<\/mo><mn>4<\/mn><\/mrow>\r\n    <\/msup>\r\n    <mo>+<\/mo><msup>\r\n     <mi>x<\/mi>\r\n     <mrow>\r\n      <mn>8<\/mn><mo>\u2212<\/mo><mn>4<\/mn><\/mrow>\r\n    <\/msup>\r\n    <mo>=<\/mo><mn>3<\/mn><mo>+<\/mo><msup>\r\n     <mi>x<\/mi>\r\n     <mn>4<\/mn>\r\n    <\/msup>\r\n    \r\n   <\/mtd>\r\n  <\/mtr>\r\n <\/mtable>\r\n \r\n<\/math>",
+    "intro_text": null,
+    "prefix": null,
+    "suffix": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2017-08-03 12:14:19",
+    "deleted_at": null
+}

@@ -1,0 +1,20 @@
+{
+    "content_item_id": "6b1cc997-d17e-11e4-b41a-902b34691136",
+    "name": "<math>  <mi>f<\/mi><mo stretchy='false'>(<\/mo><mi>x<\/mi><mo stretchy='false'>)<\/mo><mo>=<\/mo><mn>3<\/mn><mo>\u2212<\/mo><msup>   <mi>x<\/mi>   <mn>2<\/mn>  <\/msup>   <\/math>",
+    "value": "<math>  <mi>f<\/mi><mo stretchy='false'>(<\/mo><mi>x<\/mi><mo stretchy='false'>)<\/mo><mo>=<\/mo><mn>3<\/mn><mo>\u2212<\/mo><msup>   <mi>x<\/mi>   <mn>2<\/mn>  <\/msup>   <\/math>",
+    "order": "5",
+    "order_locked": 0,
+    "feedback": null,
+    "score": 1,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "6b494fe2-d17e-11e4-b41a-902b34691136",
+    "created_at": "2015-02-24 13:03:07",
+    "updated_at": "2015-03-25 21:58:42"
+}

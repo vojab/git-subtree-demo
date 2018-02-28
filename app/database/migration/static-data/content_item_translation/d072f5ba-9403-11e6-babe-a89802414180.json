@@ -1,0 +1,19 @@
+{
+    "uuid": "d072f5ba-9403-11e6-babe-a89802414180",
+    "content_item_id": "908fbe5f-2b51-11e5-890e-902b34691136",
+    "content_passage_id": null,
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "Julio tiene dos analistas financieros que le proporcionan las funciones de los beneficios de su empresa. <br>\nEl analista A le proporciona la funci\u00f3n que se brinda en el gr\u00e1fico, donde <em>x<\/em> es el <br>\nmes despu\u00e9s de diciembre de 2013, mientras que el analista B le ofrece la funci\u00f3n<br> \n<math> <mrow>\n<mi>f<\/mi><mrow><mo>(<\/mo>    <mi>x<\/mi>\n<mo>)<\/mo><\/mrow><mo>=<\/mo><mo>\u2212<\/mo><mn>56<\/mn><msup>\n   <mi>x<\/mi>    <mn>2<\/mn>   <\/msup>\n<mo>+<\/mo><mn>800<\/mn><mi>x<\/mi><mo>+<\/mo><mn>30000.<\/mn><\/mrow>\n<\/math><br>\n\u00bfCu\u00e1nto m\u00e1s r\u00e1pido es el cambio en el promedio de ganancias proyectado por el analista B <br>\nentre diciembre de 2013 y mayo de 2014, en comparaci\u00f3n con el del analista A?<\/br>",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "<b>Analista A:<\/b><br\/>\r\n<math> <mtable>  <mtr>   <mtd>  \r\n<mi>m<\/mi><mo>=<\/mo><mfrac>\r\n<mrow><mn>32500<\/mn><mo>\u2212<\/mo><mn>30000<\/mn><\/mrow>\r\n     <mrow><mn>5<\/mn><mo>\u2212<\/mo><mn>0<\/mn><\/mrow>\r\n    <\/mfrac>   <\/mtd>  <\/mtr>\r\n  <mtr> <mtd><mo>=<\/mo><mn>500<\/mn>\r\n   <\/mtd> <\/mtr> <\/mtable><\/math>\r\n<br\/> \r\n<b>Analista B:<\/b><br\/>\r\nDiciembre <br\/><math> <mtable>  <mtr>   <mtd>    <mi>x<\/mi><mo>=<\/mo><mn>0<\/mn>   <\/mtd>  <\/mtr>  <mtr>   <mtd>    <mi>f<\/mi><mrow><mo>(<\/mo>     <mn>0<\/mn>    <mo>)<\/mo><\/mrow><mo>=<\/mo><mn>30000<\/mn>   <\/mtd>  <\/mtr> <\/mtable> <\/math> <br\/>Mayo<br\/><math> <mtable columnalign=left>  <mtr>   <mtd>    <mi>x<\/mi><\/mtd><mtd> <mo>=<\/mo><mn>5<\/mn>   <\/mtd>  <\/mtr>  <mtr>   <mtd>    <mi>f<\/mi><mo stretchy='false'>(<\/mo><mn>5<\/mn><mo stretchy='false'>)<\/mo><\/mtd><mtd> <mo>=<\/mo><mo>\u2212<\/mo><mn>56<\/mn><msup>     <mrow><mo>(<\/mo>      <mn>5<\/mn>     <mo>)<\/mo><\/mrow>     <mn>2<\/mn>    <\/msup>    <mo>+<\/mo><mn>800<\/mn><mo stretchy='false'>(<\/mo><mn>5<\/mn><mo stretchy='false'>)<\/mo><mo>+<\/mo><mn>30000<\/mn>   <\/mtd>  <\/mtr>  <mtr>   <mtd>   <\/mtd><mtd>  <mo>=<\/mo><mn>32600<\/mn>   <\/mtd>  <\/mtr> <\/mtable> <\/math><br\/>\r\n<math> <mtable columnalign=left>  <mtr>   <mtd>  \r\n<mi>m<\/mi><\/mtd><mtd> <mo>=<\/mo><mfrac>\r\n     <mrow><mn>32600<\/mn><mo>\u2212<\/mo><mn>30000<\/mn><\/mrow>\r\n     <mrow><mn>5<\/mn><mo>\u2212<\/mo><mn>0<\/mn><\/mrow>\r\n    <\/mfrac>   <\/mtd>  <\/mtr>\r\n  <mtr> <mtd><\/mtd><mtd> <mo>=<\/mo><mn>520<\/mn>\r\n   <\/mtd> <\/mtr> <\/mtable><\/math>\r\n<br\/>\r\nAnalista B <math><mo>\u2212<\/mo><\/math> Analyst A = 520 <math><mo>\u2212<\/mo><\/math> 500 = 20 d\u00f3lares por mes",
+    "intro_text": null,
+    "prefix": null,
+    "suffix": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2017-08-03 12:14:19",
+    "deleted_at": null
+}

@@ -1,0 +1,19 @@
+{
+    "uuid": "d074162a-9403-11e6-babe-a89802414180",
+    "content_item_id": "7468b2b2-2b51-11e5-890e-902b34691136",
+    "content_passage_id": null,
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "La f\u00f3rmula para el volumen de un cubo es <i>V = s<sup>3<\/sup><\/i>, donde <i>V<\/i> es el<br>\nvolumen, y <i>s<\/i> es la longitud de un lado. Resuelve la f\u00f3rmula para <i>s<\/i>.",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "<math>\n <mtable columnalign='left'>\n  <mtr>\n   <mtd>\n    <mtext>La&#x00A0;f\u00f3rmula&#x00A0;es:&#x00A0;<\/mtext><mi>V<\/mi><mo>=<\/mo><msup>\n     <mi>s<\/mi>\n     <mn>3<\/mn>\n    <\/msup>\n    <mo>.<\/mo><mtext>&#x00A0;Vuelve a escribir&#x00A0;la&#x00A0;f\u00f3rmula&#x00A0;para&#x00A0;que&#x00A0;<\/mtext><mi>V<\/mi><mtext>&#x00A0;est\u00e9<\/mtext>\n   <\/mtd>\n  <\/mtr>\n  <mtr>\n   <mtd>\n    <mtext>en&#x00A0;la&#x00A0;derecha,&#x00A0;y&#x00A0;luego&#x00A0;toma&#x00A0;la&#x00A0;ra\u00edz&#x00A0;del cubo&#x00A0;de&#x00A0;ambos&#x00A0;lados:<\/mtext>\n   <\/mtd>\n  <\/mtr>\n <\/mtable>\n \n<\/math>\n<p><\/p>\n<math display='block'>\r\n <mtable>\r\n  <mtr>\r\n   <mtd>\r\n    <msup>\r\n     <mi>s<\/mi>\r\n     <mn>3<\/mn>\r\n    <\/msup>\r\n    <mo>=<\/mo><mi>V<\/mi>\r\n   <\/mtd>\r\n  <\/mtr>\r\n  <mtr>\r\n   <mtd>\r\n    <mroot>\r\n     <mrow>\r\n      <msup>\r\n       <mi>s<\/mi>\r\n       <mn>3<\/mn>\r\n      <\/msup>\r\n      <\/mrow>\r\n     <mn>3<\/mn>\r\n    <\/mroot>\r\n    <mo>=<\/mo><mroot>\r\n     <mi>V<\/mi>\r\n     <mn>3<\/mn>\r\n    <\/mroot>\r\n    \r\n   <\/mtd>\r\n  <\/mtr>\r\n  <mtr>\r\n   <mtd>\r\n    <mi>s<\/mi><mo>=<\/mo><mroot>\r\n     <mi>V<\/mi>\r\n     <mn>3<\/mn>\r\n    <\/mroot>\r\n    \r\n   <\/mtd>\r\n  <\/mtr>\r\n <\/mtable>\r\n \r\n<\/math>",
+    "intro_text": null,
+    "prefix": null,
+    "suffix": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

@@ -1,0 +1,20 @@
+{
+    "content_item_id": "666b7d14-c39a-11e5-b42c-22000af4874e",
+    "name": "Input that the computer will use in following the program\u2019s instructions.",
+    "value": "Input that the computer will use in following the program\u2019s instructions.",
+    "order": 5,
+    "order_locked": 0,
+    "feedback": null,
+    "score": 1,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "676450d0-c39a-11e5-b42c-22000af4874e",
+    "created_at": "2015-10-15 17:20:56",
+    "updated_at": "2016-01-25 11:32:43"
+}

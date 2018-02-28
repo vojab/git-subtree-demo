@@ -1,0 +1,17 @@
+{
+    "uuid": "d0718c8e-9403-11e6-babe-a89802414180",
+    "content_item_id": "fc163273-65e7-11e4-b4ef-123139092536",
+    "content_passage_id": "7659ed9e-9404-11e6-babe-a89802414180",
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "Los dos pasajes muestran diferentes formas de presentar informaci\u00f3n: una en un correo electr\u00f3nico y la otra en una ficha t\u00e9cnica. \u00bfQu\u00e9 pasaje apoya de forma m\u00e1s eficiente su afirmaci\u00f3n con evidencia cre\u00edble?",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "El primer pasaje respalda de forma m\u00e1s eficaz su afirmaci\u00f3n, porque incluye hechos y detalles m\u00e1s relevantes.",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

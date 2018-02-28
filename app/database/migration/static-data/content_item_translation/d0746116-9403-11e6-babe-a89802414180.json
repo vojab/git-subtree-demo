@@ -1,0 +1,19 @@
+{
+    "uuid": "d0746116-9403-11e6-babe-a89802414180",
+    "content_item_id": "74e414b2-2b51-11e5-890e-902b34691136",
+    "content_passage_id": null,
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "\u00bfCu\u00e1l es la ecuaci\u00f3n de la l\u00ednea que pasa a trav\u00e9s de los puntos <math> <mrow>  <mo maxsize=\"1.00em\" form=\"prefix\">(<\/mo>  <mn>10<\/mn>  <mo>,<\/mo>  <mn>6<\/mn>  <mo maxsize=\"1.00em\" form=\"postfix\">)<\/mo> <\/mrow> <\/math> y <math> <mrow>  <mo maxsize=\"1.00em\" form=\"prefix\">(<\/mo>  <mn>2<\/mn>  <mo>,<\/mo>  <mn>2<\/mn>  <mo maxsize=\"1.00em\" form=\"postfix\">)<\/mo> <\/mrow> <\/math>?",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "Para encontrar la l\u00ednea entre los dos puntos, primero encuentra la pendiente de\nla l\u00ednea entre los dos puntos. La pendiente es la diferencia en los valores de\n<em>y<\/em> dividida por la diferencia en los valores de\n<em>x<\/em>, o\n<br \/>\n<math>\n\u00a0<mrow>\n\u00a0 <mfrac>\n\u00a0\u00a0 <mrow>\n<mn>6<\/mn><mo>\u2212<\/mo><mn>2<\/mn>\n\u00a0\u00a0 <\/mrow>\n\u00a0\u00a0 <mrow>\n<mn>10<\/mn><mo>\u2212<\/mo><mn>2<\/mn>\n\u00a0\u00a0 <\/mrow>\n\u00a0 <\/mfrac>\n\u00a0 <mo>=<\/mo><mfrac>\n\u00a0\u00a0 <mn>4<\/mn>\n\u00a0\u00a0 <mn>8<\/mn>\n\u00a0 <\/mfrac>\n\u00a0 <mo>=<\/mo><mfrac>\n\u00a0\u00a0 <mn>1<\/mn>\n\u00a0\u00a0 <mn>2<\/mn>\n\u00a0 <\/mfrac>\n\u00a0<\/mrow>\n<\/math>\n<br \/>\nSustituye el valor para la pendiente y uno de los puntos en\nel punto de una forma punto-pendiente de una ecuaci\u00f3n para una l\u00ednea, \n<br \/>\n<math>\n\u00a0<mrow>\n\u00a0 <mi>y<\/mi><mo>\u2212<\/mo><msub>\n\u00a0\u00a0 <mi>y<\/mi>\n\u00a0\u00a0 <mn>1<\/mn>\n\u00a0 <\/msub>\n<mo>=<\/mo><mi>m<\/mi><mo\nstretchy='false'>(<\/mo><mi>x<\/mi><mo>\u2212<\/mo><msub>\n\u00a0\u00a0 <mi>x<\/mi>\n\u00a0\u00a0 <mn>1<\/mn>\n\u00a0 <\/msub>\n\u00a0 <mo stretchy='false'>)<\/mo>\n\u00a0<\/mrow>\n<\/math>\n<br\/>\n<math>\n\u00a0<mtable>\n\u00a0 <mtr>\n\u00a0\u00a0 <mtd>\n<mi>y<\/mi><mo>\u2212<\/mo><mn>2<\/mn><mo>=<\/mo><mfrac>\n\u00a0\u00a0\u00a0\u00a0 <mn>1<\/mn>\n\u00a0\u00a0\u00a0\u00a0 <mn>2<\/mn>\n\u00a0\u00a0\u00a0 <\/mfrac>\n\u00a0\u00a0\u00a0 <mo\nstretchy='false'>(<\/mo><mi>x<\/mi><mo>\u2212<\/mo><mn>2<\/mn><mo\nstretchy='false'>)<\/mo>\n\u00a0\u00a0 <\/mtd>\n\u00a0 <\/mtr>\n\u00a0 <mtr>\n\u00a0\u00a0 <mtd>\n\u00a0\u00a0\u00a0 <mi>y<\/mi><mo>\u2212<\/mo><mn>2<\/mn><mo>=<\/mo><mfrac>\n\u00a0\u00a0\u00a0\u00a0 <mn>1<\/mn>\n\u00a0\u00a0\u00a0\u00a0 <mn>2<\/mn>\n\u00a0\u00a0\u00a0 <\/mfrac>\n<mi>x<\/mi><mo>\u2212<\/mo><mn>1<\/mn>\n\u00a0\u00a0 <\/mtd>\n\u00a0 <\/mtr>\n\u00a0 <mtr>\n\u00a0\u00a0 <mtd>\n<mi>y<\/mi><mo>=<\/mo><mfrac>\n\u00a0\u00a0\u00a0\u00a0 <mn>1<\/mn>\n\u00a0\u00a0\u00a0\u00a0 <mn>2<\/mn>\n\u00a0\u00a0\u00a0 <\/mfrac>\n<mi>x<\/mi><mo>+<\/mo><mn>1<\/mn>\n\u00a0\u00a0 <\/mtd>\n\u00a0 <\/mtr>\n\u00a0<\/mtable>\n<\/math>",
+    "intro_text": null,
+    "prefix": null,
+    "suffix": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

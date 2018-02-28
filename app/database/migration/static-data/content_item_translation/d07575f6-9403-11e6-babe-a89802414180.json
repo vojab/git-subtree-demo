@@ -1,0 +1,17 @@
+{
+    "uuid": "d07575f6-9403-11e6-babe-a89802414180",
+    "content_item_id": "5afa9fd2-d182-11e4-8a55-123139092536",
+    "content_passage_id": "765af6bc-9404-11e6-babe-a89802414180",
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "<p>\u00bfCu\u00e1l es la mejor forma de completar el espacio en blanco 13?<\/p>\n\n<span style=\"font-weight: normal;\" >Podemos ayudarlo a comparar las<\/span> ![dropdown:Drop_Down_704_85] <span style=\"font-weight: normal;\" >disponibles y el producto que mejor se adapte a sus necesidades.<\/span>",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "La respuesta correcta es \"herramientas educativas y encontrar.\" La oraci\u00f3n deber\u00eda decir: \u201cPodemos ayudarlo a comparar las herramientas educativas disponibles y encontrar el producto que mejor se adapte a sus necesidades.\u201d La segunda parte de la oraci\u00f3n (\u201cencontrar el producto que mejor se adapte a sus necesidades\u201d) es parte de un predicado compuesto. El verbo en esta oraci\u00f3n es \u201ccomparar y encontrar.\u201d No debe haber puntuaci\u00f3n antes de \u201cy\u201d en un predicado compuesto con dos verbos como estos. Una coma despu\u00e9s de la palabra \u201cencontrar\u201d tambi\u00e9n es inadecuada.",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

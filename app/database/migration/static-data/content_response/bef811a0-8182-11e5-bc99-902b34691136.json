@@ -1,0 +1,20 @@
+{
+    "content_item_id": "bed90241-8182-11e5-bc99-902b34691136",
+    "name": "replace <u>burns<\/u> with <u>burn\u2019s<\/u>",
+    "value": "replace <u>burns<\/u> with <u>burn\u2019s<\/u>",
+    "order": 6,
+    "order_locked": 0,
+    "feedback": null,
+    "score": 0,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "bef811a0-8182-11e5-bc99-902b34691136",
+    "created_at": "2015-09-14 17:12:53",
+    "updated_at": "2015-11-02 17:12:32"
+}

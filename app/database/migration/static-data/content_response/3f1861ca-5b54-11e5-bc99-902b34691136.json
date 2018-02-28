@@ -1,0 +1,20 @@
+{
+    "content_item_id": "3ea81fac-5b54-11e5-bc99-902b34691136",
+    "name": "only in the United States.",
+    "value": "only in the United States.",
+    "order": 5,
+    "order_locked": 0,
+    "feedback": null,
+    "score": 0,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "3f1861ca-5b54-11e5-bc99-902b34691136",
+    "created_at": "2015-09-04 13:35:07",
+    "updated_at": "2015-09-21 13:02:10"
+}

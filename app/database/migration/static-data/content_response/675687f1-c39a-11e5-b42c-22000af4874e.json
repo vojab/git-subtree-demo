@@ -1,0 +1,20 @@
+{
+    "content_item_id": "665e77fa-c39a-11e5-b42c-22000af4874e",
+    "name": "The tweet shouldn\u2019t use commas and exclamation points.",
+    "value": "The tweet shouldn\u2019t use commas and exclamation points.",
+    "order": 5,
+    "order_locked": 0,
+    "feedback": null,
+    "score": 0,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "675687f1-c39a-11e5-b42c-22000af4874e",
+    "created_at": "2015-10-08 22:16:50",
+    "updated_at": "2016-01-25 11:32:43"
+}

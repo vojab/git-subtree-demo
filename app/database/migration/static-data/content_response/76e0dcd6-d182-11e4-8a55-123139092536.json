@@ -1,0 +1,20 @@
+{
+    "content_item_id": "76c079d0-d182-11e4-8a55-123139092536",
+    "name": "<math>  <mrow><mo>{<\/mo> <mrow>   <mn>3<\/mn><mo>,<\/mo><mtext>&#x2009;<\/mtext><mtext>&#x2009;<\/mtext><mn>1<\/mn><mo>,<\/mo><mtext>&#x2009;<\/mtext><mtext>&#x2009;<\/mtext><mn>6<\/mn><mo>,<\/mo><mtext>&#x2009;<\/mtext><mo>&#x2212;<\/mo><mn>9<\/mn><\/mrow> <mo>}<\/mo><",
+    "value": "<math>  <mrow><mo>{<\/mo> <mrow>   <mn>3<\/mn><mo>,<\/mo><mtext>&#x2009;<\/mtext><mtext>&#x2009;<\/mtext><mn>1<\/mn><mo>,<\/mo><mtext>&#x2009;<\/mtext><mtext>&#x2009;<\/mtext><mn>6<\/mn><mo>,<\/mo><mtext>&#x2009;<\/mtext><mo>&#x2212;<\/mo><mn>9<\/mn><\/mrow> <mo>}<\/mo><\/mrow> <\/math>",
+    "order": "4",
+    "order_locked": 1,
+    "feedback": null,
+    "score": 0,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "76e0dcd6-d182-11e4-8a55-123139092536",
+    "created_at": "2015-02-20 01:11:23",
+    "updated_at": "2015-03-25 21:53:51"
+}

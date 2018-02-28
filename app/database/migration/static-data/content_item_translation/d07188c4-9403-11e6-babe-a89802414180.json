@@ -1,0 +1,19 @@
+{
+    "uuid": "d07188c4-9403-11e6-babe-a89802414180",
+    "content_item_id": "fa2d159c-65e7-11e4-b4ef-123139092536",
+    "content_passage_id": "7659e04c-9404-11e6-babe-a89802414180",
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "\u00bfQu\u00e9 oraci\u00f3n resume mejor c\u00f3mo se asemejan los dos pasajes?",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "La respuesta correcta resume de forma m\u00e1s precisa c\u00f3mo son los pasajes en contenido y tono. Las respuestas incorrectas no describen los pasajes de forma precisa. ",
+    "intro_text": null,
+    "prefix": null,
+    "suffix": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

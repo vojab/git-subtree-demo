@@ -1,0 +1,9 @@
+{
+    "uuid": "d601d034-34ab-11e7-8452-b8e856495142",
+    "metadata_value_id": "da943aaf-75ab-11e4-b41a-902b34691136",
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "code": null,
+    "description": "Determinar el significado de palabras en pasajes mediante el uso de afijos, ra\u00edces y pistas del contexto",
+    "created_at": "2017-05-09 18:37:09",
+    "updated_at": "2017-05-09 18:37:09"
+}

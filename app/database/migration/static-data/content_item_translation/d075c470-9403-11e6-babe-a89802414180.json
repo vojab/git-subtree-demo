@@ -1,0 +1,17 @@
+{
+    "uuid": "d075c470-9403-11e6-babe-a89802414180",
+    "content_item_id": "fc56b54e-a024-11e4-b41a-902b34691136",
+    "content_passage_id": "765b2970-9404-11e6-babe-a89802414180",
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "En el primer pasaje, \u00bfcu\u00e1l es la funci\u00f3n del p\u00e1rrafo de apertura y c\u00f3mo se relaciona con el resto del ensayo?",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "La historia de la hambruna en Irlanda ilustra la afirmaci\u00f3n principal del autor de que los alimentos GM tienen el potencial de prevenir hambrunas. El autor cuenta la historia para preparar, o introducir, su afirmaci\u00f3n. Las respuestas incorrectas pueden incluir elementos verdaderos, pero no explican por qu\u00e9 el autor eligi\u00f3 esta manera para iniciar su argumento, o lo hacen de manera imprecisa.",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

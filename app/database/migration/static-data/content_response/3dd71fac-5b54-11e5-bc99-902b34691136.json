@@ -1,0 +1,20 @@
+{
+    "content_item_id": "3d768f2a-5b54-11e5-bc99-902b34691136",
+    "name": "the guitar makers want customers to pay more money for top quality materials.",
+    "value": "the guitar makers want customers to pay more money for top quality materials.",
+    "order": 5,
+    "order_locked": 0,
+    "feedback": null,
+    "score": 1,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "3dd71fac-5b54-11e5-bc99-902b34691136",
+    "created_at": "2015-09-04 13:21:49",
+    "updated_at": "2015-10-18 22:51:22"
+}

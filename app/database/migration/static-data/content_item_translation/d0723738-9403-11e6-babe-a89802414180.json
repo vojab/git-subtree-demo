@@ -1,0 +1,17 @@
+{
+    "uuid": "d0723738-9403-11e6-babe-a89802414180",
+    "content_item_id": "9bc923e1-2b51-11e5-890e-902b34691136",
+    "content_passage_id": null,
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "Una loter\u00eda recaudadora de fondos tiene dos ganadores cada mes de 50 boletos numerados del <br>\n1 al 50. Margery siempre pone su edad, 34, en su boleto de loter\u00eda y lo ingresa <br>\nen la loter\u00eda. Este mes, sali\u00f3 sorteado primero el n\u00famero 5 y fue quitado de la <br>loter\u00eda. \u00bfCu\u00e1l es la probabilidad de sacar el n\u00famero 34 en el segundo sorteo?<\/br>",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "Cuando se resta el primer n\u00famero, se elimina del grupo. Cuando se quita el n\u00famero 5, hay 49 n\u00fameros restantes: 1, 2, 3, 4, 6 y todos los n\u00fameros hasta el 50. Entonces, hay 49 resultados posibles de la resta. Hay un resultado deseado, el n\u00famero 34. La probabilidad de restar el n\u00famero 34 es de 1 en 49, un resultado deseado de 49 resultados posibles. La probabilidad de restar un n\u00famero particular en la segunda resta es <math>\n\u00a0<mrow>\n<mfrac>\n<mn>1<\/mn>\n<mn>49<\/mn>\n<\/mfrac>\n<\/mrow>\n<\/math>. ",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

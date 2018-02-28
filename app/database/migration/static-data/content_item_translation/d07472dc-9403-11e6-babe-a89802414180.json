@@ -1,0 +1,19 @@
+{
+    "uuid": "d07472dc-9403-11e6-babe-a89802414180",
+    "content_item_id": "710c0e12-2b54-11e5-890e-902b34691136",
+    "content_passage_id": null,
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "<p>La duraci\u00f3n de un d\u00eda (o per\u00edodo de rotaci\u00f3n) del planeta J\u00fapiter es igual a aproximadamente diez horas de la Tierra. \u00bfCu\u00e1ntos per\u00edodos de rotaci\u00f3n tiene J\u00fapiter en una semana de la Tierra?<\/p>\n\n<p style=\"font-weight:normal\">Puedes usar una calculadora.<\/p>",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "<p>Una semana terrestre = 7 d\u00edas<br>\nUn d\u00eda terrestre = 24 horas<br>\n7 d\u00edas x 24 horas = 168 horas en una semana terrestre<br>\n168 horas divididas por el per\u00edodo de rotaci\u00f3n de J\u00fapiter = 16.8 d\u00edas por semana terrestre<\/p>",
+    "intro_text": null,
+    "prefix": "J\u00fapiter experimenta",
+    "suffix": "per\u00edodos de rotaci\u00f3n por semana de la Tierra.",
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

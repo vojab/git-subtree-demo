@@ -1,0 +1,17 @@
+{
+    "uuid": "d075369a-9403-11e6-babe-a89802414180",
+    "content_item_id": "5df9c85a-d182-11e4-8a55-123139092536",
+    "content_passage_id": "765ac62e-9404-11e6-babe-a89802414180",
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "<p>\u00bfCu\u00e1l es la mejor forma de completar el espacio en blanco 6?<\/p>\n\n<span style=\"font-weight: normal;\" >En el transcurso de cinco a\u00f1os, aproximadamente 10 millones de militares y 7 millones de civiles<\/span> ![dropdown:Drop_Down_714_93] <span style=\"font-weight: normal;\" >asesinados.<\/span>",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "La respuesta correcta es \"fueron.\" La oraci\u00f3n deber\u00eda decir: \u201cEn el transcurso de cinco a\u00f1os, aproximadamente 10 millones de militares y 7 millones de civiles fueron asesinados.\u201d El sujeto \u201cmilitares y civiles\u201d es plural y necesita un verbo plural, \u201cfueron.\u201d The verb \u201cwere being\u201d is non-standard English. Los verbos singulares \u201cfue\u201d y \u201ces\u201d no concuerdan con el sujeto.",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

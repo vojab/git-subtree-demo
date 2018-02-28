@@ -1,0 +1,19 @@
+{
+    "uuid": "d073bbd0-9403-11e6-babe-a89802414180",
+    "content_item_id": "8682bbbb-2b51-11e5-890e-902b34691136",
+    "content_passage_id": null,
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "Un lote rectangular tiene las dimensiones mostradas. <br>\nSi su \u00e1rea tiene 2,700 pies cuadrados, \u00bfcu\u00e1l es el valor de <i>x<\/i>?<\/br>\n<p><\/p>\n(No incluir las unidades cuando escribas en tu respuesta).\n<p><\/p>",
+    "description": null,
+    "hint": null,
+    "directions": "",
+    "feedback": "<math>\r\n <mrow>\r\n <mtable\r\ncolumnalign='left'>\r\n <mtr\r\ncolumnalign='left'>\r\n <mtd\r\ncolumnalign='left'>\r\n<mrow>\r\n<mi>A<\/mi><mo>=<\/mo><mi>l<\/mi><mi>w<\/mi> \r\n<\/mrow>\r\n <\/mtd>\r\n <\/mtr>\r\n <mtr\r\ncolumnalign='left'>\r\n <mtd\r\ncolumnalign='left'>\r\n<mrow>\r\n<mi>l<\/mi><mi>w<\/mi><mo>=<\/mo><mi>A<\/mi>\r\n<\/mrow>\r\n <\/mtd>\r\n <\/mtr>\r\n<\/mtable>\r\n <\/mrow>\r\n<\/math>\r\n<br\/>\r\nLa ecuaci\u00f3n cuadr\u00e1tica es \r\n<br\/>\r\n<!-- (your LaTeX) $(x+20)(x-40)=2700$ -->\r\n<math>\r\n<mrow>\r\n <mrow>\r\n  <mo maxsize=\"1.00em\" form=\"prefix\">(<\/mo>\r\n  <mi>x<\/mi>\r\n  <mo>+<\/mo>\r\n  <mn>20<\/mn>\r\n  <mo maxsize=\"1.00em\" form=\"postfix\">)<\/mo>\r\n <\/mrow>\r\n <mrow>\r\n  <mo maxsize=\"1.00em\" form=\"prefix\">(<\/mo>\r\n  <mi>x<\/mi>\r\n  <mo>-<\/mo>\r\n  <mn>40<\/mn>\r\n  <mo maxsize=\"1.00em\" form=\"postfix\">)<\/mo>\r\n <\/mrow>\r\n <mo>=<\/mo>\r\n <mn>2700<\/mn>\r\n<\/mrow>\r\n<\/math>\r\n<br\/>\r\n\r\n<!-- (your LaTeX) $x^{2}-20x-800=2700$ -->\r\n<math>\r\n<mrow>\r\n <msup>\r\n  <mi>x<\/mi>\r\n  <mn>2<\/mn>\r\n <\/msup>\r\n <mo>-<\/mo>\r\n <mn>20<\/mn>\r\n <mi>x<\/mi>\r\n <mo>-<\/mo>\r\n <mn>800<\/mn>\r\n <mo>=<\/mo>\r\n <mn>2700<\/mn>\r\n<\/mrow>\r\n<\/math>\r\n<br\/>\r\n\r\n<!-- (your LaTeX) $x^{2}-20x-3500=0$ -->\r\n<math>\r\n<mrow>\r\n <msup>\r\n  <mi>x<\/mi>\r\n  <mn>2<\/mn>\r\n <\/msup>\r\n <mo>-<\/mo>\r\n <mn>20<\/mn>\r\n <mi>x<\/mi>\r\n <mo>-<\/mo>\r\n <mn>3500<\/mn>\r\n <mo>=<\/mo>\r\n <mn>0<\/mn>\r\n<\/mrow>\r\n<\/math>\r\n<br\/>\r\n\r\n<!-- (your LaTeX) $(x-70)(x+50)=0$ -->\r\n<math>\r\n<mrow>\r\n <mrow>\r\n  <mo maxsize=\"1.00em\" form=\"prefix\">(<\/mo>\r\n  <mi>x<\/mi>\r\n  <mo>-<\/mo>\r\n  <mn>70<\/mn>\r\n  <mo maxsize=\"1.00em\" form=\"postfix\">)<\/mo>\r\n <\/mrow>\r\n <mrow>\r\n  <mo maxsize=\"1.00em\" form=\"prefix\">(<\/mo>\r\n  <mi>x<\/mi>\r\n  <mo>+<\/mo>\r\n  <mn>50<\/mn>\r\n  <mo maxsize=\"1.00em\" form=\"postfix\">)<\/mo>\r\n <\/mrow>\r\n <mo>=<\/mo>\r\n <mn>0<\/mn>\r\n<\/mrow>\r\n<\/math>\r\n<br\/>\r\n\r\n<!-- (your LaTeX) $x-70=0 $ -->\r\n<math>\r\n<mrow>\r\n <mi>x<\/mi>\r\n <mo>-<\/mo>\r\n <mn>70<\/mn>\r\n <mo>=<\/mo>\r\n <mn>0<\/mn>\r\n<\/mrow>\r\n<\/math>\r\nor\r\n<!-- (your LaTeX) $ x+50=0$ -->\r\n<math>\r\n<mrow>\r\n <mi>x<\/mi>\r\n <mo>+<\/mo>\r\n <mn>50<\/mn>\r\n <mo>=<\/mo>\r\n <mn>0<\/mn>\r\n<\/mrow>\r\n<\/math>\r\n<br\/>\r\n\r\n<!-- (your LaTeX) $x=70 $ -->\r\n<math>\r\n<mrow>\r\n <mi>x<\/mi>\r\n <mo>=<\/mo>\r\n <mn>70<\/mn>\r\n<\/mrow>\r\n<\/math>\r\nor \r\n<!-- (your LaTeX) $x=-50$ -->\r\n<math>\r\n<mrow>\r\n <mi>x<\/mi>\r\n <mo>=<\/mo>\r\n <mo>-<\/mo>\r\n <mn>50<\/mn>\r\n<\/mrow>\r\n<\/math>\r\n<br\/>\r\nNo puedes tener mediciones negativas, entonces \r\n<!-- (your LaTeX) $x= 70$ -->\r\n<math>\r\n<mrow>\r\n <mi>x<\/mi>\r\n <mo>=<\/mo>\r\n <mn>70<\/mn>\r\n<\/mrow>\r\n<\/math>",
+    "intro_text": null,
+    "prefix": null,
+    "suffix": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2017-08-03 20:17:56",
+    "deleted_at": null
+}

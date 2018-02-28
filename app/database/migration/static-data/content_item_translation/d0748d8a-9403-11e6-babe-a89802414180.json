@@ -1,0 +1,19 @@
+{
+    "uuid": "d0748d8a-9403-11e6-babe-a89802414180",
+    "content_item_id": "755aafed-2b54-11e5-890e-902b34691136",
+    "content_passage_id": "765a6ac6-9404-11e6-babe-a89802414180",
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "Seg\u00fan la informaci\u00f3n brindada, si se juntaran muchas personas en una\u00a0habitaci\u00f3n grande y poco ventilada, la ![dropdown:Drop_Down_3075_253] de la habitaci\u00f3n provocar\u00eda que la habitaci\u00f3n se calentara debido al(a la) ![dropdown:Drop_Down_3075_254] de muchas personas.",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "La forma principal por la que un cuerpo humano se enfr\u00eda a s\u00ed mismo es a trav\u00e9s de la convecci\u00f3n. El calor del cuerpo calienta el aire cercano, de este modo hace que el aire se eleve y se aleje del cuerpo. Si suficiente gente se junta en un espacio contenido, como una habitaci\u00f3n poco ventilada, el calor en elevaci\u00f3n estar\u00e1 atrapado, as\u00ed causar\u00e1 que la temperatura de la habitaci\u00f3n aumente. ",
+    "intro_text": null,
+    "prefix": null,
+    "suffix": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

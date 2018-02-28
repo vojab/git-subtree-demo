@@ -1,0 +1,19 @@
+{
+    "uuid": "d0734c0e-9403-11e6-babe-a89802414180",
+    "content_item_id": "8e17f2a2-2583-11e5-aa6b-08606ee5c22f",
+    "content_passage_id": null,
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "Usando la informaci\u00f3n en la gr\u00e1fica, \u00bfqu\u00e9 tipo de econom\u00eda describe este pa\u00eds de Sudam\u00e9rica?",
+    "description": "La gr\u00e1fica describe las diferencias entre tres econom\u00edas diferentes.<br \/>Un pa\u00eds de Am\u00e9rica del Sur crea una opci\u00f3n de atenci\u00f3n m\u00e9dica administrada por el gobierno. El gobierno ofrece planes de atenci\u00f3n m\u00e9dica administrados y financiados por el gobierno. Las personas en este pa\u00eds pueden optar por un plan de atenci\u00f3n m\u00e9dica del gobierno o pagar por un plan de atenci\u00f3n m\u00e9dica privado. La gr\u00e1fica describe las diferencias entre tres econom\u00edas diferentes.<br \/>Un pa\u00eds de Am\u00e9rica del Sur crea una opci\u00f3n de atenci\u00f3n m\u00e9dica administrada por el gobierno. El gobierno ofrece planes de atenci\u00f3n m\u00e9dica administrados y financiados por el gobierno. Las personas en este pa\u00eds pueden optar por un plan de atenci\u00f3n m\u00e9dica del gobierno o pagar por un plan de atenci\u00f3n m\u00e9dica privado.",
+    "hint": null,
+    "directions": null,
+    "feedback": "Una econom\u00eda mixta contiene servicios administrados por el gobierno y negocios de due\u00f1os privados. Dado que el ejemplo contiene tanto un servicio de atenci\u00f3n m\u00e9dica administrado por el gobierno y un servicio privado, se trata de una econom\u00eda mixta.",
+    "intro_text": null,
+    "prefix": null,
+    "suffix": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

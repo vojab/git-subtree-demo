@@ -1,0 +1,19 @@
+{
+    "uuid": "d074ef5a-9403-11e6-babe-a89802414180",
+    "content_item_id": "6bc0948f-dee4-11e5-9186-22000af4874e",
+    "content_passage_id": null,
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "\u00bfC\u00f3mo refleja este fragmento las ideas y las acciones que llevaron a la Revoluci\u00f3n estadounidense?",
+    "description": "El siguiente extracto de Thomas Jefferson fue escrito cuando vivi\u00f3 en Europa mientras serv\u00eda como Secretario de Estado durante el mandato de George Washington. <p> <\/p> \"Yo era bastante enemigo de las monarqu\u00edas antes de venir a Europa. Lo soy diez mil veces m\u00e1s, pues he visto lo que son. En estos pa\u00edses apenas se conoce un mal conocido, que no puede ser atribuido a su rey como su fuente, ni un bien que no se derive de las peque\u00f1as fibras del republicanismo existente entre ellos.\"<p> <\/p> Thomas Jefferson, carta al general Washington, 2 de mayo de 1788",
+    "hint": null,
+    "directions": null,
+    "feedback": "Thomas Jefferson escribi\u00f3 la Declaraci\u00f3n de la Independencia que enumera todas las \u201catrocidades\u201d que ha cometido el rey Jorge contra las colonias y que comenzaron la revoluci\u00f3n estadounidense. La idea de que las monarqu\u00edas son injustas se restablece en la carta de Jefferson a Washington y la idea de que los gobiernos republicanos pueden sobrevivir comenz\u00f3 a arraigarse a trav\u00e9s de Europa y se inici\u00f3 en 1789 con la Revoluci\u00f3n Francesa.",
+    "intro_text": null,
+    "prefix": null,
+    "suffix": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

@@ -1,0 +1,17 @@
+{
+    "uuid": "d07522ae-9403-11e6-babe-a89802414180",
+    "content_item_id": "666eddbf-2b54-11e5-890e-902b34691136",
+    "content_passage_id": "765ab2e2-9404-11e6-babe-a89802414180",
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "\u00bfCu\u00e1l de las siguientes opciones es un ejemplo de especiaci\u00f3n?",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "Especiaci\u00f3n significa que una sola especie se divide en m\u00faltiples especies. Las lagartijas anolis son un ejemplo de una sola especie que se dividi\u00f3 en m\u00faltiples especies a trav\u00e9s de la evoluci\u00f3n.",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

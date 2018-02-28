@@ -1,0 +1,20 @@
+{
+    "content_item_id": "649100d4-a01b-11e4-b41a-902b34691136",
+    "name": "",
+    "value": "$3,000.00",
+    "order": "9",
+    "order_locked": 0,
+    "feedback": null,
+    "score": 1,
+    "content_comparison_type_id": 1,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "13197364-d182-11e4-8a55-123139092536",
+    "created_at": "2015-03-19 04:17:57",
+    "updated_at": "2015-03-25 21:50:41"
+}

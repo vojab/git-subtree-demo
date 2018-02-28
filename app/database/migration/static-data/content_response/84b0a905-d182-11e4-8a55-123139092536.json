@@ -1,0 +1,20 @@
+{
+    "content_item_id": "8497c5f1-d182-11e4-8a55-123139092536",
+    "name": "<math>  <mtext>228,000&#x00A0;revolutions<\/mtext> <\/math>",
+    "value": "<math>  <mtext>228,000&#x00A0;revolutions<\/mtext> <\/math>",
+    "order": "5",
+    "order_locked": 0,
+    "feedback": null,
+    "score": 0,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "84b0a905-d182-11e4-8a55-123139092536",
+    "created_at": "2015-02-26 00:55:56",
+    "updated_at": "2015-03-25 21:54:05"
+}

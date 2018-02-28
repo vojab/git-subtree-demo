@@ -1,0 +1,11 @@
+{
+    "message": "You've completed this course and passed the %subject% practice test. You're ready for the %test% test in this subject. Click a subject area above if you want to study another course.",
+    "uuid": "18251695-f8f2-11e4-a7b8-902b34691136",
+    "created_at": "2015-04-13 20:52:50",
+    "updated_at": "2015-05-12 20:55:35",
+    "header": "Congratulations!",
+    "subheader": "You're Ready in %subject%",
+    "next_step": "",
+    "show_links": "1",
+    "show_retake_link": "0"
+}

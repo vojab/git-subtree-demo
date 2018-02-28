@@ -1,0 +1,17 @@
+{
+    "uuid": "d074ed3e-9403-11e6-babe-a89802414180",
+    "content_item_id": "6bad0f11-dee4-11e5-9186-22000af4874e",
+    "content_passage_id": "765a7b42-9404-11e6-babe-a89802414180",
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "\u00bfCu\u00e1l de las siguientes opciones es una declaraci\u00f3n precisa con respecto a los televisores en Los \u00c1ngeles?",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "La ley de demanda establece que a mayores precios, menos gente demandar\u00e1 un producto y esta ley se muestra en el gr\u00e1fico de demanda. Las otras respuestas confunden las ideas de la ley de la demanda y no son correctas.",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

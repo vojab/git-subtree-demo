@@ -1,0 +1,11 @@
+{
+    "name": "HiSET Essay",
+    "order": 3,
+    "associated_metadata_type_id": "f0a0cceb-75a3-11e4-b41a-902b34691136",
+    "hidden": 0,
+    "hide_from_skill_mastery_report": 0,
+    "default_course_id": "705a9a54-3e0d-11e4-b41a-902b34691136",
+    "uuid": "ead7f096-36b4-11e7-98ab-b8e856495142",
+    "created_at": "2017-06-13 10:07:12",
+    "updated_at": "2017-06-13 10:07:12"
+}

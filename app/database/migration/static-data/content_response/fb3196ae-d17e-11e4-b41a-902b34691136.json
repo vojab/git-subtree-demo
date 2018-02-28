@@ -1,0 +1,20 @@
+{
+    "content_item_id": "fafae0cc-d17e-11e4-b41a-902b34691136",
+    "name": "cell division",
+    "value": "cell division",
+    "order": "5",
+    "order_locked": 0,
+    "feedback": null,
+    "score": 0,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "fb3196ae-d17e-11e4-b41a-902b34691136",
+    "created_at": "2015-02-09 14:03:34",
+    "updated_at": "2015-03-25 22:07:05"
+}

@@ -1,0 +1,19 @@
+{
+    "uuid": "d07483ee-9403-11e6-babe-a89802414180",
+    "content_item_id": "7307a4b0-2b54-11e5-890e-902b34691136",
+    "content_passage_id": null,
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "<p>A medida que la Tierra orbita el Sol, la inclinaci\u00f3n de la Tierrra expone las regiones ecuatoriales a la luz solar directa m\u00e1s que los polos. Esta es la principal causa de las diferencias de temperatura entre las regiones ecuatoriales y los polos.  Teniendo esto en cuenta, \u00bfqu\u00e9 otro fen\u00f3meno se debe principalmente a la inclinaci\u00f3n axial de la Tierra? <\/p>\n",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "<p>La inclinaci\u00f3n de la Tierra expone a las regiones ecuatoriales a la luz del Sol directa m\u00e1s que en los polos, lo que tambi\u00e9n contribuye mucho en los cambios estacionales en la Tierra. La inclinaci\u00f3n de la Tierra cambia el \u00e1ngulo en el que la luz del Sol golpea la superficie de la Tierra, lo que con el tiempo afecta cu\u00e1nta cantidad de energ\u00eda de luz solar se transmite a esa parte de la Tierra. Cuando la inclinaci\u00f3n se mueve para enfrentar al Sol, se producen las estaciones m\u00e1s c\u00e1lidas. <\/p>",
+    "intro_text": null,
+    "prefix": null,
+    "suffix": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

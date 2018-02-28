@@ -1,0 +1,17 @@
+{
+    "uuid": "d0748024-9403-11e6-babe-a89802414180",
+    "content_item_id": "72a87070-2b54-11e5-890e-902b34691136",
+    "content_passage_id": "765a6968-9404-11e6-babe-a89802414180",
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "Si un cient\u00edfico estuviese interesado en medir una corriente de resaca a la altura de su velocidad, \u00bfqu\u00e9 parte numerada del diagrama debe observar? Consulta el diagrama. ",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "El color de la corriente direccional indica la densidad de la corriente. Al ver el diagrama, la posici\u00f3n 3 parece estar donde la corriente se mueve m\u00e1s r\u00e1pido. ",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

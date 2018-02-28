@@ -1,0 +1,19 @@
+{
+    "uuid": "d07507e2-9403-11e6-babe-a89802414180",
+    "content_item_id": "65a0abbd-d182-11e4-8a55-123139092536",
+    "content_passage_id": "765aa81a-9404-11e6-babe-a89802414180",
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "Los pasajes presentan argumentos a favor y en contra de la legalizaci\u00f3n de las apuestas. Escribe una respuesta en la que analices los argumentos en ambos pasajes y determines cu\u00e1l es el argumento m\u00e1s fuerte. Utiliza evidencia relevante y espec\u00edfica de los pasajes para respaldar tu respuesta.<\/br><\/br>\nTienes aproximadamente 45 minutos para escribir la respuesta. Planifica, esboza y eval\u00faa tu redacci\u00f3n.",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "\u00a1Gracias! Evaluaremos tu respuesta y te haremos comentarios lo antes posible.",
+    "intro_text": null,
+    "prefix": null,
+    "suffix": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

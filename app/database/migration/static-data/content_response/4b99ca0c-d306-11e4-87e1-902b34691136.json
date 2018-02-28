@@ -1,0 +1,20 @@
+{
+    "content_item_id": "4b74e44d-d306-11e4-87e1-902b34691136",
+    "name": "It helps to fulfill local needs and allows more money to be spent on local improvements.",
+    "value": "It helps to fulfill local needs and allows more money to be spent on local improvements.",
+    "order": "5",
+    "order_locked": 0,
+    "feedback": null,
+    "score": 1,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "4b99ca0c-d306-11e4-87e1-902b34691136",
+    "created_at": "2015-02-26 12:45:51",
+    "updated_at": "2015-03-25 15:47:38"
+}

@@ -1,0 +1,19 @@
+{
+    "uuid": "d074f8f6-9403-11e6-babe-a89802414180",
+    "content_item_id": "660b05f5-dee1-11e5-9186-22000af4874e",
+    "content_passage_id": null,
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "\u00bfQu\u00e9 indican las manos estrechadas en el bot\u00f3n?",
+    "description": "La imagen es un bot\u00f3n de 1963 a favor del movimiento de derechos civiles.",
+    "hint": null,
+    "directions": null,
+    "feedback": "Una de las manos en el bot\u00f3n es negra y la otra mano es blanca. Las dos manos, una blanca y la otra negra, indican que la gente de distintas razas est\u00e1 trabajando junta.",
+    "intro_text": null,
+    "prefix": null,
+    "suffix": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

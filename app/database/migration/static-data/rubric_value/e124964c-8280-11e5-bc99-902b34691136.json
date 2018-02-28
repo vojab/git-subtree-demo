@@ -1,0 +1,12 @@
+{
+    "rubric_part_id": "e0e14672-8280-11e5-bc99-902b34691136",
+    "name": "Score",
+    "description": "",
+    "points": 3,
+    "order": 7,
+    "created_at": "2015-11-03 23:16:14",
+    "updated_at": "2015-11-03 23:31:51",
+    "rubric_feedback_set_id": "e124b0a6-8280-11e5-bc99-902b34691136",
+    "uuid": "e124964c-8280-11e5-bc99-902b34691136",
+    "deleted_at": null
+}

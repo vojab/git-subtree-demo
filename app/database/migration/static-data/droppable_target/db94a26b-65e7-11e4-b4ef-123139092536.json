@@ -1,0 +1,15 @@
+{
+    "label": "434-target-1",
+    "content_item_id": "df32c82c-48ef-11e4-b41a-902b34691136",
+    "order": 1,
+    "enable_snap": 0,
+    "max_x": 316,
+    "max_y": 23,
+    "min_x": 296,
+    "min_y": 3,
+    "snap_x": 306,
+    "snap_y": 13,
+    "uuid": "db94a26b-65e7-11e4-b4ef-123139092536",
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2015-03-25 21:52:07"
+}

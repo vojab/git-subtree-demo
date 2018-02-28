@@ -1,0 +1,20 @@
+{
+    "content_item_id": "93d90ea3-d182-11e4-8a55-123139092536",
+    "name": "As the literacy rate of a country increases, Gross Domestic Product decreases.",
+    "value": "As the literacy rate of a country increases, Gross Domestic Product decreases.",
+    "order": "5",
+    "order_locked": 0,
+    "feedback": null,
+    "score": 0,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "93f2f29a-d182-11e4-8a55-123139092536",
+    "created_at": "2015-03-02 21:32:39",
+    "updated_at": "2015-03-25 21:54:31"
+}

@@ -1,0 +1,17 @@
+{
+    "uuid": "d0756ef8-9403-11e6-babe-a89802414180",
+    "content_item_id": "58f3ad51-d182-11e4-8a55-123139092536",
+    "content_passage_id": "765ae24e-9404-11e6-babe-a89802414180",
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "<p>\u00bfCu\u00e1l es la mejor forma de completar el espacio en blanco 5?<\/p>\n\n<span style=\"font-weight: normal;\" >En caso de temperaturas muy bajas, espere que los equipos electr\u00f3nicos se<\/span> ![dropdown:Drop_Down_696_77] <span style=\"font-weight: normal;\" >antes de encenderlos nuevamente.<\/span>",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "La respuesta correcta es \"regresen a la temperatura ambiente.\" La oraci\u00f3n deber\u00eda decir: \u201cEn caso de temperaturas muy bajas, espere que los equipos electr\u00f3nicos regresen a la temperatura ambiente antes de encenderlos nuevamente.\u201d Las otras respuestas usan palabras adicionales sin agregar significado. La frase \u201cregresen de nuevo\u201d es redundante, as\u00ed como las frases \u201ctemperatura ambiente normal\u201d y \u201cfr\u00edas o de casi congelamiento.\u201d La mejor respuesta es la m\u00e1s concisa.",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}
