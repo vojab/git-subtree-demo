@@ -1,0 +1,17 @@
+{
+    "uuid": "d0718e0a-9403-11e6-babe-a89802414180",
+    "content_item_id": "fc7712fe-65e7-11e4-b4ef-123139092536",
+    "content_passage_id": "7659f0c8-9404-11e6-babe-a89802414180",
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "\u00bfCu\u00e1l de las siguientes opciones usa Susan B. Anthony como razonamiento en su argumento de que se les debe permitir votar a las mujeres?",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "Anthony declara que la Constituci\u00f3n les da a todos los ciudadanos el derecho a voto. Debido a que las mujeres son ciudadanos, ya es legal que voten.",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

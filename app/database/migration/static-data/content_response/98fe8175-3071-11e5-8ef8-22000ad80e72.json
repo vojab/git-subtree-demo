@@ -1,0 +1,20 @@
+{
+    "content_item_id": "98fa392d-3071-11e5-8ef8-22000ad80e72",
+    "name": "The control group should be given sugar pills, and neither group should be aware of whether or not they are part of the control group or the experimental group. ",
+    "value": "The control group should be given sugar pills, and neither group should be aware of whether or not they are part of the control group or the experimental group. ",
+    "order": 5,
+    "order_locked": 0,
+    "feedback": null,
+    "score": 1,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "98fe8175-3071-11e5-8ef8-22000ad80e72",
+    "created_at": "2015-07-22 13:00:16",
+    "updated_at": "2015-07-22 13:00:16"
+}

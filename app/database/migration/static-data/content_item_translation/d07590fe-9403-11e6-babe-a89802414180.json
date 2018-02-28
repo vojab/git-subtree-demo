@@ -1,0 +1,17 @@
+{
+    "uuid": "d07590fe-9403-11e6-babe-a89802414180",
+    "content_item_id": "545d23a4-d182-11e4-8a55-123139092536",
+    "content_passage_id": "765b0954-9404-11e6-babe-a89802414180",
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "\u00bfCu\u00e1l es la mejor forma de completar el espacio en blanco 4?",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "La respuesta correcta es: \u201cSin embargo, a los opositores les preocupa que los filibusteros ocasionen estancamiento, lo que har\u00e1 que se aprueben menos y menos proyectos de ley.\u201d Este ejercicio te pide identificar la mejor ubicaci\u00f3n para la frase \u201clo cual disminuy\u00f3 la cantidad de leyes aprobadas.\u201d Debe identificar a qu\u00e9 modifica esta frase. \u00bfQu\u00e9 causa la disminuci\u00f3n de leyes aprobadas? Estancamiento es la respuesta; el filibusterismo puede causar estancamiento, lo cual disminuye la cantidad de leyes aprobadas. Puede suponer que el filibusterismo disminuye la cantidad de leyes aprobadas, pero poner esta frase despu\u00e9s de \u201cfilibusterismo\u201d en lugar de \u201cestancamiento\u201d suena mal y menos natural. La frase debe ir cerca del sustantivo al que modifica, por lo cual es mejor colocar este sustantivo despu\u00e9s de \"estancamiento.\"",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

@@ -1,0 +1,11 @@
+{
+    "content_passage_id": "9a9f5260-314a-11e5-8ef8-22000ad80e72",
+    "page_number": 1,
+    "section_number": null,
+    "order": 1,
+    "contents": "Newton's first law states that every object will remain at rest or in uniform motion in a straight line unless compelled to change its state by the action of an external force. This is normally taken as the definition of inertia. The key point here is that if there is no net force acting on an object (if all the external forces cancel each other out), then the object will maintain a constant velocity. If that velocity is zero, then the object remains at rest. If an external force is applied, the velocity will change because of the force.\r\n",
+    "uuid": "6712cb30-c39a-11e5-b42c-22000af4874e",
+    "translation_id": null,
+    "created_at": "2015-08-05 05:55:42",
+    "updated_at": "2016-10-05 22:23:37"
+}

@@ -1,0 +1,17 @@
+{
+    "uuid": "d072cff4-9403-11e6-babe-a89802414180",
+    "content_item_id": "906ca346-2b51-11e5-890e-902b34691136",
+    "content_passage_id": null,
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "Resuelve la desigualdad para <i>t<\/i>:   \n<math>\n <mrow>\n  <mtext>\u00a0\u00a0<\/mtext><mn>0.1<\/mn><mo>\u2212<\/mo><mn>2<\/mn><mi>t<\/mi><mo>\u2265<\/mo><mn>0.7<\/mn><\/mrow>\n<\/math>\n",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "Resuelve de la misma manera que en una ecuaci\u00f3n, con la excepci\u00f3n de que cuando dividas entre <math>\n<mo>\u2212<\/mo><mn>2<\/mn><\/math>, debes voltear el s\u00edmbolo de desigualdad. <br\/>\n\n<math><mtable columnalign=left>\n\u00a0 <mtr>\u00a0\u00a0 <mtd>\n<mn>0.1<\/mn><mo>\u2212<\/mo><\/mtd><mtd> <mn>2<\/mn><mi>t<\/mi><\/mtd><mtd> <mo>\u2265<\/mo><mn>0.7<\/mn>\u00a0\u00a0 <\/mtd>\u00a0 <\/mtr>\u00a0 <mtr>\u00a0\u00a0 <mtd>\n<\/mtd><mtd> <mo>\u2212<\/mo><mn>2<\/mn><mi>t<\/mi><\/mtd><mtd><mo>\u2265<\/mo><mn>0.6<\/mn>\u00a0\u00a0 <\/mtd>\u00a0 <\/mtr>\u00a0 <mtr>\u00a0\u00a0 <mtd>\u00a0\u00a0<\/mtd><mtd>  \n<mi>t<\/mi><\/mtd><mtd><mo>\u2264<\/mo><mo>\u2212<\/mo><mn>0.3<\/mn>\n\u00a0 \u00a0<\/mtd>\u00a0 <\/mtr> <\/mtable><\/math>",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

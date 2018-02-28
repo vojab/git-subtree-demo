@@ -1,0 +1,13 @@
+{
+    "uuid": "56ed5cd0-5f7e-11e6-82b0-848d376b7407",
+    "name": "Reading Skil Difficulties Completion",
+    "label": "Completion",
+    "description": null,
+    "type": "completion",
+    "address": "public\/certificates\/Reading-Skil-Difficulties-Completion.pdf",
+    "image": "Reading-Skil-Difficulties-Completion.png",
+    "course_id": "a4fc86c8-33da-11e6-8421-503f4fcb10eb",
+    "product_id": "1cb1859e-33d9-11e6-8421-503f4fcb10eb",
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-09-07 11:44:51"
+}

@@ -1,0 +1,17 @@
+{
+    "uuid": "d0731a0e-9403-11e6-babe-a89802414180",
+    "content_item_id": "90b867f1-2b51-11e5-890e-902b34691136",
+    "content_passage_id": null,
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "Un c\u00f3digo de seguridad de un edificio tiene 2 d\u00edgitos num\u00e9ricos, de 0 a 9, seguido por 2 letras. <br>\u00bfCu\u00e1l es la probabilidad de que el primer d\u00edgito sea 9 y que la \u00faltima letra sea A?<\/br>",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "Esta es una probabilidad compuesta. Comienza con los\nn\u00fameros. Existe una manera de obtener un nueve de los 10 d\u00edgitos posibles (de cero a nueve). <br\/> Ahora, hay\n 26 letras que podr\u00edan ser parte del c\u00f3digo y solo una letra\ncorrecta. Por lo tanto, existe una sola manera de obtener una A de 26 resultados\nposibles. Debido a que queremos obtener ambos, existe una probabilidad \"y\", por lo tanto, debes \nmultiplicar. <br\/> <math>  <mrow>   <mfrac>    <mn>1<\/mn>    <mrow>     <mn>10<\/mn><\/mrow>   <\/mfrac>   <mtext>\u00a0<\/mtext><mo>\u00b7<\/mo><mtext>\u00a0<\/mtext><mfrac>\n   <mn>1<\/mn>    <mrow>     <mn>26<\/mn><\/mrow>   <\/mfrac>   <mo>=<\/mo><mfrac>    <mn>1<\/mn>    <mrow>     <mn>260<\/mn><\/mrow>   <\/mfrac>  <\/mrow> <\/math> ",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

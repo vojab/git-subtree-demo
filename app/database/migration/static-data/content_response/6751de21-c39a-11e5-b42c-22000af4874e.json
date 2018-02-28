@@ -1,0 +1,20 @@
+{
+    "content_item_id": "665b593f-c39a-11e5-b42c-22000af4874e",
+    "name": "The deepest part of the trench is called the Challenger Deep, a small valley at the southern end where the ocean floor is almost seven miles below the surface of the ocean.",
+    "value": "The deepest part of the trench is called the Challenger Deep, a small valley at the southern end where the ocean floor is almost seven miles below the surface of the ocean.",
+    "order": 5,
+    "order_locked": 0,
+    "feedback": null,
+    "score": 1,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "6751de21-c39a-11e5-b42c-22000af4874e",
+    "created_at": "2015-08-11 21:45:13",
+    "updated_at": "2016-01-25 11:32:43"
+}

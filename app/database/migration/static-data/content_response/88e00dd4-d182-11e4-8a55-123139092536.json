@@ -1,0 +1,20 @@
+{
+    "content_item_id": "88cc7d23-d182-11e4-8a55-123139092536",
+    "name": "It is a seller\u2019s market, where house prices tend to be higher than usual.",
+    "value": "It is a seller\u2019s market, where house prices tend to be higher than usual.",
+    "order": "5",
+    "order_locked": 0,
+    "feedback": null,
+    "score": 1,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "88e00dd4-d182-11e4-8a55-123139092536",
+    "created_at": "2015-02-26 16:45:08",
+    "updated_at": "2015-03-25 21:54:14"
+}

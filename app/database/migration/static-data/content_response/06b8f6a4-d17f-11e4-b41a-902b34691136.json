@@ -1,0 +1,20 @@
+{
+    "content_item_id": "067d2a89-d17f-11e4-b41a-902b34691136",
+    "name": "The paper clip will resist the nail.",
+    "value": "The paper clip will resist the nail.",
+    "order": "5",
+    "order_locked": 0,
+    "feedback": null,
+    "score": 0,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "06b8f6a4-d17f-11e4-b41a-902b34691136",
+    "created_at": "2015-02-09 19:08:38",
+    "updated_at": "2015-03-25 21:54:46"
+}

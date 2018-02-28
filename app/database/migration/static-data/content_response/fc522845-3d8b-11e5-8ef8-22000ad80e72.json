@@ -1,0 +1,20 @@
+{
+    "content_item_id": "fc4e9664-3d8b-11e5-8ef8-22000ad80e72",
+    "name": "<math>  <mi>y<\/mi><mo>=<\/mo><mo>&#x2212;<\/mo><mn>3<\/mn><mtext>&#x00A0;when&#x00A0;<\/mtext><mi>x<\/mi><mo>=<\/mo><mn>1<\/mn> <\/math>",
+    "value": "<math>  <mi>y<\/mi><mo>=<\/mo><mo>&#x2212;<\/mo><mn>3<\/mn><mtext>&#x00A0;when&#x00A0;<\/mtext><mi>x<\/mi><mo>=<\/mo><mn>1<\/mn> <\/math>",
+    "order": 5,
+    "order_locked": 0,
+    "feedback": null,
+    "score": 0,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "fc522845-3d8b-11e5-8ef8-22000ad80e72",
+    "created_at": "2015-08-08 05:11:54",
+    "updated_at": "2015-08-08 05:11:54"
+}

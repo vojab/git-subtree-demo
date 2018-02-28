@@ -1,0 +1,17 @@
+{
+    "uuid": "d0719116-9403-11e6-babe-a89802414180",
+    "content_item_id": "fd837526-65e7-11e4-b4ef-123139092536",
+    "content_passage_id": "7659f53c-9404-11e6-babe-a89802414180",
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "\u00bfCu\u00e1l de las siguientes opciones NO contribuye al tono premonitorio del pasaje?",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "David hace muchas preguntas, pero no da mucha informaci\u00f3n sobre \u00e9l. Parece y act\u00faa de forma saludable para ser un ni\u00f1o sin padres y no tiene miedo del llamado \"enemigo.\"",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

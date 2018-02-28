@@ -1,0 +1,11 @@
+{
+    "metadata_type_id": "7367f5cb-49d2-11e6-8f54-902b34691136",
+    "parent_metadata_value_id": null,
+    "code": "M2.2.4",
+    "description": "Evaluate expressions that include unknowns by substituting specific values for variables.",
+    "subject_area_id": null,
+    "uuid": "a7df4b18-49d2-11e6-8f54-902b34691136",
+    "created_at": "2016-07-14 14:52:58",
+    "updated_at": "2016-07-14 14:52:58",
+    "hidden": 0
+}

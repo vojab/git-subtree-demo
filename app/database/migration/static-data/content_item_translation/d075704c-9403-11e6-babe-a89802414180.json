@@ -1,0 +1,17 @@
+{
+    "uuid": "d075704c-9403-11e6-babe-a89802414180",
+    "content_item_id": "5967b141-d182-11e4-8a55-123139092536",
+    "content_passage_id": "765ae4e2-9404-11e6-babe-a89802414180",
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "<p>\u00bfCu\u00e1l es la mejor forma de completar el espacio en blanco 7?<\/p>\n\n<span style=\"font-weight: normal;\" >La forma m\u00e1s grave de TEA se conoce como trastorno autista<\/span> ![dropdown:Drop_Down_698_79] <span style=\"font-weight: normal;\" >, por lo general, se lo conoce solo como \u201cautismo.\u201d<\/span>",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "La respuesta correcta es \"el cual.\" La oraci\u00f3n deber\u00eda decir: \u201cLa forma m\u00e1s grave de TEA se conoce como trastorno autista\u201d, el cual, por lo general, se lo conoce solo como autismo. Los pronombres \u201cquien\u201d y \u201ca quien\u201d describen personas, mientras que el pronombre \u201cel cual\u201d describe conceptos como \u201ctrastorno autista\u201d u objetos inanimados. El pronombre \u201ccualquiera\u201d implica una elecci\u00f3n entre dos conceptos u objetos.",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

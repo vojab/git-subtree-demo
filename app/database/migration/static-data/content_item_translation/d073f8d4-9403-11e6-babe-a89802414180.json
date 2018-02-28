@@ -1,0 +1,17 @@
+{
+    "uuid": "d073f8d4-9403-11e6-babe-a89802414180",
+    "content_item_id": "7d1fe223-2b54-11e5-890e-902b34691136",
+    "content_passage_id": null,
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "<p style=\"font-weight:normal\">Un investigador recluta 20 voluntarios para probar los efectos de un suplemento vitam\u00ednico en el metabolismo. El investigador le da un placebo a la mitad de los voluntarios y el suplemento vitam\u00ednico a la otra mitad. Luego monitorea su ingesta cal\u00f3rica, ejercicio y peso. Seg\u00fan esta informaci\u00f3n, el investigador calcula el \u00edndice de calor\u00edas quemadas, ajustadas por ejercicio, de los sujetos de la prueba. El investigador encontr\u00f3 que quienes consumieron el suplemento vitam\u00ednico quemaron calor\u00edas m\u00e1s r\u00e1pido.<\/p>\n\n<p>\u00bfCu\u00e1l ser\u00eda una mejora posible para que este experimento reduzca la posibilidad de error?<\/p>\n",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "<p>La cantidad de sujetos de prueba para este experimento es muy baja. Solo diez personas est\u00e1n tomando los suplementos vitam\u00ednicos. La variaci\u00f3n natural en el metabolismo, u otros factores que afectan el metabolismo, pueden afectar la precisi\u00f3n del experimento. Aumentar la cantidad de sujetos de prueba proporcionar\u00eda datos m\u00e1s confiables.<\/p>",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

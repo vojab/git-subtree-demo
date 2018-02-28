@@ -1,0 +1,17 @@
+{
+    "uuid": "d075c376-9403-11e6-babe-a89802414180",
+    "content_item_id": "fc200eb6-a024-11e4-b41a-902b34691136",
+    "content_passage_id": "765b28ee-9404-11e6-babe-a89802414180",
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "En el primer pasaje, \u00bfcu\u00e1l es la afirmaci\u00f3n principal del autor?",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "El autor comienza con una descripci\u00f3n de los efectos devastadores de la hambruna en Irlanda. El autor hace esto porque su afirmaci\u00f3n, como se enuncia en el segundo p\u00e1rrafo, es el potencial de los alimentos gen\u00e9ticamente modificados (Genetically Modified, GM) para eliminar el hambre mundial. Las respuestas incorrectas no enuncian la afirmaci\u00f3n principal del autor.",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

@@ -1,0 +1,17 @@
+{
+    "uuid": "d075bf98-9403-11e6-babe-a89802414180",
+    "content_item_id": "2fca371c-dee4-11e5-9186-22000af4874e",
+    "content_passage_id": "765b2678-9404-11e6-babe-a89802414180",
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "Use el gr\u00e1fico para decidir si cada declaraci\u00f3n es verdadera o falsa.\n<p><\/p>\n<span style=\"font-weight:normal;\">La poblaci\u00f3n civil activa aument\u00f3 desde 2006 hasta 2014.<\/span><br>\n![dropdown:Drop_Down_3142_259]\n<p><\/p>\n<span style=\"font-weight:normal;\">La cantidad de personas empleadas disminuy\u00f3 de forma significativa desde 2008 hasta 2010.<\/span><br>\n![dropdown:Drop_Down_3142_260]\n<p><\/p>\n<span style=\"font-weight:normal;\">La cantidad de personas empleadas disminuy\u00f3 desde 2010.<\/span><br>\n![dropdown:Drop_Down_3142_261]\n<p><\/p>\n<span style=\"font-weight:normal;\">La tasa de desempleo aument\u00f3 desde 2008 hasta 2010.<\/span><br>\n![dropdown:Drop_Down_3142_262]\n<p><\/p>\n<span style=\"font-weight:normal;\">La tasa de desempleo cambi\u00f3 r\u00e1pidamente desde 2005 hasta 2008.<\/span><br>\n![dropdown:Drop_Down_3142_263]",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "El gr\u00e1fico muestra que la poblaci\u00f3n activa aument\u00f3 de 148,000,000 (el gr\u00e1fico muestra los n\u00fameros en \u201cmiles de personas\u201d) en 2006 a 156,000,000 en 2014. La cantidad de personas empleadas disminuy\u00f3 en casi 8,000,000 desde 2008 hasta 2010. El espacio entre las l\u00edneas de la poblaci\u00f3n activa y el empleo civil se ampli\u00f3 desde 2008 hasta 2010, lo cual indica un aumento del desempleo. La cantidad de personas empleadas aument\u00f3 desde 2010. La diferencia entre las dos l\u00edneas del gr\u00e1fico permanece igual desde 2005 hasta 2010, lo cual indica que la tasa de desempleo no cambi\u00f3.",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

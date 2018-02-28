@@ -1,0 +1,20 @@
+{
+    "content_item_id": "7ad360ea-5b54-11e5-bc99-902b34691136",
+    "name": "Danny entered the museum noticed the massive sculpture in the center of the room.",
+    "value": "Danny entered the museum noticed the massive sculpture in the center of the room.",
+    "order": 5,
+    "order_locked": 0,
+    "feedback": null,
+    "score": 0,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "7b0be6c7-5b54-11e5-bc99-902b34691136",
+    "created_at": "2015-09-09 11:31:30",
+    "updated_at": "2015-09-15 02:52:07"
+}

@@ -1,0 +1,17 @@
+{
+    "uuid": "d0757272-9403-11e6-babe-a89802414180",
+    "content_item_id": "5a1983c3-d182-11e4-8a55-123139092536",
+    "content_passage_id": "765ae942-9404-11e6-babe-a89802414180",
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "<p>\u00bfCu\u00e1l es la mejor forma de completar el espacio en blanco 10?<\/p>\n\n<span style=\"font-weight: normal;\" >La deficiencia de interacci\u00f3n social <\/span> ![dropdown:Drop_Down_701_82] <span style=\"font-weight: normal;\" > del TEA.<\/span>",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "La respuesta correcta es \"es el s\u00edntoma m\u00e1s f\u00e1cilmente identificable.\" La oraci\u00f3n deber\u00eda decir: \u201cLa deficiencia de interacci\u00f3n social es el s\u00edntoma m\u00e1s f\u00e1cilmente identificable del TEA.\u201d Esta consigna pregunta d\u00f3nde se debe colocar la palabra \u201cf\u00e1cilmente\u201d. \u00bfA qu\u00e9 modifica la palabra \u201cf\u00e1cilmente\u201d? Modifica a \u201cidentificable,\u201d entonces debe estar al lado de la palabra \u201cidentificable.\u201d",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

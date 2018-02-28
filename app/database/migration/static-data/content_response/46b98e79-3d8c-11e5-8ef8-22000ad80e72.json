@@ -1,0 +1,20 @@
+{
+    "content_item_id": "46b594e3-3d8c-11e5-8ef8-22000ad80e72",
+    "name": "<math>  <mi>&#x03C0;<\/mi><msup>   <mrow><mo>(<\/mo>    <mrow>     <mn>0.75<\/mn><\/mrow>   <mo>)<\/mo><\/mrow>   <mn>2<\/mn>  <\/msup>  <mrow><mo>(<\/mo>   <mn>4<\/mn>  <mo>)<\/mo><\/mrow> <\/math>",
+    "value": "<math>  <mi>&#x03C0;<\/mi><msup>   <mrow><mo>(<\/mo>    <mrow>     <mn>0.75<\/mn><\/mrow>   <mo>)<\/mo><\/mrow>   <mn>2<\/mn>  <\/msup>  <mrow><mo>(<\/mo>   <mn>4<\/mn>  <mo>)<\/mo><\/mrow> <\/math>",
+    "order": 5,
+    "order_locked": 0,
+    "feedback": null,
+    "score": 0,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "46b98e79-3d8c-11e5-8ef8-22000ad80e72",
+    "created_at": "2015-08-08 05:13:59",
+    "updated_at": "2015-08-08 05:13:59"
+}

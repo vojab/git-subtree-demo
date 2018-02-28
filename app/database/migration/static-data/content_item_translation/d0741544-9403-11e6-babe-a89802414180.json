@@ -1,0 +1,17 @@
+{
+    "uuid": "d0741544-9403-11e6-babe-a89802414180",
+    "content_item_id": "745fa3bd-2b51-11e5-890e-902b34691136",
+    "content_passage_id": null,
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "El circo tiene varias tiendas circulares grandes. El piso de cada<br> tienda tiene una circunferencia de 188.4 pies. <\/br>\n<p><\/p>\nEl radio del piso es de ![dropdown:radius] pies \n<p><\/p>\nEl \u00e1rea del piso es ![dropdown:area] pies<sup>2<\/sup>.<\/br>\n<br>\n<math>\n <mrow>\n  <mtext>(Utiliza \u03c0 =3.14)<\/mtext>\n<\/mrow>\n<\/math>\n<\/br>",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "En esta pregunta se te da la circunferencia de un c\u00edrculo y se pide que encuentres el radio y luego el \u00e1rea del c\u00edrculo. La f\u00f3rmula para la circunferencia es  <math>\n<mrow>\n <mi>C<\/mi>\n <mo>=<\/mo>\n <mn>2<\/mn>\n <mi>\u03c0<\/mi>\n <mi>r<\/mi>\n<\/mrow>\n<\/math>\n. Para encontrar el radio debes resolver <math>\n<mrow>\n <mi>r<\/mi>\n<\/mrow>\n<\/math>\n.\n<\/br>\n<math>\n<mrow>\n<mi>r<\/mi>\n <mo>=<\/mo>\n <mfrac linethickness=\"1\">\n  <mn>C<\/mn>\n  <mrow>\n   <mn>2<\/mn>\n   <mi>\u03c0<\/mi>\n  <\/mrow>\n <\/mfrac>\n<\/mrow>\n<\/math>\n<math>\n<\/math>\n<math>\n<mrow>\n <mo>=<\/mo>\n <mfrac linethickness=\"1\">\n  <mn>188.4<\/mn>\n  <mrow>\n   <mn>2<\/mn>\n   <mi>\u03c0<\/mi>\n  <\/mrow>\n <\/mfrac>\n <mo>\u2248<\/mo>\n <mn>30<\/mn>\n<\/mrow>\n<\/math>\n. Una vez que hayas encontrado la longitud del radio, puedes calcular el \u00e1rea con la f\u00f3rmula \n<math>\n<mrow>\n <mi>A<\/mi>\n <mo>=<\/mo>\n <mi>\u03c0<\/mi>\n <msup>\n  <mi>r<\/mi>\n  <mn>2<\/mn>\n <\/msup>\n <mo>=<\/mo>\n <mi>\u03c0<\/mi>\n <mo>\u22c5<\/mo>\n <mn>3<\/mn>\n <msup>\n  <mn>0<\/mn>\n  <mn>2<\/mn>\n <\/msup>\n <mo>=<\/mo>\n <mn>2,826<\/mn>\n<\/mrow>\n<\/math>\n.",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

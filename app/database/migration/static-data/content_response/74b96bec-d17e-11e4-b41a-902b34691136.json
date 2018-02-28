@@ -1,0 +1,20 @@
+{
+    "content_item_id": "73f9616d-d17e-11e4-b41a-902b34691136",
+    "name": "<math>  <mrow>   <mtext>167<\/mtext><mtext>.7&#x00A0;g<\/mtext><\/mrow> <\/math>",
+    "value": "<math>  <mrow>   <mtext>167<\/mtext><mtext>.7&#x00A0;g<\/mtext><\/mrow> <\/math>",
+    "order": "5",
+    "order_locked": 0,
+    "feedback": null,
+    "score": 0,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "74b96bec-d17e-11e4-b41a-902b34691136",
+    "created_at": "2015-02-26 00:57:59",
+    "updated_at": "2015-03-25 21:59:52"
+}

@@ -1,0 +1,17 @@
+{
+    "uuid": "d07187a2-9403-11e6-babe-a89802414180",
+    "content_item_id": "f9d7d60d-65e7-11e4-b4ef-123139092536",
+    "content_passage_id": "7659dfb6-9404-11e6-babe-a89802414180",
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "Seg\u00fan la Figura 2, \u00bfqu\u00e9 grupo de edad comprende el mayor porcentaje de muertes en piletas o spa?",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "La respuesta correcta muestra que la mayor cantidad de muertes ocurren en ni\u00f1os entre 1 y 3 a\u00f1os de edad. Las respuestas incorrectas no muestran el grupo de edad con la mayor cantidad de muertes. ",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

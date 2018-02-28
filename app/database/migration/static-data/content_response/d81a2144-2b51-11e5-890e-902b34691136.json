@@ -1,0 +1,20 @@
+{
+    "content_item_id": "d816f6d1-2b51-11e5-890e-902b34691136",
+    "name": "<math>  <mi>C<\/mi><mrow><mo>(<\/mo>   <mi>t<\/mi>  <mo>)<\/mo><\/mrow><mo>=<\/mo><mn>25<\/mn><mrow><mo>(<\/mo>   <mrow>    <mi>t<\/mi><mo>+<\/mo><mn>5<\/mn><\/mrow>  <mo>)<\/mo><\/mrow><mo>+<\/mo><mn>20<\/mn> <\/math>",
+    "value": "<math>  <mi>C<\/mi><mrow><mo>(<\/mo>   <mi>t<\/mi>  <mo>)<\/mo><\/mrow><mo>=<\/mo><mn>25<\/mn><mrow><mo>(<\/mo>   <mrow>    <mi>t<\/mi><mo>+<\/mo><mn>5<\/mn><\/mrow>  <mo>)<\/mo><\/mrow><mo>+<\/mo><mn>20<\/mn> <\/math>",
+    "order": "5",
+    "order_locked": "0",
+    "feedback": null,
+    "score": "0.00",
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": "0",
+    "uuid": "d81a2144-2b51-11e5-890e-902b34691136",
+    "created_at": "2015-07-16 00:30:22",
+    "updated_at": "2015-07-16 02:18:04"
+}

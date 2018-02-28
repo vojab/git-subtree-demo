@@ -1,0 +1,17 @@
+{
+    "uuid": "d0742eb2-9403-11e6-babe-a89802414180",
+    "content_item_id": "74acd1b1-2b51-11e5-890e-902b34691136",
+    "content_passage_id": null,
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "Arthur fue a la taquer\u00eda del pueblo a comprar el almuerzo para su familia. Puede comprar <br>dos tacos por el precio de un burrito, y la chalupa cuesta $\u00a00.75 m\u00e1s<br> que un burrito. El costo de un burrito es <i>b<\/i> d\u00f3lares. <\/br>\n<p><\/p>\n\u00bfQu\u00e9 expresi\u00f3n representa el costo de 2 burritos, 8 tacos y 4 chalupas?",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "<math>\n <mtable columnalign='left'>\n  <mtr>\n   <mtd>\n    <mtext>Descubre\u00a0cu\u00e1nto\u00a0cuesta\u00a0cada\u00a0art\u00edculo\u00a0en\u00a0t\u00e9rminos\u00a0de<\/mtext><mi>b<\/mi><mtext>:<\/mtext>\n   <\/mtd>\n  <\/mtr>\n  <mtr>\n   <mtd>\n    <mtext>1\u00a0burrito:\u00a0<\/mtext><mi>b<\/mi>\n   <\/mtd>\n  <\/mtr>\n  <mtr>\n   <mtd>\n    <mtext>1\u00a0taco:\u00a0<\/mtext><mfrac>\n     <mi>b<\/mi>\n     <mn>2<\/mn>\n    <\/mfrac>\n    \n   <\/mtd>\n  <\/mtr>\n  <mtr>\n   <mtd>\n    <mtext>1\u00a0chalupa:\u00a0<\/mtext><mi>b<\/mi><mo>+<\/mo><mn>0.75<\/mn>\n   <\/mtd>\n  <\/mtr>\n  <mtr>\n   <mtd>\n    <mrow><\/mrow>\n   <\/mtd>\n  <\/mtr>\n  <mtr>\n   <mtd>\n    <mtext>Descubre\u00a0cu\u00e1nto\u00a0cuesta\u00a0cada\u00a0art\u00edculo\u00a0en\u00a0t\u00e9rminos\u00a0de\u00a0b:<\/mtext>\n   <\/mtd>\n  <\/mtr>\n  <mtr>\n   <mtd>\n    <mtext>2\u00a0burritos:\u00a0<\/mtext><mn>2<\/mn><mi>b<\/mi>\n   <\/mtd>\n  <\/mtr>\n  <mtr>\n   <mtd>\n    <mtext>8\u00a0tacos:\u00a08<\/mtext><mo>\u22c5<\/mo><mfrac>\n     <mi>b<\/mi>\n     <mn>2<\/mn>\n    <\/mfrac>\n    \n   <\/mtd>\n  <\/mtr>\n  <mtr>\n   <mtd>\n    <mtext>4\u00a0chalupas:\u00a04(<\/mtext><mi>b<\/mi><mo>+<\/mo><mn>0.75<\/mn><mo stretchy='false'>)<\/mo>\n   <\/mtd>\n  <\/mtr>\n  <mtr>\n   <mtd>\n    <mrow><\/mrow>\n   <\/mtd>\n  <\/mtr>\n  <mtr>\n   <mtd>\n    <mtext>Costo\u00a0total:\u00a0<\/mtext><mn>2<\/mn><mi>b<\/mi><mo>+<\/mo><mtext>8<\/mtext><mo>\u22c5<\/mo><mfrac>\n     <mi>b<\/mi>\n     <mn>2<\/mn>\n    <\/mfrac>\n    <mo>+<\/mo><mtext>4(<\/mtext><mi>b<\/mi><mo>+<\/mo><mn>0.75<\/mn><mo stretchy='false'>)<\/mo>&t\u00a6;   &t\u00a7;&t\u00a8;  &t\u00a9;&t\u00aa; &t\u00ab;&t\u00ac; &t\u00ad;&t\u00ae;&t\u00af;",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

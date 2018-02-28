@@ -1,0 +1,17 @@
+{
+    "uuid": "d0756cdc-9403-11e6-babe-a89802414180",
+    "content_item_id": "58791476-d182-11e4-8a55-123139092536",
+    "content_passage_id": "765adfc4-9404-11e6-babe-a89802414180",
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "<p>\u00bfCu\u00e1l es la mejor forma de completar el espacio en blanco 3?<\/p>\n\n<span style=\"font-weight: normal;\" >El personal de mantenimiento<\/span> ![dropdown:Drop_Down_694_75] <span style=\"font-weight: normal;\" >responsable de los sistemas de construcci\u00f3n durante los cortes de energ\u00eda y debe apagar todos los equipos sensibles.<\/span>",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "La respuesta correcta es \"es.\" La oraci\u00f3n deber\u00eda decir: \u201cEl personal de mantenimiento es responsable de los sistemas de construcci\u00f3n durante los cortes de energ\u00eda y debe apagar todos los equipos sensibles.\u201d El sujeto \u201cpersonal\u201d puede ser confuso porque es un sustantivo colectivo. Describe un grupo de personas. Sin embargo, los sustantivos colectivos como \u201cpersonal,\u201d \u201ccompa\u00f1\u00eda\u201d \u201cpareja\u201d o \u201cfamilia\u201d son, generalmente, singulares. El verbo correcto es el verbo singular \u201ces.\u201d",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

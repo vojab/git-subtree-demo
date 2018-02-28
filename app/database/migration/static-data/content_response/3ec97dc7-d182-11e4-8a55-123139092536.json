@@ -1,0 +1,20 @@
+{
+    "content_item_id": "3ea9f29e-d182-11e4-8a55-123139092536",
+    "name": "All the managers, including Juan, is wanting",
+    "value": "All the managers, including Juan, is wanting",
+    "order": "5",
+    "order_locked": 0,
+    "feedback": null,
+    "score": 0,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": "3ecc3b79-d182-11e4-8a55-123139092536",
+    "evaluate_user_response": 0,
+    "uuid": "3ec97dc7-d182-11e4-8a55-123139092536",
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2015-03-25 21:52:14"
+}

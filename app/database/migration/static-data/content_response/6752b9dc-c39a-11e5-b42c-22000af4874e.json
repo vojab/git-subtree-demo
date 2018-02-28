@@ -1,0 +1,20 @@
+{
+    "content_item_id": "665bb3f6-c39a-11e5-b42c-22000af4874e",
+    "name": "Me and my sales manager would like to meet with you to discuss the available options.",
+    "value": "Me and my sales manager would like to meet with you to discuss the available options.",
+    "order": 5,
+    "order_locked": 0,
+    "feedback": null,
+    "score": 0,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "6752b9dc-c39a-11e5-b42c-22000af4874e",
+    "created_at": "2015-08-12 22:10:20",
+    "updated_at": "2016-01-25 11:32:43"
+}

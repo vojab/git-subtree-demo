@@ -1,0 +1,17 @@
+{
+    "uuid": "d07207e0-9403-11e6-babe-a89802414180",
+    "content_item_id": "f056523d-65e7-11e4-b4ef-123139092536",
+    "content_passage_id": "765a14cc-9404-11e6-babe-a89802414180",
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "\u00bfCu\u00e1l de los eventos referidos al discurso del presidente Roosevelt sucedi\u00f3 \u00faltimo?          ",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "Cuando los bancos no pueden cumplir con las exigencias de los depositantes, el presidente Roosevelt anuncia un feriado bancario y los bancos cierran.",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

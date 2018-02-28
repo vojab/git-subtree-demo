@@ -1,0 +1,20 @@
+{
+    "content_item_id": "73bb158f-d17e-11e4-b41a-902b34691136",
+    "name": "<math>  <mtext>1&#x00A0;and<\/mtext><mo>&#x2212;<\/mo><mn>4<\/mn> <\/math>",
+    "value": "<math>  <mtext>1&#x00A0;and<\/mtext><mo>&#x2212;<\/mo><mn>4<\/mn> <\/math>",
+    "order": "5",
+    "order_locked": 0,
+    "feedback": null,
+    "score": 0,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "73e512a1-d17e-11e4-b41a-902b34691136",
+    "created_at": "2015-02-26 00:24:18",
+    "updated_at": "2015-03-25 21:59:52"
+}

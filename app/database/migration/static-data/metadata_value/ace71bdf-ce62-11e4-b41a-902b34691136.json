@@ -1,0 +1,11 @@
+{
+    "metadata_type_id": "3aed7e91-75a4-11e4-b41a-902b34691136",
+    "parent_metadata_value_id": null,
+    "code": "G-CO.7",
+    "description": "Use the definition of congruence in terms of rigid motions to show that two triangles are congruent if and only if corresponding pairs of sides and corresponding pairs of angles are congruent.",
+    "subject_area_id": null,
+    "uuid": "ace71bdf-ce62-11e4-b41a-902b34691136",
+    "created_at": "2015-06-15 19:04:51",
+    "updated_at": "2015-06-15 19:04:51",
+    "hidden": "0"
+}

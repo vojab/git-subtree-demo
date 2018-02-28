@@ -1,0 +1,20 @@
+{
+    "content_item_id": "665a2373-c39a-11e5-b42c-22000af4874e",
+    "name": "I sit at the table with my bowl of cereal, and I\u2019m barely able to keep still, and I wait for my dad to appear.",
+    "value": "I sit at the table with my bowl of cereal, and I\u2019m barely able to keep still, and I wait for my dad to appear.",
+    "order": 5,
+    "order_locked": 0,
+    "feedback": null,
+    "score": 0,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "674ff827-c39a-11e5-b42c-22000af4874e",
+    "created_at": "2015-07-21 16:25:44",
+    "updated_at": "2016-01-25 11:32:43"
+}

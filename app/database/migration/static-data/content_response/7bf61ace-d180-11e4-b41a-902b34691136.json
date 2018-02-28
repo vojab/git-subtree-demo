@@ -1,0 +1,20 @@
+{
+    "content_item_id": "7bc32cbf-d180-11e4-b41a-902b34691136",
+    "name": "Eating GM foods sounds unappetizing.",
+    "value": "Eating GM foods sounds unappetizing.",
+    "order": "5",
+    "order_locked": 0,
+    "feedback": null,
+    "score": 0,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "7bf61ace-d180-11e4-b41a-902b34691136",
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2015-03-25 22:00:19"
+}

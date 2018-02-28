@@ -1,0 +1,17 @@
+{
+    "uuid": "d0741ab2-9403-11e6-babe-a89802414180",
+    "content_item_id": "7474a854-2b51-11e5-890e-902b34691136",
+    "content_passage_id": null,
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "Un estudiante quiere obtener una calificaci\u00f3n final de al menos 70 en ingl\u00e9s <br>y matem\u00e1ticas. Seg\u00fan el\ngr\u00e1fico, \u00bfcu\u00e1l es la cantidad m\u00ednima <br>de tiempo de estudio semanal que debe usar un estudiante en cada materia?<\/br>",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "Los marcadores cuadrados son para ingl\u00e9s y los marcadores redondos son para matem\u00e1ticas.<br>\nEl primer marcador cuadrado en o encima de la l\u00ednea de puntos 70 est\u00e1 en 3 horas.<br>\nEl primer marcador redondo en o encima de la l\u00ednea de puntos 70 est\u00e1 en 5 horas.<\/br>\n<p><\/p>\n<b>3 horas para ingl\u00e9s, 5 horas para matem\u00e1ticas<\/b>",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

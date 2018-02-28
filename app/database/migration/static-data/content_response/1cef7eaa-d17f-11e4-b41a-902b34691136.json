@@ -1,0 +1,20 @@
+{
+    "content_item_id": "1c334c33-d17f-11e4-b41a-902b34691136",
+    "name": "Europa revolves seven and a half times around Jupiter in the time it takes Earth\u2019s moon to revolve once around the Earth.",
+    "value": "Europa revolves seven and a half times around Jupiter in the time it takes Earth\u2019s moon to revolve once around the Earth.",
+    "order": "5",
+    "order_locked": 0,
+    "feedback": null,
+    "score": 1,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "1cef7eaa-d17f-11e4-b41a-902b34691136",
+    "created_at": "2015-02-11 13:09:13",
+    "updated_at": "2015-03-25 21:55:00"
+}

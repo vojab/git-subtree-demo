@@ -1,0 +1,17 @@
+{
+    "uuid": "d07333f4-9403-11e6-babe-a89802414180",
+    "content_item_id": "8e0e5745-2583-11e5-aa6b-08606ee5c22f",
+    "content_passage_id": null,
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "\u00bfCu\u00e1l de los siguientes es un ejemplo de oferta y demanda?",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "La oferta y la demanda son dos fuerzas de un mercado econ\u00f3mico libre que ayudan a establecer el precio de un art\u00edculo. Si un juguete es popular, tiene una demanda alta. Si hay escasez, la oferta es baja. Estos factores trabajar\u00e1n juntos para aumentar el precio. La escasez de un juguete en particular significa una oferta baja y una demanda alta, y la ley de oferta y demanda dice que el precio del juguete subir\u00e1. Ninguna de las variables citadas en las respuestas incorrectas se relaciona con la ley de oferta y demanda.",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

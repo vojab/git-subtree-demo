@@ -1,0 +1,20 @@
+{
+    "content_item_id": "950a5eae-d180-11e4-b41a-902b34691136",
+    "name": "increase in the number of oil spills along the coastline",
+    "value": "increase in the number of oil spills along the coastline",
+    "order": "5",
+    "order_locked": 0,
+    "feedback": null,
+    "score": 0,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "953ab2ff-d180-11e4-b41a-902b34691136",
+    "created_at": "2015-02-09 19:36:34",
+    "updated_at": "2015-03-25 22:00:34"
+}

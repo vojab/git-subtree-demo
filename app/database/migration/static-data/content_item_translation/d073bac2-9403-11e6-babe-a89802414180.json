@@ -1,0 +1,19 @@
+{
+    "uuid": "d073bac2-9403-11e6-babe-a89802414180",
+    "content_item_id": "8673b5b9-2b51-11e5-890e-902b34691136",
+    "content_passage_id": null,
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "A la derecha hay un gr\u00e1fico de un sistema de dos<br> ecuaciones lineales. Haz clic en el gr\u00e1fico para <br>identificar la soluci\u00f3n de este sistema de ecuaciones. <br\/>\n<p><\/p> <math>\n  <mrow>\n   <mrow><mo>{<\/mo> <mtable columnalign='left'>\n    <mtr>\n     <mtd>\n      <mi>y<\/mi><mo>=<\/mo><mtext>2<\/mtext><mi>x<\/mi><mo>+<\/mo><mtext>2<\/mtext>\n     <\/mtd>\n    <\/mtr>\n    <mtr>\n     <mtd>\n      <mi>y<\/mi><mo>=<\/mo><mtext>8<\/mtext><mi>x<\/mi><mo>\u2212<\/mo><mtext>4<\/mtext>\n     <\/mtd>\n    <\/mtr>\n   <\/mtable>\n    <\/mrow>\n  <\/mrow>\n <\/math>",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "Para encontrar la soluci\u00f3n a un sistema de ecuaciones lineales gr\u00e1ficamente, debes encontrar d\u00f3nde se cruzan las dos l\u00edneas.\n<img src='\/uploads\/content-assets\/math-assessment-2\/es_217-Explanation.png' alt='Answer Explanation Image'>",
+    "intro_text": null,
+    "prefix": null,
+    "suffix": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

@@ -1,0 +1,19 @@
+{
+    "uuid": "d07366e4-9403-11e6-babe-a89802414180",
+    "content_item_id": "85fd2114-2b51-11e5-890e-902b34691136",
+    "content_passage_id": null,
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "Una tienda vendi\u00f3 200 fundas de tel\u00e9fonos celulares en abril. El gr\u00e1fico de c\u00edrculo muestra el <br>\nporcentaje de cada color vendido en ese mes. \u00bfCu\u00e1ntas fundas negras m\u00e1s <br>\nse vendieron que fundas azules?<\/br>\n<p><\/p>",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "Comienza calculando el n\u00famero de fundas negras y azules vendidas:\n<p><\/p>\n0.35(200) = 70 fundas negras\n<p><\/p>\n0.23(200) = 46 fundas azules\n<p><\/p>\nResta:\n<p><\/p>\n70 - 46 = 24\n<p><\/p>\n<b>En abril, se hab\u00edan vendido 24 fundas negras m\u00e1s que fundas azules.<\/b>",
+    "intro_text": null,
+    "prefix": null,
+    "suffix": "se vendieron m\u00e1s cubiertas negra",
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

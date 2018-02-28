@@ -1,0 +1,20 @@
+{
+    "content_item_id": "b77a6e92-8182-11e5-bc99-902b34691136",
+    "name": "yes, because he will share secrets with Dupin",
+    "value": "yes, because he will share secrets with Dupin",
+    "order": 6,
+    "order_locked": 0,
+    "feedback": null,
+    "score": 1,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "b8065b6c-8182-11e5-bc99-902b34691136",
+    "created_at": "2015-09-02 17:00:17",
+    "updated_at": "2015-11-02 17:12:21"
+}

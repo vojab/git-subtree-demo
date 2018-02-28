@@ -1,0 +1,17 @@
+{
+    "uuid": "d07332a0-9403-11e6-babe-a89802414180",
+    "content_item_id": "8e093d27-2583-11e5-aa6b-08606ee5c22f",
+    "content_passage_id": null,
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "\u00bfCu\u00e1les de las siguientes opiniones expresa la caricatura?",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "La vi\u00f1eta muestra un hombre abrumado con dos ni\u00f1os en su regazo y una mujer impaciente por salir de la casa. El mensaje es que una vez que las mujeres obtengan el voto, abandonar\u00e1n a sus hijos. Las respuestas incorrectas no abordan el punto principal de la vi\u00f1eta.",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

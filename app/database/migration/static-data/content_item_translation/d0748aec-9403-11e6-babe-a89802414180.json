@@ -1,0 +1,17 @@
+{
+    "uuid": "d0748aec-9403-11e6-babe-a89802414180",
+    "content_item_id": "7402879f-2b54-11e5-890e-902b34691136",
+    "content_passage_id": null,
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "<p style=\"font-weight:normal\">Los investigadores realizaron un experimento con una nueva droga para tratar un trastorno respiratorio. La prueba se realiz\u00f3 en un per\u00edodo de una semana.  Durante ese tiempo, trescientos participantes vivieron y durmieron en un entorno controlado y se los supervis\u00f3 de forma continua. A la mitad de los participantes no se les dio medicamento, sino que solo se los supervis\u00f3 como grupo de control. La otra mitad recibi\u00f3 tratamiento con el medicamento propuesto. Al final del estudio, el grupo experimental mostr\u00f3 una mejora del 12\u00a0% de la funci\u00f3n pulmonar sobre el grupo de control. Los investigadores concluyeron en que el medicamento es un tratamiento v\u00e1lido para el trastorno respiratorio.<\/p>\n\n<p>\u00bfCu\u00e1l de las siguientes ser\u00eda la principal mejora a este experimento?<\/p>",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "<p>El problema m\u00e1s grande con el experimento es que no es \u201cciego.\u201d Los participantes que saben que est\u00e1n recibiendo el tratamiento pueden ser v\u00edctimas del \u201cefecto placebo.\u201d Es decir, se sentir\u00e1n mejor porque creen que deben sentirse mejor. Si ni el grupo de control ni el grupo experimental saben qui\u00e9n est\u00e1 recibiendo el tratamiento, el efecto placebo tiene el mismo potencial de afectar a cualquier grupo, de este modo disminuy\u00e9ndolo como un factor. <\/p>\n",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

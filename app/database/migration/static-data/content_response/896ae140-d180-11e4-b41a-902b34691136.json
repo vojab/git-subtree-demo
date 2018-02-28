@@ -1,0 +1,20 @@
+{
+    "content_item_id": "890012c4-d180-11e4-b41a-902b34691136",
+    "name": "The tilt of the earth in relation to the sun",
+    "value": "The tilt of the earth in relation to the sun",
+    "order": "5",
+    "order_locked": 0,
+    "feedback": null,
+    "score": 1,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "896ae140-d180-11e4-b41a-902b34691136",
+    "created_at": "2015-02-09 14:47:31",
+    "updated_at": "2015-03-25 22:00:27"
+}

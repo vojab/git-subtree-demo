@@ -1,0 +1,20 @@
+{
+    "content_item_id": "b44c8bdc-d305-11e4-87e1-902b34691136",
+    "name": "Attending schools with white students.",
+    "value": "Attending schools with white students.",
+    "order": "5",
+    "order_locked": 0,
+    "feedback": null,
+    "score": 0,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "b4833ca9-d305-11e4-87e1-902b34691136",
+    "created_at": "2015-03-02 17:18:59",
+    "updated_at": "2015-03-25 15:43:23"
+}

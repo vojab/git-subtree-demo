@@ -1,0 +1,17 @@
+{
+    "uuid": "d075d73a-9403-11e6-babe-a89802414180",
+    "content_item_id": "05b25d6a-a025-11e4-b41a-902b34691136",
+    "content_passage_id": "765b2d94-9404-11e6-babe-a89802414180",
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "\u00bfC\u00f3mo respalda la informaci\u00f3n de la Figura 2 los hallazgos del pasaje?",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "Responder esta pregunta requiere de una comprensi\u00f3n del punto principal del pasaje y luego de una comparaci\u00f3n entre los hallazgos y los resultados del gr\u00e1fico.",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

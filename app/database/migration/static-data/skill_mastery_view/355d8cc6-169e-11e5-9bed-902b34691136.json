@@ -1,0 +1,10 @@
+{
+    "name": "TASC Reading Targets",
+    "order": 3,
+    "associated_metadata_type_id": "f0a0cceb-75a3-11e4-b41a-902b34691136",
+    "hidden": 0,
+    "default_course_id": "705a998c-3e0d-11e4-b41a-902b34691136",
+    "uuid": "355d8cc6-169e-11e5-9bed-902b34691136",
+    "created_at": "2015-06-19 16:06:08",
+    "updated_at": "2017-03-02 13:42:23"
+}

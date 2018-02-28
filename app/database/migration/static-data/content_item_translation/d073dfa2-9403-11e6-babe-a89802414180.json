@@ -1,0 +1,17 @@
+{
+    "uuid": "d073dfa2-9403-11e6-babe-a89802414180",
+    "content_item_id": "869c7023-2b51-11e5-890e-902b34691136",
+    "content_passage_id": null,
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "Seg\u00fan el C\u00f3digo Nacional de Construcci\u00f3n, una rampa para silla de ruedas no<br>\npuede superar una pendiente de 1\/12. <br>\nPara el dise\u00f1o de la rampa para silla de ruedas mostrado, \u00bfqu\u00e9 desigualdad<br>\nrepresenta las longitudes posibles para <i>m<\/i>?<\/br>",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "<math>\n <mtable columnalign='left'>\n  <mtr>\n   <mtd>\n    <mtext>La&#x00A0;pendiente&#x00A0;de&#x00A0;la&#x00A0;rampa para&#x00A0;sillas de rueda&#x00A0;no puede&#x00A0;<\/mtext>\n   <\/mtd>\n  <\/mtr>\n  <mtr>\n   <mtd>\n    <mtext>exceder&#x00A0;<\/mtext><mfrac>\n     <mn>1<\/mn>\n     <mrow>\n      <mn>12<\/mn><\/mrow>\n    <\/mfrac>\n    <mo>.<\/mo><mtext>&#x00A0;Escribe&#x00A0;esto&#x00A0;como&#x00A0;una&#x00A0;desigualdad&#x00A0;<\/mtext>\n   <\/mtd>\n  <\/mtr>\n  <mtr>\n   <mtd>\n    <mtext>y&#x00A0;resuelve:<\/mtext>\n   <\/mtd>\n  <\/mtr>\n  <mtr>\n   <mtd>\n    <mrow><\/mrow>\n   <\/mtd>\n  <\/mtr>\n  <mtr>\n   <mtd>\n    <mfrac>\n     <mn>4<\/mn>\n     <mi>m<\/mi>\n    <\/mfrac>\n    <mo>&#x2264;<\/mo><mfrac>\n     <mn>1<\/mn>\n     <mrow>\n      <mn>12<\/mn><\/mrow>\n    <\/mfrac>\n    <mtext>&#x00A0;<\/mtext><mo>&#x2192;<\/mo><mtext>&#x00A0;<\/mtext><mn>4<\/mn><mo stretchy='false'>(<\/mo><mn>12<\/mn><mo stretchy='false'>)<\/mo><mo>&#x2264;<\/mo><mi>m<\/mi><mo stretchy='false'>(<\/mo><mn>1<\/mn><mo stretchy='false'>)<\/mo><mtext>&#x00A0;<\/mtext><mo>&#x2192;<\/mo><mtext>&#x00A0;<\/mtext><mn>48<\/mn><mo>&#x2264;<\/mo><mi>m<\/mi><mtext>&#x00A0;<\/mtext><mo>&#x2192;<\/mo><mtext>&#x00A0;<\/mtext><mi>m<\/mi><mo>&#x2265;<\/mo><mn>48<\/mn>\n   <\/mtd>\n  <\/mtr>\n <\/mtable>\n \n<\/math>\n",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

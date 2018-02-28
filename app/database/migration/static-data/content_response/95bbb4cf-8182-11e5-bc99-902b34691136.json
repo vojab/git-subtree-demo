@@ -1,0 +1,20 @@
+{
+    "content_item_id": "955cf305-8182-11e5-bc99-902b34691136",
+    "name": "The climate in Europe would heat up rapidly, and Hopedale could become as warm as Stornoway.",
+    "value": "The climate in Europe would heat up rapidly, and Hopedale could become as warm as Stornoway.",
+    "order": 6,
+    "order_locked": 0,
+    "feedback": null,
+    "score": 0,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "95bbb4cf-8182-11e5-bc99-902b34691136",
+    "created_at": "2015-08-31 11:26:57",
+    "updated_at": "2015-11-02 17:11:11"
+}

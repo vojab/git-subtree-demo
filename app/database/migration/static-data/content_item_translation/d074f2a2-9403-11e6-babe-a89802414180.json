@@ -1,0 +1,17 @@
+{
+    "uuid": "d074f2a2-9403-11e6-babe-a89802414180",
+    "content_item_id": "6be0b14f-dee4-11e5-9186-22000af4874e",
+    "content_passage_id": null,
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "<span style=\"font-weight:normal;\">Las econom\u00edas se pueden categorizar en cuatro tipos diferentes: tradicional, de mercado, dirigida y mixta. Distintas partes de la sociedad toman las decisiones econ\u00f3micas en los diferentes tipos de econom\u00eda. Pueden ser las personas, los gobiernos, o las empresas y los consumidores los que tomen las decisiones econ\u00f3micas.<\/span>\n<p><\/p>\nUne cada declaraci\u00f3n con la econom\u00eda correcta del men\u00fa desplegable.\n<p><\/p>\n<span style=\"font-weight:normal;\">El gobierno central planea producir 2.5 millones de autos el pr\u00f3ximo a\u00f1o.<\/span><br>\n![dropdown:Drop_Down_3196_264]\n<br>\n<span style=\"font-weight:normal;\">Los hombres de una tribu africana trasladan su ganado a una mejor \u00e1rea de pastoreo.<\/span><br>\n![dropdown:Drop_Down_3196_265]\n<br>\n<span style=\"font-weight:normal;\">Los consumidores de un pa\u00eds tienen la libertad de elegir entre infinitos bienes y servicios.<\/span><br>\n![dropdown:Drop_Down_3196_266]\n<br>\n<span style=\"font-weight:normal;\">El gobierno central decide reducir los impuestos de todos los autos importados a un pa\u00eds.<\/span><br>\n![dropdown:Drop_Down_3196_267]",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "Los gobiernos indicaban cu\u00e1nto producir en econom\u00edas dirigidas. Las econom\u00edas tradicionales est\u00e1n formadas por actividad econ\u00f3mica \u201ctradicional\u201d, como el pastoreo de ganado. Las econom\u00edas de mercado se caracterizan por opciones ilimitadas para casi todos los productos. En una econom\u00eda mixta, el gobierno \u201cmaneja\u201d las decisiones econ\u00f3micas con ciertas acciones, como impuestos a las importaciones.",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

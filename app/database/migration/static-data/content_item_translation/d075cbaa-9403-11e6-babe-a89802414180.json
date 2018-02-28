@@ -1,0 +1,17 @@
+{
+    "uuid": "d075cbaa-9403-11e6-babe-a89802414180",
+    "content_item_id": "02e3e83a-a025-11e4-b41a-902b34691136",
+    "content_passage_id": "765b2b82-9404-11e6-babe-a89802414180",
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "\u00bfC\u00f3mo cambiar\u00eda el significado y el tono del primer p\u00e1rrafo si la \u00faltima oraci\u00f3n \"Se pavoneaban\" se volviera a escribir como \"Estaban orgullosos\"?",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "\"Pavonear\" es un verbo activo que muestra c\u00f3mo se sent\u00eda Henry. \"Estaban orgullosos\" no describe una imagen v\u00edvida.",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

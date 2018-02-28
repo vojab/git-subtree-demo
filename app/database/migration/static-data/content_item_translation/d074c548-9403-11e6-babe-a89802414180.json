@@ -1,0 +1,17 @@
+{
+    "uuid": "d074c548-9403-11e6-babe-a89802414180",
+    "content_item_id": "6b466038-dee4-11e5-9186-22000af4874e",
+    "content_passage_id": null,
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "Seg\u00fan este recorte de peri\u00f3dico, \u00bfcu\u00e1l es el mejor resumen del mensaje de guerra del presidente Wilson?",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "El recorte del peri\u00f3dico establece con claridad que el presidente Wilson llam\u00f3 a una guerra contra el \u201cgobierno alem\u00e1n imperial\u201d, no contra la gente de Alemania. A pesar de que Alemania oblig\u00f3 de cierta forma a Wilson a tomar la decisi\u00f3n de ir a la guerra, este hecho no se menciona en el recorte.\n",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

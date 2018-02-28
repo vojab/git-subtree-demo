@@ -1,0 +1,10 @@
+{
+    "product_id": 5,
+    "content_item_id": 548,
+    "translation_id": 1,
+    "uuid": "42a3397e-9404-11e6-babe-a89802414180",
+    "title": "Prueba Pr\u00e1ctica de Lenguaje 2",
+    "intro_text": "<h1>Lenguaje<\/h1> <p>Bienvenido a la prueba de pr\u00e1ctica de lenguaje.<\/p> <p>Tienes 30 minutos para completar la prueba. Hay 15 preguntas. El objetivo es brindar una pr\u00e1ctica de los tipos de preguntas que ver\u00e1s en la prueba GED<sup>\u00ae<\/sup> y ayudarnos a entender qu\u00e9 necesitas repasar para la prueba.<\/p> <p>Si no est\u00e1s seguro de la respuesta, haz clic en \u201cVer la pregunta m\u00e1s tarde\u201d para regresar a la pregunta en otro momento. Intenta responder cada pregunta.<\/p> <p>\u00a1Rel\u00e1jate y da lo mejor de ti!<\/p>",
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:54:30"
+}

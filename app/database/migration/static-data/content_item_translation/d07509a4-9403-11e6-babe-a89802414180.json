@@ -1,0 +1,17 @@
+{
+    "uuid": "d07509a4-9403-11e6-babe-a89802414180",
+    "content_item_id": "660bd416-2b54-11e5-890e-902b34691136",
+    "content_passage_id": "765ab0c6-9404-11e6-babe-a89802414180",
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "\u00bfCu\u00e1l es la mejor conclusi\u00f3n de la tabla de datos sobre el color de los grillos?",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "Los datos muestran un aumento en los grillos de tono oscuro y una disminuci\u00f3n en los grillos de tono claro que comienzan en el a\u00f1o 3. Un cambio, tal vez en el ambiente, que favoreci\u00f3 m\u00e1s a la coloraci\u00f3n de tono oscuro alrededor de ese per\u00edodo es posible que haya causado un cambio en el porcentaje de los grillos de tono claro y de tono oscuro.",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

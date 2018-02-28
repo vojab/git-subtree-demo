@@ -1,0 +1,17 @@
+{
+    "uuid": "d075b6d8-9403-11e6-babe-a89802414180",
+    "content_item_id": "2f7fc8f6-dee4-11e5-9186-22000af4874e",
+    "content_passage_id": "765b23ee-9404-11e6-babe-a89802414180",
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "\u00bfCu\u00e1l es el rango matem\u00e1tico de las muertes totales de las Potencias del Eje?",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "El rango es la diferencia entre el n\u00famero m\u00e1s alto y el m\u00e1s bajo de un conjunto de datos. Para las Potencias del Eje, el mayor n\u00famero de muertes es 4,200,000. El n\u00famero m\u00e1s bajo de muertes es 410,000. La diferencia entre ellos es 3,790,000.",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

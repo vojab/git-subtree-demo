@@ -1,0 +1,20 @@
+{
+    "content_item_id": "a4e1739b-d180-11e4-b41a-902b34691136",
+    "name": "Water is liquid above 100\u00ba Celsius.",
+    "value": "Water is liquid above 100\u00ba Celsius.",
+    "order": "5",
+    "order_locked": 0,
+    "feedback": null,
+    "score": 0,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "a50a2a12-d180-11e4-b41a-902b34691136",
+    "created_at": "2015-02-10 19:10:21",
+    "updated_at": "2015-03-25 22:00:51"
+}

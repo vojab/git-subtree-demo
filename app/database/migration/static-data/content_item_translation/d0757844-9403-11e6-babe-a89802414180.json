@@ -1,0 +1,17 @@
+{
+    "uuid": "d0757844-9403-11e6-babe-a89802414180",
+    "content_item_id": "539c0d01-d182-11e4-8a55-123139092536",
+    "content_passage_id": "765b051c-9404-11e6-babe-a89802414180",
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "<p>\u00bfCu\u00e1l es la mejor forma de completar el espacio en blanco 1?<\/p>\n\n<span style=\"font-weight: normal;\" >En el Senado de Estados Unidos, el filibusterismo es un discurso largo de un senador o un grupo de senadores que no puede detenerse a menos que 60 senadores<\/span> ![dropdown:Drop_Down_549_59] <span style=\"font-weight: normal;\" >el debate.<\/span>",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "La respuesta correcta es \u201cvoten para finalizar.\u201d La oraci\u00f3n deber\u00eda decir: \u201cEn el Senado de Estados Unidos, el filibusterismo es un discurso largo de un senador o un grupo de senadores, que no puede detenerse a menos que 60 senadores voten para finalizar el debate.\u201d The words \u201cto,\u201d \u201ctoo,\u201d and \u201ctwo\u201d are commonly confused, since they sound the same. The word \u201ctoo\u201d means \u201calso,\u201d and the word \u201ctwo\u201d means the number 2. Both are inappropriate in this sentence. The correct word is \"to.\" The word \u201cand\u201d is also inappropriate; the sentence is talking about ending a debate. Debe decir \"voten para finalizar el debate.\"",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

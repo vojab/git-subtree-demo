@@ -1,0 +1,17 @@
+{
+    "uuid": "d072ba50-9403-11e6-babe-a89802414180",
+    "content_item_id": "905d6a78-2b51-11e5-890e-902b34691136",
+    "content_passage_id": null,
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "<math>\n <mrow>\n  <mtext>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0<\/mtext><mn>2<\/mn><mo stretchy='false'>(<\/mo><mn>2<\/mn><mi>x<\/mi><mo>\u2212<\/mo><mn>5<\/mn><mo stretchy='false'>)<\/mo><mo>=<\/mo><mn>3<\/mn><mi>x<\/mi><mo>+<\/mo><mi>x<\/mi><mo>\u2212<\/mo><mn>2<\/mn><mi>x<\/mi><\/mrow>\n<\/math>\n<p><\/p>\n<b>\u00bfCu\u00e1l es la soluci\u00f3n de la ecuaci\u00f3n?<\/b>\n<p><\/p>\n",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "Primero, simplifica cada lado de la ecuaci\u00f3n. Luego, resuelve para <i>x<\/i>:\n<p><\/p>\n<math>\n <mtable>\n  <mtr>\n   <mtd>\n    <mn>2<\/mn><mo stretchy='false'>(<\/mo><mn>2<\/mn><mi>x<\/mi><mo>\u2212<\/mo><mn>5<\/mn><mo stretchy='false'>)<\/mo><mo>=<\/mo><mn>3<\/mn><mi>x<\/mi><mo>+<\/mo><mi>x<\/mi><mo>\u2212<\/mo><mn>2<\/mn><mi>x<\/mi>\n   <\/mtd>\n  <\/mtr>\n  <mtr>\n   <mtd>\n    <mn>4<\/mn><mi>x<\/mi><mo>\u2212<\/mo><mn>10<\/mn><mo>=<\/mo><mn>2<\/mn><mi>x<\/mi>\n   <\/mtd>\n  <\/mtr>\n  <mtr>\n   <mtd>\n    <mn>4<\/mn><mi>x<\/mi><mo>=<\/mo><mn>2<\/mn><mi>x<\/mi><mo>+<\/mo><mn>10<\/mn>\n   <\/mtd>\n  <\/mtr>\n  <mtr>\n   <mtd>\n    <mn>2<\/mn><mi>x<\/mi><mo>=<\/mo><mn>10<\/mn>\n   <\/mtd>\n  <\/mtr>\n  <mtr>\n   <mtd>\n    &t\u00a6;x&t\u00a7;&t\u00a8;=&t\u00a9;&t\u00aa;5&t\u00ab;&t\u00ac;   &t\u00ad;&t\u00ae;  &t\u00af;&t\u00b0; &t\u00b1;&t\u00b2; &t\u00b3;&t\u00b4;&t\u00b5;",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

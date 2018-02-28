@@ -1,0 +1,17 @@
+{
+    "uuid": "d07571f0-9403-11e6-babe-a89802414180",
+    "content_item_id": "59dde88e-d182-11e4-8a55-123139092536",
+    "content_passage_id": "765ae7f8-9404-11e6-babe-a89802414180",
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "<p>\u00bfCu\u00e1l es la mejor forma de completar el espacio en blanco 9?<\/p>\n\n<span style=\"font-weight: normal;\" >Los movimientos repetitivos como<\/span> ![dropdown:Drop_Down_700_81] <span style=\"font-weight: normal;\" >son comunes en ni\u00f1os con TEA.<\/span>",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "La respuesta correcta es \"mecerse o torcerse.\" La oraci\u00f3n deber\u00eda decir: \u201cLos movimientos repetitivos como mecerse o torcerse son comunes en ni\u00f1os con TEA.\u201d Las palabras \u201cmecerse\u201d y \u201ctorcerse\u201d no son sustantivos propios y no deben escribirse con may\u00fascula.",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

@@ -1,0 +1,17 @@
+{
+    "uuid": "d07218ca-9403-11e6-babe-a89802414180",
+    "content_item_id": "f2afdebb-65e7-11e4-b4ef-123139092536",
+    "content_passage_id": "765a1788-9404-11e6-babe-a89802414180",
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "En el p\u00e1rrafo cinco, el narrador dice sobre Daisy que \"Su rostro era triste y bello con brillos en \u00e9l, ojos brillantes y una boca apasionada e intensa. . . .\" Seg\u00fan este pasaje, \u00bfqu\u00e9 declaraci\u00f3n sobre Daisy es m\u00e1s precisa?",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "El autor yuxtapone el aspecto \"brillante\" de Daisy con la mirada \"triste\" en su cara y as\u00ed se genera la pregunta: \"\u00bfDaisy es realmente feliz?\" Las respuestas incorrectas no tienen en cuenta que Daisy parec\u00eda \"triste.\"",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

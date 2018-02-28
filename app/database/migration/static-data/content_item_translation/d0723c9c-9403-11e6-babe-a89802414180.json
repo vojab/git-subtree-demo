@@ -1,0 +1,17 @@
+{
+    "uuid": "d0723c9c-9403-11e6-babe-a89802414180",
+    "content_item_id": "9c0d233c-2b51-11e5-890e-902b34691136",
+    "content_passage_id": null,
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "La calificaci\u00f3n promedio de tarea de Adam, que equivale al 40\u00a0% de su calificaci\u00f3n, es de 76\u00a0%. <br>\nSu calificaci\u00f3n promedio de prueba de unidad, que equivale a otro 40\u00a0%, fue 81\u00a0%. El <br>\nfinal suma el resto de su calificaci\u00f3n total. \u00bfCu\u00e1l es el <br>\nn\u00famero m\u00ednimo de preguntas que necesita responder correctamente en el <br>\nexamen final de 50 preguntas para obtener una B (80\u00a0%) en la clase?<\/br>",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "Esto se llama un promedio ponderado. La suma de todos los promedios ponderados de los puntajes de Adam ser\u00e1n 80. Hagamos que <i>x<\/i> sea su puntaje al final, el cual puedes ver que vale \n\n<math>\n\u00a0<mrow> <mn>100<\/mn><mo>\u2212<\/mo><mn>40<\/mn><mo>\u2212<\/mo><mn>40<\/mn><mo>=<\/mo><mn>20<\/mn><mi>%<\/mi><\/mrow>\n<\/math> de su puntaje. Escribe y resuelve una ecuaci\u00f3n.<br\/>\n\n<math> \u00a0<mtable> \u00a0\u00a0<mtr> \u00a0\u00a0\u00a0<mtd> \u00a0\u00a0\u00a0\u00a0<mn>.4<\/mn><mrow><mo>(<\/mo>\n\u00a0\u00a0\u00a0\u00a0\u00a0<mrow> \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0<mn>76<\/mn><\/mrow> \u00a0\u00a0\u00a0\u00a0<mo>)<\/mo><\/mrow><mo>+<\/mo><mn>.4<\/mn><mrow><mo>(<\/mo>\n\u00a0\u00a0\u00a0\u00a0\u00a0<mrow> \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0<mn>81<\/mn><\/mrow> \u00a0\u00a0\u00a0\u00a0<mo>)<\/mo><\/mrow><mo>+<\/mo><mn>.2<\/mn><mi>x<\/mi><mo>=<\/mo><mn>80<\/mn>\n\u00a0\u00a0\u00a0<\/mtd> \u00a0\u00a0<\/mtr> \u00a0\u00a0<mtr> \u00a0\u00a0\u00a0<mtd> \u00a0\u00a0\u00a0\u00a0<mn>30.4<\/mn><mo>+<\/mo><mn>32.4<\/mn><mo>+<\/mo><mn>.2<\/mn><mi>x<\/mi><mo>=<\/mo><mn>80<\/mn>\n\u00a0\u00a0\u00a0<\/mtd> \u00a0\u00a0<\/mtr> \u00a0\u00a0<mtr> \u00a0\u00a0\u00a0<mtd> \u00a0\u00a0\u00a0\u00a0<mn>.2<\/mn><mi>x<\/mi><mo>=<\/mo><mn>17.2<\/mn>\n\u00a0\u00a0\u00a0<\/mtd> \u00a0\u00a0<\/mtr> \u00a0\u00a0<mtr> \u00a0\u00a0\u00a0<mtd> \u00a0\u00a0\u00a0\u00a0<mi>x<\/mi><mo>=<\/mo><mn>86<\/mn>\n\u00a0\u00a0\u00a0<\/mtd> \u00a0\u00a0<\/mtr> \u00a0<\/mtable> \u00a0\n\n<\/math> \n<br\/> Entonces, necesita un 86\u00a0%, es decir, 86 de 100 preguntas. Debido a que hay solo 50 preguntas, divide por 2. Adam debe responder 43 preguntas de forma correcta para obtener una B.",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}

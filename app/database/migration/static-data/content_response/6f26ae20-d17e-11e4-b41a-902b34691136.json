@@ -1,0 +1,20 @@
+{
+    "content_item_id": "6eff40ae-d17e-11e4-b41a-902b34691136",
+    "name": "<math>  <mtext>They&#x00A0;are&#x00A0;not&#x00A0;in&#x00A0;the&#x00A0;same&#x00A0;plane<\/mtext> <\/math>",
+    "value": "<math>  <mtext>They&#x00A0;are&#x00A0;not&#x00A0;in&#x00A0;the&#x00A0;same&#x00A0;plane<\/mtext> <\/math>",
+    "order": "5",
+    "order_locked": 0,
+    "feedback": null,
+    "score": 0,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "6f26ae20-d17e-11e4-b41a-902b34691136",
+    "created_at": "2015-02-25 12:16:46",
+    "updated_at": "2015-03-25 21:59:52"
+}

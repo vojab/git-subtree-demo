@@ -1,0 +1,20 @@
+{
+    "content_item_id": "cea422dd-d17e-11e4-b41a-902b34691136",
+    "name": "to explain banking to the public",
+    "value": "to explain banking to the public",
+    "order": "5",
+    "order_locked": 0,
+    "feedback": null,
+    "score": 0,
+    "content_comparison_type_id": null,
+    "graph_line_id": null,
+    "max_x": null,
+    "max_y": null,
+    "min_x": null,
+    "min_y": null,
+    "dropdown_id": null,
+    "evaluate_user_response": 0,
+    "uuid": "ced0a99d-d17e-11e4-b41a-902b34691136",
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2015-03-25 22:05:38"
+}

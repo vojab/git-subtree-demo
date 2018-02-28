@@ -1,0 +1,17 @@
+{
+    "uuid": "d075b750-9403-11e6-babe-a89802414180",
+    "content_item_id": "2f8675d6-dee4-11e5-9186-22000af4874e",
+    "content_passage_id": "765b2470-9404-11e6-babe-a89802414180",
+    "translation_id": "44c2d844-9405-11e6-babe-a89802414180",
+    "name": "",
+    "title": "",
+    "prompt": "\u00bfQu\u00e9 evidencia de la gr\u00e1fica respalda mejor la conclusi\u00f3n de que los civiles de la Uni\u00f3n Sovi\u00e9tica se llevaron la peor parte durante la Segunda Guerra Mundial?",
+    "description": null,
+    "hint": null,
+    "directions": null,
+    "feedback": "La informaci\u00f3n del gr\u00e1fico muestra claramente que las muertes de civiles sovi\u00e9ticos fueron el mayor n\u00famero de todos los pa\u00edses enumerados. En la Uni\u00f3n Sovi\u00e9tica hubo m\u00e1s de 10 millones de muertes de civiles en la Segunda Guerra Mundial. El total de civiles m\u00e1s pr\u00f3ximo enumerado es Alemania con 700,000.",
+    "intro_text": null,
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "2016-10-17 07:51:18",
+    "deleted_at": null
+}
